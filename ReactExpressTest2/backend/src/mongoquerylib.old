@@ -1,0 +1,99 @@
+import mongoose, {
+    Schema
+} from 'mongoose';
+
+export default class mongoQueryLib {
+
+    constructor(connectionString){
+        this.connectMongo(connectionString);
+    }
+    connectMongo(connectionString) {
+        mongoose.connect(connectionString, {
+            useNewUrlParser: true,
+            poolSize: 2,
+            promiseLibrary: global.Promise
+        });
+        const db = mongoose.connection;
+        db.on('error', console.error.bind(console, 'connection error:'));
+        db.once('open', function () {
+            console.log('we\'re connected to Mongo!');
+        });
+
+    }
+
+    insertData(collectionName,collectionSchema, collection,data) {
+        return new Promise((resolve, reject) => {
+            const queryModal = new mongoose.model(collectionName, collectionSchema, collection);
+            const collektion = new queryModal(data);
+            collektion.save((err,res)=>{
+                if(err) reject(err);
+                resolve('saved');
+            })
+
+        });
+    }
+
+    getData(collectionName, collectionSchema, collection) {
+        return new Promise((resolve, reject) => {
+            const queryModal = new mongoose.model(collectionName, collectionSchema, collection);
+            queryModal.find((err, collection) => {
+                if (err) reject(err);
+                resolve(collection)
+            });
+        });
+    }
+
+    getDatabyId(collectionName, collectionSchema, collection,Id) {
+        return new Promise((resolve, reject) => {
+            const queryModal = new mongoose.model(collectionName, collectionSchema, collection);
+            queryModal.findById(Id,(err, collection) => {
+                if (err) reject(err);
+                resolve(collection)
+            });
+        });
+    }
+
+    /*db.sideservices.update(
+        {'_id': ObjectId("5c63f4a33672504f5ea523d2")}, 
+        { $pull: { "providers" : { "_id" : ObjectId("5c63f4a33672504f5ea523d4") } } },
+    false,
+    true 
+    );*/
+    deleteObjectInArray(collectionName, collectionSchema, collection,Id) {
+        return new Promise((resolve, reject) => {
+            const queryModal = new mongoose.model(collectionName, collectionSchema, collection);
+            queryModal.update(condition,{$pull:update},{multi:true},(err,result) => {
+                if (err) {
+                    reject(err);
+                    console.log(err);
+                }
+                console.log(result);
+                resolve(result)
+            });
+        });
+    }
+    
+    deleteDatabyId(collectionName, collectionSchema, collection,Id) {
+        return new Promise((resolve, reject) => {
+            const queryModal = new mongoose.model(collectionName, collectionSchema, collection);
+            queryModal.findByIdAndRemove(Id,(err, res) => {
+                if (err) reject(err);
+                resolve(res)
+            });
+        });
+    }
+    updateData(collectionName, collectionSchema, collection,condition,update) {
+		return new Promise((resolve, reject) => {
+            const queryModal = new mongoose.model(collectionName,collectionSchema,collection);
+			queryModal.update(condition,{$set:update},{multi:true},(err,result) => {
+                if (err) {
+                    reject(err);
+                    console.log(err);
+                }
+                console.log(result);
+                resolve(result)
+            });
+        });
+    }
+
+}

@@ -1,0 +1,26 @@
+
+
+/*
+Write a function countBs that takes a string as its only argument and returns a number 
+that indicates how many uppercase “B” characters there are in the string.*/
+
+let myString = (prompt("your string")); // ask for a string
+let myChar=(prompt("char to search for?")); // ask for a specific charachter
+let stLe=(myString.length); // calculates the length of the string 
+let counter = 0
+
+console.log (myString);
+console.log (myString [myChar]);
+console.log(stLe);
+
+
+for (i=0; i<=stLe; i++) { 
+	console.log(i);
+	let scan = myString.charAt(i);
+	console.log(scan);
+	if (scan == myChar) {counter++};
+
+}
+
+console.log("I have found " + counter + " " + myChar);
+

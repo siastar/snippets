@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box; /* the asterisk applies the style declarations to all the page*/
+}
+
+.flexUpperBar { /*this is the general box which contains logo and main pages link list*/
+  display: flex;
+  padding:10px;  
+  height: 200px;
+  width: 100%;  
+  background-color: DodgerBlue;
+}
+
+
+.logo { /*this is the proper box which contains logo* in the upperbar*/
+	display: flex;	
+	background-color: yellow;	
+	margin: auto;
+	padding: 15px;
+	font-size: 30px;
+	
+}
+
+.navBar { /*this is the proper box which contains upperbar links*/	
+	color: white;
+	background-color: black;
+	margin-left: auto;
+	padding: 4px;
+	font-size: 30px;
+	a	
+}
+
+.navLinks > a { /*this defines the links contained in the navBar by picking them by (link ->a) in this case)*/
+  color: black;	
+  background-color: pink;
+  margin-left: auto; /*this  automatically push the links on the left and makes them stack when the display is reduced*/
+  padding: 4px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 20px;
+}
+
+/* style standard objects*/

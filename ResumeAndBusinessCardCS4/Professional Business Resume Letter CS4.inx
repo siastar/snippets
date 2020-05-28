@@ -1,0 +1,1274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="33" type="document" DOMVersion="6.0" readerVersion="5.0" featureSet="257" product="6.0(352)" ?>
+<docu stls="y_a_o_u13b_o_u3a8_o_u3d4_o_u400_o_u434_o_u44a_o_u460_o_u17d_o_u3ea_o_u83" zero="x_2_U_394.74975_U_792" pacl="o_u132" DCcp="c_U.S. Web Coated (SWOP) v2" DCrp="c_sRGB IEC61966-2.1" DCci="e_RIcs" DCbi="e_RIcs" DCii="e_RIcs" CSrp="e_CPpp" CScp="e_CPpd" DCsa="b_f" Self="rc_d">
+	<lang pnam="rk_English: USA" lsqu="c_‘’" ldqu="c_“”" pril="rk_English" subl="rk_USA" ID="rl_10d" lhyv="c_Proximity" lspv="c_Proximity" Self="rc_u3a"/>
+	<lang pnam="rk_English: UK" lsqu="c_‘’" ldqu="c_“”" pril="rk_English" subl="rk_UK" ID="rl_20d" lhyv="c_Proximity" lspv="c_Proximity" Self="rc_u40"/>
+	<lang pnam="rk_Finnish" lsqu="c_’’" ldqu="c_””" pril="rk_Finnish" subl="rk_" ID="rl_111" lhyv="c_Proximity" lspv="c_Proximity" Self="rc_u48"/>
+	<colr clmd="e_prss" clsp="e_CMYK" clvl="x_4_D_0_D_0_D_0_D_100" ovrd="e_eOvB" atcs="e_nasp" atvl="x_0" pnam="c_Black" edbl="b_f" rmbl="b_f" pvis="b_t" swID="l_1f01" Self="rc_ub"/>
+	<colr clmd="e_prss" clsp="e_CMYK" clvl="x_4_D_100_D_0_D_0_D_0" ovrd="e_eOvH" atcs="e_nasp" atvl="x_0" pnam="c_Cyan" edbl="b_f" rmbl="b_f" pvis="b_f" swID="l_1f01" Self="rc_uc"/>
+	<colr clmd="e_prss" clsp="e_CMYK" clvl="x_4_D_0_D_100_D_0_D_0" ovrd="e_eOvH" atcs="e_nasp" atvl="x_0" pnam="c_Magenta" edbl="b_f" rmbl="b_f" pvis="b_f" swID="l_1f01" Self="rc_ud"/>
+	<colr clmd="e_prss" clsp="e_CMYK" clvl="x_4_D_0_D_0_D_0_D_0" ovrd="e_eOvP" atcs="e_nasp" atvl="x_0" pnam="c_Paper" edbl="b_t" rmbl="b_f" pvis="b_t" swID="l_1f01" Self="rc_uf"/>
+	<colr clmd="e_regs" clsp="e_CMYK" clvl="x_4_D_100_D_100_D_100_D_100" ovrd="e_eOvR" atcs="e_nasp" atvl="x_0" pnam="c_Registration" edbl="b_f" rmbl="b_f" pvis="b_t" swID="l_1f01" Self="rc_u10"/>
+	<colr clmd="e_prss" clsp="e_CMYK" clvl="x_4_D_0_D_0_D_100_D_0" ovrd="e_eOvH" atcs="e_nasp" atvl="x_0" pnam="c_Yellow" edbl="b_f" rmbl="b_f" pvis="b_f" swID="l_1f01" Self="rc_u11"/>
+	<colr clmd="e_prss" clsp="e_CMYK" clvl="x_4_D_50_D_0_D_0_D_89.99999761581421" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="c_head" edbl="b_t" rmbl="b_t" pvis="b_t" swID="l_1f01" Self="rc_uc0"/>
+	<colr clmd="e_prss" clsp="e_CMYK" clvl="x_4_D_100_D_0_D_0_D_15.999999642372131" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="c_head~sep~line" edbl="b_t" rmbl="b_t" pvis="b_t" swID="l_1f01" Self="rc_ube"/>
+	<colr clmd="e_prss" clsp="e_CMYK" clvl="x_4_D_95_D_74_D_54_D_71" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="c_sidebar~sep~background" edbl="b_t" rmbl="b_t" pvis="b_t" swID="l_1f01" Self="rc_ub8"/>
+	<colr clmd="e_prss" clsp="e_CMYK" clvl="x_4_D_0_D_0_D_0_D_0" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="k_" edbl="b_t" rmbl="b_t" pvis="b_f" swID="l_1f01" Self="rc_u6f"/>
+	<colr clmd="e_prss" clsp="e_CMYK" clvl="x_4_D_0_D_0_D_0_D_100" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="k_" edbl="b_t" rmbl="b_t" pvis="b_f" swID="l_1f01" Self="rc_u71"/>
+	<colr clmd="e_prss" clsp="e_CMYK" clvl="x_4_D_0_D_0_D_0_D_0" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="c_" edbl="b_t" rmbl="b_t" pvis="b_f" swID="l_1f01" Self="rc_ud5"/>
+	<colr clmd="e_prss" clsp="e_CMYK" clvl="x_4_D_0_D_0_D_0_D_0" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="c_" edbl="b_t" rmbl="b_t" pvis="b_f" swID="l_1f01" Self="rc_ue0"/>
+	<colr clmd="e_prss" clsp="e_CMYK" clvl="x_4_D_0_D_0_D_0_D_0" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="c_" edbl="b_t" rmbl="b_t" pvis="b_f" swID="l_1f01" Self="rc_ue1"/>
+	<colr clmd="e_prss" clsp="e_CMYK" clvl="x_4_D_0_D_0_D_0_D_0" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="c_" edbl="b_t" rmbl="b_t" pvis="b_f" swID="l_1f01" Self="rc_ue2"/>
+	<colr clmd="e_prss" clsp="e_CMYK" clvl="x_4_D_95_D_74_D_54_D_71" ovrd="e_norm" atcs="e_nasp" atvl="x_0" pnam="k_" edbl="b_t" rmbl="b_t" pvis="b_f" swID="l_1f01" Self="rc_u52a"/>
+	<cink pnam="k_Process Cyan" inAn="D_71.5651" inCP="b_f" inFr="D_63.2456" inND="D_0.61" inPI="b_t" inPo="l_1" inTp="e_norm" Self="rc_u7"/>
+	<cink pnam="k_Process Magenta" inAn="D_18.4349" inCP="b_f" inFr="D_63.2456" inND="D_0.76" inPI="b_t" inPo="l_2" inTp="e_norm" Self="rc_u8"/>
+	<cink pnam="k_Process Yellow" inAn="D_0" inCP="b_f" inFr="D_66.6667" inND="D_0.16" inPI="b_t" inPo="l_3" inTp="e_norm" Self="rc_u9"/>
+	<cink pnam="k_Process Black" inAn="D_45" inCP="b_f" inFr="D_70.7107" inND="D_1.7" inPI="b_t" inPo="l_4" inTp="e_norm" Self="rc_ua"/>
+	<ctbb pvrs="l_0" bbtp="e_bbtc" spcl="y_0" bben="e_eta6" bbmx="x_6_D_1_D_0_D_0_D_1_D_0_D_0" pnam="k_" edbl="b_t" rmbl="b_t" pvis="b_f" swID="l_1f01" Self="rc_u6e">
+		<pcnt><![CDATA[AAAAAUBv4AAAAAAAAAAAAAAAAAAAAAAAAAAAAA==]]></pcnt>
+	</ctbb>
+	<swch pnam="c_None" edbl="b_f" rmbl="b_f" pvis="b_t" swID="l_1f01" Self="rc_ue"/>
+	<grad grdt="e_axlg" pnam="k_" edbl="b_t" rmbl="b_t" pvis="b_f" swID="l_1f01" Self="rc_u70">
+		<gstp gcls="o_u6f" loca="D_0" Self="rc_u70gstp0"/>
+		<gstp gcls="o_ub" loca="D_100" mids="D_50" Self="rc_u70gstp1"/>
+	</grad>
+	<StSt pnam="k_Triple~sep~Stroke" Self="rc_dib01a"/>
+	<StSt pnam="k_ThickThinThick" Self="rc_dib009"/>
+	<StSt pnam="k_ThinThickThin" Self="rc_dib008"/>
+	<StSt pnam="k_ThickThick" Self="rc_dib007"/>
+	<StSt pnam="k_ThickThin" Self="rc_dib006"/>
+	<StSt pnam="k_ThinThick" Self="rc_dib005"/>
+	<StSt pnam="k_ThinThin" Self="rc_dib004"/>
+	<StSt pnam="k_Japanese Dots" Self="rc_di5a3f"/>
+	<StSt pnam="k_White Diamond" Self="rc_di5a3e"/>
+	<StSt pnam="k_Left Slant Hash" Self="rc_di5a3d"/>
+	<StSt pnam="k_Right Slant Hash" Self="rc_di5a3c"/>
+	<StSt pnam="k_Straight Hash" Self="rc_di5a3b"/>
+	<StSt pnam="k_Wavy" Self="rc_di5a3a"/>
+	<StSt pnam="k_Canned Dotted" Self="rc_di5a39"/>
+	<StSt pnam="k_Canned Dashed 3x2" Self="rc_di5a38"/>
+	<StSt pnam="k_Canned Dashed 4x4" Self="rc_di5a37"/>
+	<StSt pnam="k_Dashed" Self="rc_di5a2a"/>
+	<StSt pnam="k_Solid" Self="rc_di5a29"/>
+	<fFam pnam="c_Myriad Pro" Self="rc_di78">
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Condensed" fPSN="k_MyriadPro-Cond" stts="e_fsIn" fSty="c_Condensed" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Condensed" fFUN="c_Myriad Pro Condensed" fStN="c_Condensed" fPLT="k_" vers="c_Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" Self="rc_di78FonTnMyriad Pro Condensed"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Condensed Italic" fPSN="k_MyriadPro-CondIt" stts="e_fsIn" fSty="c_Condensed Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Condensed Italic" fFUN="c_Myriad Pro Condensed Italic" fStN="c_Condensed Italic" fPLT="k_" vers="c_Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" Self="rc_di78FonTnMyriad Pro Condensed Italic"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Bold Condensed" fPSN="k_MyriadPro-BoldCond" stts="e_fsIn" fSty="c_Bold Condensed" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Bold Condensed" fFUN="c_Myriad Pro Bold Condensed" fStN="c_Bold Condensed" fPLT="k_" vers="c_Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" Self="rc_di78FonTnMyriad Pro Bold Condensed"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Bold Condensed Italic" fPSN="k_MyriadPro-BoldCondIt" stts="e_fsIn" fSty="c_Bold Condensed Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Bold Condensed Italic" fFUN="c_Myriad Pro Bold Condensed Italic" fStN="c_Bold Condensed Italic" fPLT="k_" vers="c_Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" Self="rc_di78FonTnMyriad Pro Bold Condensed Italic"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Regular" fPSN="k_MyriadPro-Regular" stts="e_fsIn" fSty="c_Regular" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro" fFUN="c_Myriad Pro" fStN="c_Regular" fPLT="k_" vers="c_Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" Self="rc_di78FonTnMyriad Pro Regular"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Italic" fPSN="k_MyriadPro-It" stts="e_fsIn" fSty="c_Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Italic" fFUN="c_Myriad Pro Italic" fStN="c_Italic" fPLT="k_" vers="c_Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" Self="rc_di78FonTnMyriad Pro Italic"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Semibold" fPSN="k_MyriadPro-Semibold" stts="e_fsIn" fSty="c_Semibold" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Semibold" fFUN="c_Myriad Pro Semibold" fStN="c_Semibold" fPLT="k_" vers="c_Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" Self="rc_di78FonTnMyriad Pro Semibold"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Semibold Italic" fPSN="k_MyriadPro-SemiboldIt" stts="e_fsIn" fSty="c_Semibold Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Semibold Italic" fFUN="c_Myriad Pro Semibold Italic" fStN="c_Semibold Italic" fPLT="k_" vers="c_Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" Self="rc_di78FonTnMyriad Pro Semibold Italic"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Bold" fPSN="k_MyriadPro-Bold" stts="e_fsIn" fSty="c_Bold" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Bold" fFUN="c_Myriad Pro Bold" fStN="c_Bold" fPLT="k_" vers="c_Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" Self="rc_di78FonTnMyriad Pro Bold"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Bold Italic" fPSN="k_MyriadPro-BoldIt" stts="e_fsIn" fSty="c_Bold Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Bold Italic" fFUN="c_Myriad Pro Bold Italic" fStN="c_Bold Italic" fPLT="k_" vers="c_Version 2.037;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" Self="rc_di78FonTnMyriad Pro Bold Italic"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Light Condensed" fPSN="k_MyriadPro-LightCond" stts="e_fsSu" fSty="c_Light Condensed" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Light Condensed" fFUN="c_Myriad Pro Light Condensed" fStN="c_Light Condensed" fPLT="k_" vers="c_OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" Self="rc_di78FonTnMyriad Pro Light Condensed"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Light" fPSN="k_MyriadPro-Light" stts="e_fsSu" fSty="c_Light" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Light" fFUN="c_Myriad Pro Light" fStN="c_Light" fPLT="k_" vers="c_OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" Self="rc_di78FonTnMyriad Pro Light"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Light Italic" fPSN="k_MyriadPro-LightIt" stts="e_fsSu" fSty="c_Light Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Light Italic" fFUN="c_Myriad Pro Light Italic" fStN="c_Light Italic" fPLT="k_" vers="c_OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" Self="rc_di78FonTnMyriad Pro Light Italic"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Light Condensed Italic" fPSN="c_MyriadPro-LightCondIt" stts="e_fsSu" fSty="c_Light Condensed Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Light Condensed Italic" fFUN="c_Myriad Pro Light Condensed Italic" fStN="k_Light Condensed Italic" fPLT="k_" vers="c_Version 2.006;PS 002.000;Core 1.0.38;makeotf.lib1.6.6565" Self="rc_di78FonTnMyriad Pro Light Condensed Italic"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Semibold Condensed" fPSN="c_MyriadPro-SemiboldCond" stts="e_fsSu" fSty="c_Semibold Condensed" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Semibold Condensed" fFUN="c_Myriad Pro Semibold Condensed" fStN="k_Semibold Condensed" fPLT="k_" vers="c_Version 2.006;PS 002.000;Core 1.0.38;makeotf.lib1.6.6565" Self="rc_di78FonTnMyriad Pro Semibold Condensed"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Semibold Condensed Italic" fPSN="c_MyriadPro-SemiboldCondIt" stts="e_fsSu" fSty="c_Semibold Condensed Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Semibold Condensed Italic" fFUN="c_Myriad Pro Semibold Condensed Italic" fStN="k_Semibold Condensed Italic" fPLT="k_" vers="c_Version 2.006;PS 002.000;Core 1.0.38;makeotf.lib1.6.6565" Self="rc_di78FonTnMyriad Pro Semibold Condensed Italic"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Black Condensed" fPSN="c_MyriadPro-BlackCond" stts="e_fsSu" fSty="c_Black Condensed" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Black Condensed" fFUN="c_Myriad Pro Black Condensed" fStN="k_Black Condensed" fPLT="k_" vers="c_Version 2.006;PS 002.000;Core 1.0.38;makeotf.lib1.6.6565" Self="rc_di78FonTnMyriad Pro Black Condensed"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Black Condensed Italic" fPSN="c_MyriadPro-BlackCondIt" stts="e_fsSu" fSty="c_Black Condensed Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Black Condensed Italic" fFUN="c_Myriad Pro Black Condensed Italic" fStN="k_Black Condensed Italic" fPLT="k_" vers="c_Version 2.006;PS 002.000;Core 1.0.38;makeotf.lib1.6.6565" Self="rc_di78FonTnMyriad Pro Black Condensed Italic"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Black" fPSN="c_MyriadPro-Black" stts="e_fsSu" fSty="c_Black" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Black" fFUN="c_Myriad Pro Black" fStN="k_Black" fPLT="k_" vers="c_Version 2.006;PS 002.000;Core 1.0.38;makeotf.lib1.6.6565" Self="rc_di78FonTnMyriad Pro Black"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Light SemiCondensed" fPSN="c_MyriadPro-LightSemiCn" stts="e_fsSu" fSty="c_Light SemiCondensed" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Light SemiCondensed" fFUN="c_Myriad Pro Light SemiCondensed" fStN="k_Light SemiCondensed" fPLT="k_" vers="c_OTF 1.003;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585" Self="rc_di78FonTnMyriad Pro Light SemiCondensed"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Light SemiCondensed Italic" fPSN="c_MyriadPro-LightSemiCnIt" stts="e_fsSu" fSty="c_Light SemiCondensed Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Light SemiCondensed Italic" fFUN="c_Myriad Pro Light SemiCondensed Italic" fStN="k_Light SemiCondensed Italic" fPLT="k_" vers="c_OTF 1.003;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585" Self="rc_di78FonTnMyriad Pro Light SemiCondensed Italic"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro SemiCondensed" fPSN="c_MyriadPro-SemiCn" stts="e_fsSu" fSty="c_SemiCondensed" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro SemiCondensed" fFUN="c_Myriad Pro SemiCondensed" fStN="k_SemiCondensed" fPLT="k_" vers="c_OTF 1.003;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585" Self="rc_di78FonTnMyriad Pro SemiCondensed"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro SemiCondensed Italic" fPSN="c_MyriadPro-SemiCnIt" stts="e_fsSu" fSty="c_SemiCondensed Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro SemiCondensed Italic" fFUN="c_Myriad Pro SemiCondensed Italic" fStN="k_SemiCondensed Italic" fPLT="k_" vers="c_OTF 1.003;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585" Self="rc_di78FonTnMyriad Pro SemiCondensed Italic"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Semibold SemiCondensed" fPSN="c_MyriadPro-SemiboldSemiCn" stts="e_fsSu" fSty="c_Semibold SemiCondensed" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Semibold SemiCondensed" fFUN="c_Myriad Pro Semibold SemiCondensed" fStN="k_Semibold SemiCondensed" fPLT="k_" vers="c_OTF 1.003;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585" Self="rc_di78FonTnMyriad Pro Semibold SemiCondensed"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Semibold SemiCondensed Italic" fPSN="c_MyriadPro-SemiboldSemiCnIt" stts="e_fsSu" fSty="c_Semibold SemiCondensed Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Semibold SemiCondensed Italic" fFUN="c_Myriad Pro Semibold SemiCondensed Italic" fStN="k_Semibold SemiCondensed Italic" fPLT="k_" vers="c_OTF 1.003;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585" Self="rc_di78FonTnMyriad Pro Semibold SemiCondensed Italic"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Bold SemiCondensed" fPSN="c_MyriadPro-BoldSemiCn" stts="e_fsSu" fSty="c_Bold SemiCondensed" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Bold SemiCondensed" fFUN="c_Myriad Pro Bold SemiCondensed" fStN="k_Bold SemiCondensed" fPLT="k_" vers="c_OTF 1.003;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585" Self="rc_di78FonTnMyriad Pro Bold SemiCondensed"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Bold SemiCondensed Italic" fPSN="c_MyriadPro-BoldSemiCnIt" stts="e_fsSu" fSty="c_Bold SemiCondensed Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Bold SemiCondensed Italic" fFUN="c_Myriad Pro Bold SemiCondensed Italic" fStN="k_Bold SemiCondensed Italic" fPLT="k_" vers="c_OTF 1.003;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585" Self="rc_di78FonTnMyriad Pro Bold SemiCondensed Italic"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Black SemiCondensed" fPSN="c_MyriadPro-BlackSemiCn" stts="e_fsSu" fSty="c_Black SemiCondensed" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Black SemiCondensed" fFUN="c_Myriad Pro Black SemiCondensed" fStN="k_Black SemiCondensed" fPLT="k_" vers="c_OTF 1.003;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585" Self="rc_di78FonTnMyriad Pro Black SemiCondensed"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Black SemiCondensed Italic" fPSN="c_MyriadPro-BlackSemiCnIt" stts="e_fsSu" fSty="c_Black SemiCondensed Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Black SemiCondensed Italic" fFUN="c_Myriad Pro Black SemiCondensed Italic" fStN="k_Black SemiCondensed Italic" fPLT="k_" vers="c_OTF 1.003;PS 001.000;Core 1.0.31;makeotf.lib1.4.1585" Self="rc_di78FonTnMyriad Pro Black SemiCondensed Italic"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Light SemiExtended" fPSN="c_MyriadPro-LightSemiExt" stts="e_fsSu" fSty="c_Light SemiExtended" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Light SemiExtended" fFUN="c_Myriad Pro Light SemiExtended" fStN="k_Light SemiExtended" fPLT="k_" vers="c_OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" Self="rc_di78FonTnMyriad Pro Light SemiExtended"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Light SemiExtended Italic" fPSN="c_MyriadPro-LightSemiExtIt" stts="e_fsSu" fSty="c_Light SemiExtended Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Light SemiExtended Italic" fFUN="c_Myriad Pro Light SemiExtended Italic" fStN="k_Light SemiExtended Italic" fPLT="k_" vers="c_OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" Self="rc_di78FonTnMyriad Pro Light SemiExtended Italic"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro SemiExtended" fPSN="c_MyriadPro-SemiExt" stts="e_fsSu" fSty="c_SemiExtended" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro SemiExtended" fFUN="c_Myriad Pro SemiExtended" fStN="k_SemiExtended" fPLT="k_" vers="c_OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" Self="rc_di78FonTnMyriad Pro SemiExtended"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro SemiExtended Italic" fPSN="c_MyriadPro-SemiExtIt" stts="e_fsSu" fSty="c_SemiExtended Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro SemiExtended Italic" fFUN="c_Myriad Pro SemiExtended Italic" fStN="k_SemiExtended Italic" fPLT="k_" vers="c_OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" Self="rc_di78FonTnMyriad Pro SemiExtended Italic"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Semibold SemiExtended" fPSN="c_MyriadPro-SemiboldSemiExt" stts="e_fsSu" fSty="c_Semibold SemiExtended" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Semibold SemiExtended" fFUN="c_Myriad Pro Semibold SemiExtended" fStN="k_Semibold SemiExtended" fPLT="k_" vers="c_OTF 1.007;PS 001.000;Core 1.0.23;hotunix 1.28" Self="rc_di78FonTnMyriad Pro Semibold SemiExtended"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Semibold SemiExtended Italic" fPSN="c_MyriadPro-SemiboldSemiExtIt" stts="e_fsSu" fSty="c_Semibold SemiExtended Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Semibold SemiExtended Italic" fFUN="c_Myriad Pro Semibold SemiExtended Italic" fStN="k_Semibold SemiExtended Italic" fPLT="k_" vers="c_OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" Self="rc_di78FonTnMyriad Pro Semibold SemiExtended Italic"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Bold SemiExtended" fPSN="c_MyriadPro-BoldSemiExt" stts="e_fsSu" fSty="c_Bold SemiExtended" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Bold SemiExtended" fFUN="c_Myriad Pro Bold SemiExtended" fStN="k_Bold SemiExtended" fPLT="k_" vers="c_OTF 1.007;PS 001.000;Core 1.0.23;hotunix 1.28" Self="rc_di78FonTnMyriad Pro Bold SemiExtended"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Bold SemiExtended Italic" fPSN="c_MyriadPro-BoldSemiExtIt" stts="e_fsSu" fSty="c_Bold SemiExtended Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Bold SemiExtended Italic" fFUN="c_Myriad Pro Bold SemiExtended Italic" fStN="k_Bold SemiExtended Italic" fPLT="k_" vers="c_OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" Self="rc_di78FonTnMyriad Pro Bold SemiExtended Italic"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Black SemiExtended" fPSN="c_MyriadPro-BlackSemiExt" stts="e_fsSu" fSty="c_Black SemiExtended" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Black SemiExtended" fFUN="c_Myriad Pro Black SemiExtended" fStN="k_Black SemiExtended" fPLT="k_" vers="c_OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" Self="rc_di78FonTnMyriad Pro Black SemiExtended"/>
+		<FonT fFam="c_Myriad Pro" pnam="c_Myriad Pro Black SemiExtended Italic" fPSN="c_MyriadPro-BlackSemiExtIt" stts="e_fsSu" fSty="c_Black SemiExtended Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Myriad Pro Black SemiExtended Italic" fFUN="c_Myriad Pro Black SemiExtended Italic" fStN="k_Black SemiExtended Italic" fPLT="k_" vers="c_OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" Self="rc_di78FonTnMyriad Pro Black SemiExtended Italic"/>
+	</fFam>
+	<fFam pnam="c_Minion Pro" Self="rc_di79">
+		<FonT fFam="c_Minion Pro" pnam="c_Minion Pro Bold Cond" fPSN="k_MinionPro-BoldCn" stts="e_fsIn" fSty="c_Bold Cond" fnTp="e_ftOF" WSCR="l_0" fnam="c_Minion Pro Bold Cond" fFUN="c_Minion Pro Bold Cond" fStN="c_Bold Cond" fPLT="k_" vers="c_Version 2.030;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" Self="rc_di79FonTnMinion Pro Bold Cond"/>
+		<FonT fFam="c_Minion Pro" pnam="c_Minion Pro Bold Cond Italic" fPSN="k_MinionPro-BoldCnIt" stts="e_fsIn" fSty="c_Bold Cond Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Minion Pro Bold Cond Italic" fFUN="c_Minion Pro Bold Cond Italic" fStN="c_Bold Cond Italic" fPLT="k_" vers="c_Version 2.030;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" Self="rc_di79FonTnMinion Pro Bold Cond Italic"/>
+		<FonT fFam="c_Minion Pro" pnam="c_Minion Pro Regular" fPSN="k_MinionPro-Regular" stts="e_fsIn" fSty="c_Regular" fnTp="e_ftOF" WSCR="l_0" fnam="c_Minion Pro" fFUN="c_Minion Pro" fStN="c_Regular" fPLT="k_" vers="c_Version 2.030;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" Self="rc_di79FonTnMinion Pro Regular"/>
+		<FonT fFam="c_Minion Pro" pnam="c_Minion Pro Italic" fPSN="k_MinionPro-It" stts="e_fsIn" fSty="c_Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Minion Pro Italic" fFUN="c_Minion Pro Italic" fStN="c_Italic" fPLT="k_" vers="c_Version 2.030;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" Self="rc_di79FonTnMinion Pro Italic"/>
+		<FonT fFam="c_Minion Pro" pnam="c_Minion Pro Medium" fPSN="k_MinionPro-Medium" stts="e_fsIn" fSty="c_Medium" fnTp="e_ftOF" WSCR="l_0" fnam="c_Minion Pro Medium" fFUN="c_Minion Pro Medium" fStN="c_Medium" fPLT="k_" vers="c_Version 2.030;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" Self="rc_di79FonTnMinion Pro Medium"/>
+		<FonT fFam="c_Minion Pro" pnam="c_Minion Pro Medium Italic" fPSN="k_MinionPro-MediumIt" stts="e_fsIn" fSty="c_Medium Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Minion Pro Medium Italic" fFUN="c_Minion Pro Medium Italic" fStN="c_Medium Italic" fPLT="k_" vers="c_Version 2.030;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" Self="rc_di79FonTnMinion Pro Medium Italic"/>
+		<FonT fFam="c_Minion Pro" pnam="c_Minion Pro Semibold" fPSN="k_MinionPro-Semibold" stts="e_fsIn" fSty="c_Semibold" fnTp="e_ftOF" WSCR="l_0" fnam="c_Minion Pro Semibold" fFUN="c_Minion Pro Semibold" fStN="c_Semibold" fPLT="k_" vers="c_Version 2.030;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" Self="rc_di79FonTnMinion Pro Semibold"/>
+		<FonT fFam="c_Minion Pro" pnam="c_Minion Pro Semibold Italic" fPSN="k_MinionPro-SemiboldIt" stts="e_fsIn" fSty="c_Semibold Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Minion Pro Semibold Italic" fFUN="c_Minion Pro Semibold Italic" fStN="c_Semibold Italic" fPLT="k_" vers="c_Version 2.030;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" Self="rc_di79FonTnMinion Pro Semibold Italic"/>
+		<FonT fFam="c_Minion Pro" pnam="c_Minion Pro Bold" fPSN="k_MinionPro-Bold" stts="e_fsIn" fSty="c_Bold" fnTp="e_ftOF" WSCR="l_0" fnam="c_Minion Pro Bold" fFUN="c_Minion Pro Bold" fStN="c_Bold" fPLT="k_" vers="c_Version 2.030;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" Self="rc_di79FonTnMinion Pro Bold"/>
+		<FonT fFam="c_Minion Pro" pnam="c_Minion Pro Bold Italic" fPSN="k_MinionPro-BoldIt" stts="e_fsIn" fSty="c_Bold Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Minion Pro Bold Italic" fFUN="c_Minion Pro Bold Italic" fStN="c_Bold Italic" fPLT="k_" vers="c_Version 2.030;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671" Self="rc_di79FonTnMinion Pro Bold Italic"/>
+	</fFam>
+	<fFam pnam="c_Kozuka Mincho Pro" Self="rc_di7d">
+		<FonT fFam="c_Kozuka Mincho Pro" pnam="c_Kozuka Mincho Pro EL" fPSN="k_KozMinPro-ExtraLight" stts="e_fsIn" fSty="c_EL" fnTp="e_ftOI" WSCR="l_1" fnam="c_Kozuka Mincho Pro EL" fFUN="c_小塚明朝 Pro EL" fStN="c_EL" fPLT="k_" vers="c_Version 4.015;PS 4.004;hotconv 1.0.70;makeotf.lib2.5.58329" Self="rc_di7dFonTnKozuka Mincho Pro EL"/>
+		<FonT fFam="c_Kozuka Mincho Pro" pnam="c_Kozuka Mincho Pro L" fPSN="k_KozMinPro-Light" stts="e_fsIn" fSty="c_L" fnTp="e_ftOI" WSCR="l_1" fnam="c_Kozuka Mincho Pro L" fFUN="c_小塚明朝 Pro L" fStN="c_L" fPLT="k_" vers="c_Version 4.015;PS 4.004;hotconv 1.0.70;makeotf.lib2.5.58329" Self="rc_di7dFonTnKozuka Mincho Pro L"/>
+		<FonT fFam="c_Kozuka Mincho Pro" pnam="c_Kozuka Mincho Pro R" fPSN="k_KozMinPro-Regular" stts="e_fsIn" fSty="c_R" fnTp="e_ftOI" WSCR="l_1" fnam="c_Kozuka Mincho Pro R" fFUN="c_小塚明朝 Pro R" fStN="c_R" fPLT="k_" vers="c_Version 4.015;PS 4.004;hotconv 1.0.70;makeotf.lib2.5.58329" Self="rc_di7dFonTnKozuka Mincho Pro R"/>
+		<FonT fFam="c_Kozuka Mincho Pro" pnam="c_Kozuka Mincho Pro M" fPSN="k_KozMinPro-Medium" stts="e_fsIn" fSty="c_M" fnTp="e_ftOI" WSCR="l_1" fnam="c_Kozuka Mincho Pro M" fFUN="c_小塚明朝 Pro M" fStN="c_M" fPLT="k_" vers="c_Version 4.015;PS 4.004;hotconv 1.0.70;makeotf.lib2.5.58329" Self="rc_di7dFonTnKozuka Mincho Pro M"/>
+		<FonT fFam="c_Kozuka Mincho Pro" pnam="c_Kozuka Mincho Pro B" fPSN="k_KozMinPro-Bold" stts="e_fsIn" fSty="c_B" fnTp="e_ftOI" WSCR="l_1" fnam="c_Kozuka Mincho Pro B" fFUN="c_小塚明朝 Pro B" fStN="c_B" fPLT="k_" vers="c_Version 4.015;PS 4.004;hotconv 1.0.70;makeotf.lib2.5.58329" Self="rc_di7dFonTnKozuka Mincho Pro B"/>
+		<FonT fFam="c_Kozuka Mincho Pro" pnam="c_Kozuka Mincho Pro H" fPSN="k_KozMinPro-Heavy" stts="e_fsIn" fSty="c_H" fnTp="e_ftOI" WSCR="l_1" fnam="c_Kozuka Mincho Pro H" fFUN="c_小塚明朝 Pro H" fStN="c_H" fPLT="k_" vers="c_Version 4.015;PS 4.004;hotconv 1.0.70;makeotf.lib2.5.58329" Self="rc_di7dFonTnKozuka Mincho Pro H"/>
+	</fFam>
+	<fFam pnam="c_Adobe Jenson Pro" Self="rc_die9">
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Light" fPSN="c_AJensonPro-Lt" stts="e_fsSu" fSty="c_Light" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Light" fFUN="c_Adobe Jenson Pro Light" fStN="k_Light" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Light"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Light Italic" fPSN="c_AJensonPro-LtIt" stts="e_fsSu" fSty="c_Light Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Light Italic" fFUN="c_Adobe Jenson Pro Light Italic" fStN="k_Light Italic" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Light Italic"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Regular" fPSN="c_AJensonPro-Regular" stts="e_fsSu" fSty="c_Regular" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro" fFUN="c_Adobe Jenson Pro" fStN="k_Regular" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Regular"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Italic" fPSN="c_AJensonPro-It" stts="e_fsSu" fSty="c_Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Italic" fFUN="c_Adobe Jenson Pro Italic" fStN="k_Italic" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Italic"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Semibold" fPSN="c_AJensonPro-Semibold" stts="e_fsSu" fSty="c_Semibold" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Semibold" fFUN="c_Adobe Jenson Pro Semibold" fStN="k_Semibold" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Semibold"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Semibold Italic" fPSN="c_AJensonPro-SemiboldIt" stts="e_fsSu" fSty="c_Semibold Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Semibold Italic" fFUN="c_Adobe Jenson Pro Semibold Italic" fStN="k_Semibold Italic" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Semibold Italic"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Bold" fPSN="c_AJensonPro-Bold" stts="e_fsSu" fSty="c_Bold" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Bold" fFUN="c_Adobe Jenson Pro Bold" fStN="k_Bold" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Bold"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Bold Italic" fPSN="c_AJensonPro-BoldIt" stts="e_fsSu" fSty="c_Bold Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Bold Italic" fFUN="c_Adobe Jenson Pro Bold Italic" fStN="k_Bold Italic" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Bold Italic"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Light Caption" fPSN="c_AJensonPro-LtCapt" stts="e_fsSu" fSty="c_Light Caption" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Light Caption" fFUN="c_Adobe Jenson Pro Light Caption" fStN="k_Light Caption" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Light Caption"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Light Display" fPSN="c_AJensonPro-LtDisp" stts="e_fsSu" fSty="c_Light Display" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Light Display" fFUN="c_Adobe Jenson Pro Light Display" fStN="k_Light Display" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Light Display"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Light Subhead" fPSN="c_AJensonPro-LtSubh" stts="e_fsSu" fSty="c_Light Subhead" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Light Subhead" fFUN="c_Adobe Jenson Pro Light Subhead" fStN="k_Light Subhead" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Light Subhead"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Light Italic Caption" fPSN="c_AJensonPro-LtItCapt" stts="e_fsSu" fSty="c_Light Italic Caption" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Light Italic Caption" fFUN="c_Adobe Jenson Pro Light Italic Caption" fStN="k_Light Italic Caption" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Light Italic Caption"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Light Italic Display" fPSN="c_AJensonPro-LtItDisp" stts="e_fsSu" fSty="c_Light Italic Display" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Light Italic Display" fFUN="c_Adobe Jenson Pro Light Italic Display" fStN="k_Light Italic Display" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Light Italic Display"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Light Italic Subhead" fPSN="c_AJensonPro-LtItSubh" stts="e_fsSu" fSty="c_Light Italic Subhead" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Light Italic Subhead" fFUN="c_Adobe Jenson Pro Light Italic Subhead" fStN="k_Light Italic Subhead" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Light Italic Subhead"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Caption" fPSN="c_AJensonPro-Capt" stts="e_fsSu" fSty="c_Caption" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Caption" fFUN="c_Adobe Jenson Pro Caption" fStN="k_Caption" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Caption"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Display" fPSN="c_AJensonPro-Disp" stts="e_fsSu" fSty="c_Display" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Display" fFUN="c_Adobe Jenson Pro Display" fStN="k_Display" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Display"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Subhead" fPSN="c_AJensonPro-Subh" stts="e_fsSu" fSty="c_Subhead" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Subhead" fFUN="c_Adobe Jenson Pro Subhead" fStN="k_Subhead" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Subhead"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Italic Caption" fPSN="c_AJensonPro-ItCapt" stts="e_fsSu" fSty="c_Italic Caption" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Italic Caption" fFUN="c_Adobe Jenson Pro Italic Caption" fStN="k_Italic Caption" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Italic Caption"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Italic Display" fPSN="c_AJensonPro-ItDisp" stts="e_fsSu" fSty="c_Italic Display" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Italic Display" fFUN="c_Adobe Jenson Pro Italic Display" fStN="k_Italic Display" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Italic Display"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Italic Subhead" fPSN="c_AJensonPro-ItSubh" stts="e_fsSu" fSty="c_Italic Subhead" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Italic Subhead" fFUN="c_Adobe Jenson Pro Italic Subhead" fStN="k_Italic Subhead" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Italic Subhead"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Semibold Caption" fPSN="c_AJensonPro-SemiboldCapt" stts="e_fsSu" fSty="c_Semibold Caption" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Semibold Caption" fFUN="c_Adobe Jenson Pro Semibold Caption" fStN="k_Semibold Caption" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Semibold Caption"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Semibold Display" fPSN="c_AJensonPro-SemiboldDisp" stts="e_fsSu" fSty="c_Semibold Display" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Semibold Display" fFUN="c_Adobe Jenson Pro Semibold Display" fStN="k_Semibold Display" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Semibold Display"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Semibold Subhead" fPSN="c_AJensonPro-SemiboldSubh" stts="e_fsSu" fSty="c_Semibold Subhead" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Semibold Subhead" fFUN="c_Adobe Jenson Pro Semibold Subhead" fStN="k_Semibold Subhead" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Semibold Subhead"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Semibold Italic Caption" fPSN="c_AJensonPro-SemiboldItCapt" stts="e_fsSu" fSty="c_Semibold Italic Caption" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Semibold Italic Caption" fFUN="c_Adobe Jenson Pro Semibold Italic Caption" fStN="k_Semibold Italic Caption" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Semibold Italic Caption"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Semibold Italic Display" fPSN="c_AJensonPro-SemiboldItDisp" stts="e_fsSu" fSty="c_Semibold Italic Display" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Semibold Italic Display" fFUN="c_Adobe Jenson Pro Semibold Italic Display" fStN="k_Semibold Italic Display" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Semibold Italic Display"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Semibold Italic Subhead" fPSN="c_AJensonPro-SemiboldItSubh" stts="e_fsSu" fSty="c_Semibold Italic Subhead" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Semibold Italic Subhead" fFUN="c_Adobe Jenson Pro Semibold Italic Subhead" fStN="k_Semibold Italic Subhead" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Semibold Italic Subhead"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Bold Caption" fPSN="c_AJensonPro-BoldCapt" stts="e_fsSu" fSty="c_Bold Caption" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Bold Caption" fFUN="c_Adobe Jenson Pro Bold Caption" fStN="k_Bold Caption" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Bold Caption"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Bold Display" fPSN="c_AJensonPro-BoldDisp" stts="e_fsSu" fSty="c_Bold Display" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Bold Display" fFUN="c_Adobe Jenson Pro Bold Display" fStN="k_Bold Display" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Bold Display"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Bold Subhead" fPSN="c_AJensonPro-BoldSubh" stts="e_fsSu" fSty="c_Bold Subhead" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Bold Subhead" fFUN="c_Adobe Jenson Pro Bold Subhead" fStN="k_Bold Subhead" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Bold Subhead"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Bold Italic Caption" fPSN="c_AJensonPro-BoldItCapt" stts="e_fsSu" fSty="c_Bold Italic Caption" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Bold Italic Caption" fFUN="c_Adobe Jenson Pro Bold Italic Caption" fStN="k_Bold Italic Caption" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Bold Italic Caption"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Bold Italic Display" fPSN="c_AJensonPro-BoldItDisp" stts="e_fsSu" fSty="c_Bold Italic Display" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Bold Italic Display" fFUN="c_Adobe Jenson Pro Bold Italic Display" fStN="k_Bold Italic Display" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Bold Italic Display"/>
+		<FonT fFam="c_Adobe Jenson Pro" pnam="c_Adobe Jenson Pro Bold Italic Subhead" fPSN="c_AJensonPro-BoldItSubh" stts="e_fsSu" fSty="c_Bold Italic Subhead" fnTp="e_ftOF" WSCR="l_0" fnam="c_Adobe Jenson Pro Bold Italic Subhead" fFUN="c_Adobe Jenson Pro Bold Italic Subhead" fStN="k_Bold Italic Subhead" fPLT="k_" vers="c_OTF 1.013;PS 001.000;Core 1.0.27;makeotf.lib(1.11)" Self="rc_die9FonTnAdobe Jenson Pro Bold Italic Subhead"/>
+	</fFam>
+	<fFam pnam="c_Times" Self="rc_diea">
+		<FonT fFam="c_Times" pnam="c_Times Regular" fPSN="c_Times-Roman" stts="e_fsSu" fSty="c_Regular" fnTp="e_Unkn" WSCR="l_0" fnam="c_Times Roman" fFUN="c_Times Roman" fStN="k_Regular" fPLT="k_" vers="c_" Self="rc_dieaFonTnTimes Regular"/>
+		<FonT fFam="c_Times" pnam="c_Times Italic" fPSN="c_Times-Italic" stts="e_fsSu" fSty="c_Italic" fnTp="e_Unkn" WSCR="l_0" fnam="c_Times Italic" fFUN="c_Times Italic" fStN="c_Italic" fPLT="k_" vers="c_" Self="rc_dieaFonTnTimes Italic"/>
+		<FonT fFam="c_Times" pnam="c_Times Bold" fPSN="c_Times-Bold" stts="e_fsSu" fSty="c_Bold" fnTp="e_Unkn" WSCR="l_0" fnam="c_Times Bold" fFUN="c_Times Bold" fStN="c_Bold" fPLT="k_" vers="c_" Self="rc_dieaFonTnTimes Bold"/>
+		<FonT fFam="c_Times" pnam="c_Times Bold Italic" fPSN="c_Times-BoldItalic" stts="e_fsSu" fSty="c_Bold Italic" fnTp="e_Unkn" WSCR="l_0" fnam="c_Times Bold Italic" fFUN="c_Times Bold Italic" fStN="c_Bold Italic" fPLT="k_" vers="c_" Self="rc_dieaFonTnTimes Bold Italic"/>
+	</fFam>
+	<fFam pnam="c_Futura Std" Self="rc_died">
+		<FonT fFam="c_Futura Std" pnam="c_Futura Std Light Condensed" fPSN="c_FuturaStd-CondensedLight" stts="e_fsSu" fSty="c_Light Condensed" fnTp="e_ftOF" WSCR="l_0" fnam="c_Futura Std Light Condensed" fFUN="c_Futura Std Light Condensed" fStN="k_Light Condensed" fPLT="k_" vers="c_OTF 1.029;PS 001.004;Core 1.0.33;makeotf.lib1.4.1585" Self="rc_diedFonTnFutura Std Light Condensed"/>
+		<FonT fFam="c_Futura Std" pnam="c_Futura Std Light Condensed Oblique" fPSN="c_FuturaStd-CondensedLightObl" stts="e_fsSu" fSty="c_Light Condensed Oblique" fnTp="e_ftOF" WSCR="l_0" fnam="c_Futura Std Light Condensed Oblique" fFUN="c_Futura Std Light Condensed Oblique" fStN="k_Light Condensed Oblique" fPLT="k_" vers="c_OTF 1.029;PS 001.004;Core 1.0.33;makeotf.lib1.4.1585" Self="rc_diedFonTnFutura Std Light Condensed Oblique"/>
+		<FonT fFam="c_Futura Std" pnam="c_Futura Std Medium Condensed" fPSN="c_FuturaStd-Condensed" stts="e_fsSu" fSty="c_Medium Condensed" fnTp="e_ftOF" WSCR="l_0" fnam="c_Futura Std Medium Condensed" fFUN="c_Futura Std Medium Condensed" fStN="k_Medium Condensed" fPLT="k_" vers="c_OTF 1.029;PS 001.004;Core 1.0.33;makeotf.lib1.4.1585" Self="rc_diedFonTnFutura Std Medium Condensed"/>
+		<FonT fFam="c_Futura Std" pnam="c_Futura Std Medium Condensed Oblique" fPSN="c_FuturaStd-CondensedOblique" stts="e_fsSu" fSty="c_Medium Condensed Oblique" fnTp="e_ftOF" WSCR="l_0" fnam="c_Futura Std Medium Condensed Oblique" fFUN="c_Futura Std Medium Condensed Oblique" fStN="k_Medium Condensed Oblique" fPLT="k_" vers="c_OTF 1.029;PS 001.004;Core 1.0.33;makeotf.lib1.4.1585" Self="rc_diedFonTnFutura Std Medium Condensed Oblique"/>
+		<FonT fFam="c_Futura Std" pnam="c_Futura Std Bold Condensed" fPSN="c_FuturaStd-CondensedBold" stts="e_fsSu" fSty="c_Bold Condensed" fnTp="e_ftOF" WSCR="l_0" fnam="c_Futura Std Bold Condensed" fFUN="c_Futura Std Bold Condensed" fStN="k_Bold Condensed" fPLT="k_" vers="c_OTF 1.029;PS 001.003;Core 1.0.33;makeotf.lib1.4.1585" Self="rc_diedFonTnFutura Std Bold Condensed"/>
+		<FonT fFam="c_Futura Std" pnam="c_Futura Std Bold Condensed Oblique" fPSN="c_FuturaStd-CondensedBoldObl" stts="e_fsSu" fSty="c_Bold Condensed Oblique" fnTp="e_ftOF" WSCR="l_0" fnam="c_Futura Std Bold Condensed Oblique" fFUN="c_Futura Std Bold Condensed Oblique" fStN="k_Bold Condensed Oblique" fPLT="k_" vers="c_OTF 1.029;PS 001.003;Core 1.0.33;makeotf.lib1.4.1585" Self="rc_diedFonTnFutura Std Bold Condensed Oblique"/>
+		<FonT fFam="c_Futura Std" pnam="c_Futura Std Extra Bold Condensed" fPSN="c_FuturaStd-CondensedExtraBd" stts="e_fsSu" fSty="c_Extra Bold Condensed" fnTp="e_ftOF" WSCR="l_0" fnam="c_Futura Std Extra Bold Condensed" fFUN="c_Futura Std Extra Bold Condensed" fStN="k_Extra Bold Condensed" fPLT="k_" vers="c_OTF 1.029;PS 001.004;Core 1.0.33;makeotf.lib1.4.1585" Self="rc_diedFonTnFutura Std Extra Bold Condensed"/>
+		<FonT fFam="c_Futura Std" pnam="c_Futura Std Extra Bold Condensed Oblique" fPSN="c_FuturaStd-CondExtraBoldObl" stts="e_fsSu" fSty="c_Extra Bold Condensed Oblique" fnTp="e_ftOF" WSCR="l_0" fnam="c_Futura Std Extra Bold Condensed Oblique" fFUN="c_Futura Std Extra Bold Condensed Oblique" fStN="k_Extra Bold Condensed Oblique" fPLT="k_" vers="c_OTF 1.029;PS 001.004;Core 1.0.33;makeotf.lib1.4.1585" Self="rc_diedFonTnFutura Std Extra Bold Condensed Oblique"/>
+		<FonT fFam="c_Futura Std" pnam="c_Futura Std Light" fPSN="c_FuturaStd-Light" stts="e_fsSu" fSty="c_Light" fnTp="e_ftOF" WSCR="l_0" fnam="c_Futura Std Light" fFUN="c_Futura Std Light" fStN="k_Light" fPLT="k_" vers="c_OTF 1.029;PS 001.002;Core 1.0.33;makeotf.lib1.4.1585" Self="rc_diedFonTnFutura Std Light"/>
+		<FonT fFam="c_Futura Std" pnam="c_Futura Std Light Oblique" fPSN="c_FuturaStd-LightOblique" stts="e_fsSu" fSty="c_Light Oblique" fnTp="e_ftOF" WSCR="l_0" fnam="c_Futura Std Light Oblique" fFUN="c_Futura Std Light Oblique" fStN="k_Light Oblique" fPLT="k_" vers="c_OTF 1.029;PS 001.002;Core 1.0.33;makeotf.lib1.4.1585" Self="rc_diedFonTnFutura Std Light Oblique"/>
+		<FonT fFam="c_Futura Std" pnam="c_Futura Std Book" fPSN="c_FuturaStd-Book" stts="e_fsSu" fSty="c_Book" fnTp="e_ftOF" WSCR="l_0" fnam="c_Futura Std Book" fFUN="c_Futura Std Book" fStN="k_Book" fPLT="k_" vers="c_OTF 1.029;PS 001.003;Core 1.0.33;makeotf.lib1.4.1585" Self="rc_diedFonTnFutura Std Book"/>
+		<FonT fFam="c_Futura Std" pnam="c_Futura Std Book Oblique" fPSN="c_FuturaStd-BookOblique" stts="e_fsSu" fSty="c_Book Oblique" fnTp="e_ftOF" WSCR="l_0" fnam="c_Futura Std Book Oblique" fFUN="c_Futura Std Book Oblique" fStN="k_Book Oblique" fPLT="k_" vers="c_OTF 1.029;PS 001.003;Core 1.0.33;makeotf.lib1.4.1585" Self="rc_diedFonTnFutura Std Book Oblique"/>
+		<FonT fFam="c_Futura Std" pnam="c_Futura Std Medium" fPSN="c_FuturaStd-Medium" stts="e_fsSu" fSty="c_Medium" fnTp="e_ftOF" WSCR="l_0" fnam="c_Futura Std Medium" fFUN="c_Futura Std Medium" fStN="k_Medium" fPLT="k_" vers="c_OTF 1.029;PS 001.002;Core 1.0.33;makeotf.lib1.4.1585" Self="rc_diedFonTnFutura Std Medium"/>
+		<FonT fFam="c_Futura Std" pnam="c_Futura Std Medium Oblique" fPSN="c_FuturaStd-MediumOblique" stts="e_fsSu" fSty="c_Medium Oblique" fnTp="e_ftOF" WSCR="l_0" fnam="c_Futura Std Medium Oblique" fFUN="c_Futura Std Medium Oblique" fStN="k_Medium Oblique" fPLT="k_" vers="c_OTF 1.029;PS 001.002;Core 1.0.33;makeotf.lib1.4.1585" Self="rc_diedFonTnFutura Std Medium Oblique"/>
+		<FonT fFam="c_Futura Std" pnam="c_Futura Std Heavy" fPSN="c_FuturaStd-Heavy" stts="e_fsSu" fSty="c_Heavy" fnTp="e_ftOF" WSCR="l_0" fnam="c_Futura Std Heavy" fFUN="c_Futura Std Heavy" fStN="k_Heavy" fPLT="k_" vers="c_OTF 1.029;PS 001.002;Core 1.0.33;makeotf.lib1.4.1585" Self="rc_diedFonTnFutura Std Heavy"/>
+		<FonT fFam="c_Futura Std" pnam="c_Futura Std Heavy Oblique" fPSN="c_FuturaStd-HeavyOblique" stts="e_fsSu" fSty="c_Heavy Oblique" fnTp="e_ftOF" WSCR="l_0" fnam="c_Futura Std Heavy Oblique" fFUN="c_Futura Std Heavy Oblique" fStN="k_Heavy Oblique" fPLT="k_" vers="c_OTF 1.029;PS 001.002;Core 1.0.33;makeotf.lib1.4.1585" Self="rc_diedFonTnFutura Std Heavy Oblique"/>
+		<FonT fFam="c_Futura Std" pnam="c_Futura Std Bold" fPSN="c_FuturaStd-Bold" stts="e_fsSu" fSty="c_Bold" fnTp="e_ftOF" WSCR="l_0" fnam="c_Futura Std Bold" fFUN="c_Futura Std Bold" fStN="k_Bold" fPLT="k_" vers="c_OTF 1.029;PS 001.003;Core 1.0.33;makeotf.lib1.4.1585" Self="rc_diedFonTnFutura Std Bold"/>
+		<FonT fFam="c_Futura Std" pnam="c_Futura Std Extra Bold" fPSN="c_FuturaStd-ExtraBold" stts="e_fsSu" fSty="c_Extra Bold" fnTp="e_ftOF" WSCR="l_0" fnam="c_Futura Std Extra Bold" fFUN="c_Futura Std Extra Bold" fStN="k_Extra Bold" fPLT="k_" vers="c_OTF 1.029;PS 001.002;Core 1.0.33;makeotf.lib1.4.1585" Self="rc_diedFonTnFutura Std Extra Bold"/>
+		<FonT fFam="c_Futura Std" pnam="c_Futura Std Extra Bold Oblique" fPSN="c_FuturaStd-ExtraBoldOblique" stts="e_fsSu" fSty="c_Extra Bold Oblique" fnTp="e_ftOF" WSCR="l_0" fnam="c_Futura Std Extra Bold Oblique" fFUN="c_Futura Std Extra Bold Oblique" fStN="k_Extra Bold Oblique" fPLT="k_" vers="c_OTF 1.029;PS 001.002;Core 1.0.33;makeotf.lib1.4.1585" Self="rc_diedFonTnFutura Std Extra Bold Oblique"/>
+	</fFam>
+	<fFam pnam="c_Oswald" Self="rc_di4c8">
+		<FonT fFam="c_Oswald" pnam="c_Oswald Extra-Light" fPSN="k_Oswald-Extra-LightItalic" stts="e_fsIn" fSty="c_Extra-Light" fnTp="e_ftOF" WSCR="l_0" fnam="c_Oswald Extra-LightItalic" fFUN="c_Oswald Extra-LightItalic" fStN="c_Extra-Light" fPLT="k_" vers="c_3.0; ttfautohint (v0.94.23-7a4d-dirty) -l 8 -r 50 -G 200 -x 0 -w &quot;G&quot; -W -c" Self="rc_di4c8FonTnOswald Extra-Light"/>
+		<FonT fFam="c_Oswald" pnam="c_Oswald ExtraLight" fPSN="k_Oswald-ExtraLight" stts="e_fsIn" fSty="c_ExtraLight" fnTp="e_ftOF" WSCR="l_0" fnam="c_Oswald ExtraLight" fFUN="c_Oswald ExtraLight" fStN="c_ExtraLight" fPLT="k_" vers="c_3.0; ttfautohint (v0.95) -l 8 -r 50 -G 200 -x 0 -w &quot;G&quot; -W -c" Self="rc_di4c8FonTnOswald ExtraLight"/>
+		<FonT fFam="c_Oswald" pnam="c_Oswald Light" fPSN="k_Oswald-Light" stts="e_fsIn" fSty="c_Light" fnTp="e_ftOF" WSCR="l_0" fnam="c_Oswald Light" fFUN="c_Oswald Light" fStN="c_Light" fPLT="k_" vers="c_3.0; ttfautohint (v0.95) -l 8 -r 50 -G 200 -x 0 -w &quot;G&quot; -W -c" Self="rc_di4c8FonTnOswald Light"/>
+		<FonT fFam="c_Oswald" pnam="c_Oswald Light Italic" fPSN="k_Oswald-LightItalic" stts="e_fsIn" fSty="c_Light Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Oswald LightItalic" fFUN="c_Oswald LightItalic" fStN="c_Light Italic" fPLT="k_" vers="c_3.0; ttfautohint (v0.95.6-bc232) -l 8 -r 50 -G 200 -x 0 -w &quot;G&quot; -W -c" Self="rc_di4c8FonTnOswald Light Italic"/>
+		<FonT fFam="c_Oswald" pnam="c_Oswald Regular" fPSN="k_Oswald-RegularItalic" stts="e_fsIn" fSty="c_Regular" fnTp="e_ftOF" WSCR="l_0" fnam="c_Oswald RegularItalic" fFUN="c_Oswald RegularItalic" fStN="c_Regular" fPLT="k_" vers="c_3.0; ttfautohint (v0.94.23-7a4d-dirty) -l 8 -r 50 -G 200 -x 0 -w &quot;G&quot; -W -c" Self="rc_di4c8FonTnOswald Regular"/>
+		<FonT fFam="c_Oswald" pnam="c_Oswald Medium" fPSN="k_Oswald-Medium" stts="e_fsIn" fSty="c_Medium" fnTp="e_ftOF" WSCR="l_0" fnam="c_Oswald Medium" fFUN="c_Oswald Medium" fStN="c_Medium" fPLT="k_" vers="c_3.0; ttfautohint (v0.95) -l 8 -r 50 -G 200 -x 0 -w &quot;G&quot; -W -c" Self="rc_di4c8FonTnOswald Medium"/>
+		<FonT fFam="c_Oswald" pnam="c_Oswald Medium Italic" fPSN="k_Oswald-MediumItalic" stts="e_fsIn" fSty="c_Medium Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Oswald MediumItalic" fFUN="c_Oswald MediumItalic" fStN="c_Medium Italic" fPLT="k_" vers="c_3.0; ttfautohint (v0.94.23-7a4d-dirty) -l 8 -r 50 -G 150 -x 0 -w &quot;G&quot; -W -c" Self="rc_di4c8FonTnOswald Medium Italic"/>
+		<FonT fFam="c_Oswald" pnam="c_Oswald Demi-Bold" fPSN="k_Oswald-Demi-BoldItalic" stts="e_fsIn" fSty="c_Demi-Bold" fnTp="e_ftOF" WSCR="l_0" fnam="c_Oswald Demi-BoldItalic" fFUN="c_Oswald Demi-BoldItalic" fStN="c_Demi-Bold" fPLT="k_" vers="c_3.0; ttfautohint (v0.94.23-7a4d-dirty) -l 8 -r 50 -G 200 -x 0 -w &quot;G&quot; -W -c" Self="rc_di4c8FonTnOswald Demi-Bold"/>
+		<FonT fFam="c_Oswald" pnam="c_Oswald DemiBold" fPSN="k_Oswald-DemiBold" stts="e_fsIn" fSty="c_DemiBold" fnTp="e_ftOF" WSCR="l_0" fnam="c_Oswald DemiBold" fFUN="c_Oswald DemiBold" fStN="c_DemiBold" fPLT="k_" vers="c_3.0; ttfautohint (v0.95) -l 8 -r 50 -G 200 -x 0 -w &quot;G&quot; -W -c" Self="rc_di4c8FonTnOswald DemiBold"/>
+		<FonT fFam="c_Oswald" pnam="c_Oswald Bold" fPSN="k_Oswald-Bold" stts="e_fsIn" fSty="c_Bold" fnTp="e_ftOF" WSCR="l_0" fnam="c_Oswald Bold" fFUN="c_Oswald Bold" fStN="c_Bold" fPLT="k_" vers="c_3.0; ttfautohint (v0.95) -l 8 -r 50 -G 200 -x 0 -w &quot;G&quot; -W -c" Self="rc_di4c8FonTnOswald Bold"/>
+		<FonT fFam="c_Oswald" pnam="c_Oswald Bold Italic" fPSN="k_Oswald-BoldItalic" stts="e_fsIn" fSty="c_Bold Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Oswald BoldItalic" fFUN="c_Oswald BoldItalic" fStN="c_Bold Italic" fPLT="k_" vers="c_3.0; ttfautohint (v0.94.23-7a4d-dirty) -l 8 -r 50 -G 200 -x 0 -w &quot;G&quot; -W -c" Self="rc_di4c8FonTnOswald Bold Italic"/>
+		<FonT fFam="c_Oswald" pnam="c_Oswald ExtraBold Italic" fPSN="k_Oswald-HeavyItalic" stts="e_fsIn" fSty="c_ExtraBold Italic" fnTp="e_ftOF" WSCR="l_0" fnam="c_Oswald HeavyItalic" fFUN="c_Oswald HeavyItalic" fStN="c_ExtraBold Italic" fPLT="k_" vers="c_3.0; ttfautohint (v0.95.6-bc232) -l 8 -r 50 -G 200 -x 0 -w &quot;G&quot; -W -c" Self="rc_di4c8FonTnOswald ExtraBold Italic"/>
+		<FonT fFam="c_Oswald" pnam="c_Oswald Heavy" fPSN="k_Oswald-Heavy" stts="e_fsIn" fSty="c_Heavy" fnTp="e_ftOF" WSCR="l_0" fnam="c_Oswald Heavy" fFUN="c_Oswald Heavy" fStN="c_Heavy" fPLT="k_" vers="c_3.0; ttfautohint (v0.95) -l 8 -r 50 -G 200 -x 0 -w &quot;G&quot; -W -c" Self="rc_di4c8FonTnOswald Heavy"/>
+	</fFam>
+	<fFam pnam="c_Matchbook" Self="rc_di4c9">
+		<FonT fFam="c_Matchbook" pnam="c_Matchbook Matchbook" fPSN="k_Matchbook" stts="e_fsIn" fSty="c_Matchbook" fnTp="e_ftOF" WSCR="l_0" fnam="c_Matchbook" fFUN="c_Matchbook" fStN="c_Matchbook" fPLT="k_" vers="c_Version 1.000" Self="rc_di4c9FonTnMatchbook Matchbook"/>
+	</fFam>
+	<fFam pnam="c_Cantarell" Self="rc_di4cd">
+		<FonT fFam="c_Cantarell" pnam="c_Cantarell Regular" fPSN="k_Cantarell-Regular" stts="e_fsIn" fSty="c_Regular" fnTp="e_ftOF" WSCR="l_0" fnam="c_Cantarell Regular" fFUN="c_Cantarell Regular" fStN="c_Regular" fPLT="k_" vers="c_Version 001.001 " Self="rc_di4cdFonTnCantarell Regular"/>
+		<FonT fFam="c_Cantarell" pnam="c_Cantarell Oblique" fPSN="k_Cantarell-Oblique" stts="e_fsSu" fSty="c_Oblique" fnTp="e_ftOF" WSCR="l_0" fnam="c_Cantarell Oblique" fFUN="c_Cantarell Oblique" fStN="c_Oblique" fPLT="k_" vers="c_Version 001.001 " Self="rc_di4cdFonTnCantarell Oblique"/>
+		<FonT fFam="c_Cantarell" pnam="c_Cantarell Bold" fPSN="k_Cantarell-Bold" stts="e_fsIn" fSty="c_Bold" fnTp="e_ftOF" WSCR="l_0" fnam="c_Cantarell Bold" fFUN="c_Cantarell Bold" fStN="c_Bold" fPLT="k_" vers="c_Version 001.001 " Self="rc_di4cdFonTnCantarell Bold"/>
+		<FonT fFam="c_Cantarell" pnam="c_Cantarell BoldOblique" fPSN="k_Cantarell-BoldOblique" stts="e_fsSu" fSty="c_BoldOblique" fnTp="e_ftOF" WSCR="l_0" fnam="c_Cantarell Bold Oblique" fFUN="c_Cantarell Bold Oblique" fStN="c_BoldOblique" fPLT="k_" vers="c_Version 001.001 " Self="rc_di4cdFonTnCantarell BoldOblique"/>
+	</fFam>
+	<cfnt pnam="k_[No composite font]" Self="rc_u7b">
+		<cfen pnam="k_Kanji" font="c_Kozuka Mincho Pro" ptfs="k_R" jcfs="D_100" phzs="D_100" pvts="D_100" plck="b_t" jcfa="b_t" bshf="D_0" Self="rc_u7c"/>
+		<cfen pnam="k_Kana" font="c_Kozuka Mincho Pro" ptfs="k_R" jcfs="D_100" phzs="D_100" pvts="D_100" jcfc="c_ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんゔゕゖゝゞァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴヵヶヷヸヹヺーヽヾ" plck="b_t" jcfa="b_t" bshf="D_0" Self="rc_u7e"/>
+		<cfen pnam="k_Punctuation" font="c_Kozuka Mincho Pro" ptfs="k_R" jcfs="D_100" phzs="D_100" pvts="D_100" jcfc="c_—―‖‘’“”‥…′″∥、。〈〉《》「」『』【】〔〕〜・！（），．／：；？［］｛｝～" plck="b_t" jcfa="b_t" bshf="D_0" Self="rc_u7f"/>
+		<cfen pnam="k_Symbols" font="c_Kozuka Mincho Pro" ptfs="k_R" jcfs="D_100" phzs="D_100" pvts="D_100" jcfc="c_¢£§¨¬°±´¶×÷ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩαβγδεζηθικλμνξοπρστυφχψωЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё‐†‡‰※℃Å←↑→↓⇒⇔∀∂∃∇∈∋−√∝∞∠∧∨∩∪∫∬∴∵∽≒≠≡≦≧≪≫⊂⊃⊆⊇⊥⌒■□▲△▼▽◆◇○◎●◯★☆♀♂♪♭♯〃〆〇〒〓゛゜＃＄％＆＊＋－０１２３４５６７８９＜＝＞＠ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ＼＾＿｀ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ｜￠￡￢￣￥" plck="b_t" jcfa="b_t" bshf="D_0" Self="rc_u80"/>
+		<cfen pnam="k_Alphabetic" font="c_Times" ptfs="k_Regular" jcfs="D_100" phzs="D_100" pvts="D_100" jcfc="c_ !&quot;#$%&amp;&apos;()*+,-./:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^~sep~`abcdefghijklmnopqrstuvwxyz{|}~ ¡¤¥¦©ª«­®¯²³µ·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿıŒœŠšŸŽžƒˆˇ˘˙˚˛˜˝–‚„•‹›⁄€™∆∏∑≈≤≥◊ﬀﬁﬂﬃﬄﬅﬆ" plck="b_t" jcfa="b_f" bshf="D_0" Self="rc_u81"/>
+		<cfen pnam="k_Numbers" font="c_Times" ptfs="k_Regular" jcfs="D_100" phzs="D_100" pvts="D_100" jcfc="c_0123456789" plck="b_t" jcfa="b_f" bshf="D_0" Self="rc_u82"/>
+	</cfnt>
+	<Jmjt pnam="k_kMojikumiDefaultName1" Self="rc_uf0"/>
+	<Jmjt pnam="k_kMojikumiDefaultName2" Self="rc_uf1"/>
+	<Jmjt pnam="k_kMojikumiDefaultName3" Self="rc_uf2"/>
+	<Jmjt pnam="k_kMojikumiDefaultName4" Self="rc_uf3"/>
+	<Jmjt pnam="k_kMojikumiDefaultName5" Self="rc_uf4"/>
+	<Jmjt pnam="k_kMojikumiDefaultName6" Self="rc_uf5"/>
+	<Jmjt pnam="k_kMojikumiDefaultName7" Self="rc_uf6"/>
+	<Jmjt pnam="k_kMojikumiDefaultName8" Self="rc_uf7"/>
+	<Jmjt pnam="k_kMojikumiDefaultName9" Self="rc_uf8"/>
+	<Jmjt pnam="k_kMojikumiDefaultName10" Self="rc_uf9"/>
+	<Jmjt pnam="k_kMojikumiDefaultName11" Self="rc_ufa"/>
+	<Jmjt pnam="k_kMojikumiDefaultName12" Self="rc_ufb"/>
+	<Jmjt pnam="k_kMojikumiDefaultName13" Self="rc_ufc"/>
+	<Jmjt pnam="k_kMojikumiDefaultName14" Self="rc_ufd"/>
+	<Jmjt pnam="k_kMojikumiDefaultName15" Self="rc_ufe"/>
+	<Jmjt pnam="k_kMojikumiDefaultName16" Self="rc_uff"/>
+	<csty smpt="b_f" pnam="k_[No character style]" Self="rc_u61"/>
+	<bnli pnam="k_[Default]" bncs="b_f" bncd="b_f" Self="rc_u37"/>
+	<bnli pnam="c_List1" bncs="b_t" bncd="b_t" Self="rc_u12b"/>
+	<psty pnam="k_[No paragraph style]" smpt="b_f" flcl="o_ub" ptfs="c_Regular" ptsz="U_12" phzs="D_100" pakm="k_Metrics" ligt="b_t" lnwt="U_1" trak="D_0" ptce="c_HL Composer" dcca="s_0" dcli="s_0" bshf="U_0" capm="e_norm" lncl="o_ue" hypl="s_3" pvts="D_100" inbl="U_0" inbr="U_0" infl="U_0" alea="D_120" szld="e_atil" plng="k_English: USA" hyph="b_t" mibe="s_2" miaf="s_2" hypc="b_t" swor="s_5" nobk="b_f" hyzo="U_36" spbe="U_0" spaf="U_0" undr="b_f" font="c_Times" Ofst="e_Dflt" wsde="D_100" wsma="D_133" wsmi="D_80" lsde="D_0" lsma="D_0" lsmi="D_0" gsde="D_100" gsma="D_100" gsmi="D_100" pbbp="e_nbrk" kept="b_f" kwnx="s_0" kfnl="s_2" klnl="s_2" posm="e_norm" strk="b_f" jcal="e_Jact" kepl="b_f" lint="D_-1" filt="D_-1" sovp="b_f" ovpr="b_f" pgsa="D_0" pgfa="D_0" pgsl="D_-1" pgfl="D_-1" pgss="x_2_U_0_U_0" pgst="x_2_U_0_U_0" pskw="D_0" rlac="c_Text Color" pras="D_1" prat="D_-1" paof="U_0" pral="U_0" pair="U_0" rawd="e_Klwd" rlbc="c_Text Color" prbs="D_1" prbt="D_-1" pbop="U_0" prbl="U_0" pbir="U_0" rbwd="e_Klwd" prao="b_f" prb2="b_f" prar="b_f" prbr="b_f" inlr="U_0" hylw="b_t" pals="e_full" OTor="b_f" OTfr="b_f" OTdl="b_f" OTti="b_f" patp="o_di5a29" pbtp="o_di5a29" bala="e_BlOf" ragc="o_ue" ragt="D_-1" rago="b_f" rbgc="o_ue" rbgt="D_-1" rbg2="b_f" paln="e_left" dcdm="l_0" OTPf="e_none" OTmk="b_t" hypw="s_5" OTlc="b_t" hycf="b_t" prak="b_f" igEA="b_f" OTzr="b_f" OTss="l_0" OThi="b_f" OTca="b_t" ulco="c_Text Color" ulgc="o_ue" upgo="b_f" ulgt="D_-1" ulos="U_-9999" ulop="b_f" ultt="D_-1" ulwt="U_-9999" ultp="o_di5a29" stco="c_Text Color" stgc="o_ue" stgo="b_f" stgt="D_-1" stos="U_-9999" Stvp="b_f" sttt="D_-1" sttp="o_di5a29" stwt="U_-9999" mitr="D_4" strA="e_stAO" endj="e_mjon" OTsw="b_f" tsum="D_0" jmoj="e_nada" jmbs="D_-1" jmas="D_-1" jkin="e_nada" jkit="e_Jkif" jkht="e_none" jbki="b_t" jpro="b_t" jrfs="D_-1" jral="e_Jrjs" jrtp="e_Jrpc" jrfn="k_" jrft="e_nada" jrsp="e_Jr12" jrwd="D_100" jrpt="D_100" jrxo="D_0" jryo="D_0" jrpz="e_Jkar" jraa="b_t" jrva="e_Jro1" jrov="b_f" jras="b_f" jrsc="D_66" jrfl="c_Text Color" jrti="D_-1" jrof="e_atil" jrsk="c_Text Color" jrst="D_-1" jros="e_atil" jrwt="D_-1" jktp="e_none" jkfz="D_-1" jkfn="k_" jkfs="e_nada" jkcm="D_100" jkpt="D_100" jkpl="D_0" jkal="e_Jknc" jkp2="e_Jkar" jkcc="c_" jset="e_Jchi" jkfc="c_Text Color" jktn="D_-1" jkof="e_atil" jksc="c_Text Color" jkst="D_-1" jkos="e_atil" jkwt="D_-1" jtcy="b_f" jtax="D_0" jtay="D_0" jatc="s_0" jatr="b_f" jjid="s_0" jggy="s_0" jga1="b_f" jgal="e_none" crot="D_0" jro1="b_f" jren="b_t" jshp="D_0" jsha="D_4500" jsht="b_t" jshr="b_f" jwar="b_f" jwli="s_2" jwas="D_50" jwls="D_0" jwal="e_atil" jmbb="s_2" jmab="s_2" hkna="b_f" palt="b_f" ital="b_f" Jled="e_Jlab" jslh="b_f" jpgd="b_f" jgrt="b_f" jgfm="e_none" jrtd="s_0" jrtr="b_f" jrts="b_t" jisb="b_f" jwro="b_f" bnlt="e_LTno" bnbc="x_2_e_BCuo_l_2022" bnst="l_1" DHnm="c_1, 2, 3, 4..." blfn="k_" blft="e_nada" bnnl="o_u37" bnle="l_1" bncp="b_t" bnar="b_t" bnbr="x_3_e_enap_l_0_l_0" bnbs="o_u61" bnnc="o_u61" bnba="e_left" bnna="e_left" bnne="c_^#.^t" bnta="c_^t" digi="e_dide" kash="e_kade" diap="e_dpot" cdir="e_Defd" pdir="e_L2Rd" pjus="e_pjde" diax="D_0" diay="D_0" OTol="b_f" OTsy="b_f" OTja="b_f" OTsh="b_f" kdir="e_Defd" Self="rc_u62"/>
+	<psty pnam="k_NormalParagraphStyle" basd="k_[No paragraph style]" smpt="b_f" nxpa="o_u65" kbsc="x_2_s_0_s_0" pclr="e_nada" plng="k_English: UK" Self="rc_u65"/>
+	<psty pnam="c_name" basd="k_[No paragraph style]" smpt="b_f" nxpa="o_u4ce" kbsc="x_2_s_0_s_0" pclr="e_nada" ptfs="c_DemiBold" ptsz="U_24" lnwt="U_0.5518730126474417" plng="k_Finnish" hyzo="U_19.86742845530798" spaf="U_66" font="c_Oswald" filt="D_100" pras="D_0.5518730126474395" prbs="D_0.5518730126474395" Self="rc_u4ce"/>
+	<psty pnam="c_pagenum" basd="k_[No paragraph style]" smpt="b_f" nxpa="o_u50c" kbsc="x_2_s_0_s_0" pclr="e_nada" ptsz="U_9" trak="D_60" szld="U_10" plng="k_English: UK" spaf="U_22.67716535433071" font="c_Cantarell" filt="D_100" Self="rc_u50c"/>
+	<psty pnam="c_contacts" basd="k_[No paragraph style]" smpt="b_f" nxpa="o_u50d" kbsc="x_2_s_0_s_0" pclr="e_nada" flcl="o_uf" ptfs="c_Bold" ptsz="U_9" trak="D_10" plng="k_English: UK" spbe="U_19.84251968503937" spaf="U_11.338582677165356" alts="x_1_z_4_7473616c_e_rght_74736163_c_._74736c64_c__706f736d_U_184" font="c_Cantarell" paof="U_11.338582677165356" rlbc="o_ube" pbop="U_2.834645669291339" paln="e_rght" Self="rc_u50d"/>
+	<psty pnam="c_opening-para" basd="k_[No paragraph style]" smpt="b_f" nxpa="o_u518" kbsc="x_2_s_0_s_0" pclr="e_nada" ptsz="U_9" dcca="s_1" dcli="s_2" szld="U_13" plng="k_English: UK" spbe="U_8.503937007874017" alts="x_1_z_4_7473616c_e_rght_74736163_c_._74736c64_c__706f736d_U_184" font="c_Cantarell" filt="D_100" Self="rc_u518"/>
+	<psty pnam="c_para" basd="k_[No paragraph style]" smpt="b_f" nxpa="o_u519" kbsc="x_2_s_0_s_0" pclr="e_nada" ptsz="U_9" szld="U_13" plng="k_English: UK" spbe="U_9" alts="x_1_z_4_7473616c_e_rght_74736163_c_._74736c64_c__706f736d_U_184" font="c_Cantarell" filt="D_100" Self="rc_u519"/>
+	<psty pnam="c_position" basd="k_[No paragraph style]" smpt="b_f" nxpa="o_u51a" kbsc="x_2_s_0_s_0" pclr="e_nada" flcl="o_uc0" ptfs="c_Bold" ptsz="U_9" plng="k_English: UK" spbe="U_14" spaf="U_11.338582677165356" alts="x_1_z_4_7473616c_e_rght_74736163_c_._74736c64_c__706f736d_U_184" font="c_Cantarell" filt="D_100" paof="U_11.338582677165356" rlbc="o_ube" pbop="U_2.834645669291339" prbr="b_t" Self="rc_u51a"/>
+	<psty pnam="c_head1" basd="k_[No paragraph style]" smpt="b_f" nxpa="o_u51b" kbsc="x_2_s_0_s_0" pclr="e_nada" ptfs="c_Bold" ptsz="U_9" szld="U_13" plng="k_English: UK" spbe="U_8.503937007874017" alts="x_1_z_4_7473616c_e_rght_74736163_c_._74736c64_c__706f736d_U_184" font="c_Cantarell" filt="D_100" Self="rc_u51b"/>
+	<psty pnam="c_bl" basd="k_[No paragraph style]" smpt="b_f" nxpa="o_u51c" kbsc="x_2_s_0_s_0" pclr="e_nada" ptsz="U_9" inbl="U_22.67716535433071" infl="U_-11.338582677165356" szld="U_11" plng="k_English: UK" spbe="U_5.669291338582678" alts="x_2_z_4_7473616c_e_left_74736163_c_._74736c64_c__706f736d_U_28.34645669291339_z_4_7473616c_e_rght_74736163_c_._74736c64_c_ . _706f736d_U_184" font="c_Cantarell" filt="D_100" bnlt="e_LTbt" bnbc="x_2_e_BCuf_l_b7" blfn="c_Cantarell" blft="c_Regular" Self="rc_u51c"/>
+	<psty pnam="c_bl~sep~bl" basd="k_[No paragraph style]" smpt="b_f" nxpa="o_u51e" kbsc="x_2_s_0_s_0" pclr="e_nada" ptsz="U_9" inbl="U_34.01574803149607" infl="U_-11.338582677165356" szld="U_11" plng="k_English: UK" spbe="U_2.834645669291339" alts="x_1_z_4_7473616c_e_rght_74736163_c_._74736c64_c_ . _706f736d_U_396.85039370078744" font="c_Cantarell" filt="D_80" bnlt="e_LTbt" bnbc="x_2_e_BCuf_l_b7" blfn="c_Cantarell" blft="c_Regular" Self="rc_u51e"/>
+	<psty pnam="c_education~sep~college" basd="k_[No paragraph style]" smpt="b_f" nxpa="o_u521" kbsc="x_2_s_0_s_0" pclr="e_nada" ptsz="U_9" szld="U_13" plng="k_English: UK" spbe="U_8.503937007874017" alts="x_1_z_4_7473616c_e_rght_74736163_c_._74736c64_c__706f736d_U_184" font="c_Cantarell" filt="D_100" Self="rc_u521"/>
+	<psty pnam="c_education~sep~graduate" basd="k_[No paragraph style]" smpt="b_f" nxpa="o_u520" kbsc="x_2_s_0_s_0" pclr="e_nada" ptsz="U_9" szld="U_13" plng="k_English: UK" spbe="U_35" alts="x_1_z_4_7473616c_e_rght_74736163_c_._74736c64_c__706f736d_U_184" font="c_Cantarell" filt="D_100" Self="rc_u520"/>
+	<psty pnam="c_referrals" basd="o_u520" smpt="b_f" nxpa="o_u522" kbsc="x_2_s_0_s_0" pclr="e_nada" ptfs="c_Bold" spbe="U_30" Self="rc_u522"/>
+	<cTOC tlsl="o_u62" tlnm="c_Contents" pnam="k_DefaultTOCStyleName" runn="b_f" ichd="b_f" iBkD="b_f" crbk="b_t" styd="e_horz" tnup="e_tenu" Self="rc_u7a"/>
+	<ccst prst="o_u62" pnam="k_[None]" Self="rc_u68"/>
+	<ccst basd="k_[None]" prst="o_u62" VJal="e_cent" kbsc="x_2_s_0_s_0" pnam="c_Basic" Self="rc_u121"/>
+	<tsty pnam="k_[No table style]" tsdo="e_sbej" TBsw="U_1" TBss="o_di5a29" TBsc="o_ub" TBst="D_100" TBso="b_f" TBgc="o_uf" TBgt="D_100" TBgo="b_f" LBsw="U_1" LBss="o_di5a29" LBsc="o_ub" LBst="D_100" LBso="b_f" LBgc="o_uf" LBgt="D_100" LBgo="b_f" BBsw="U_1" BBss="o_di5a29" BBsc="o_ub" BBst="D_100" BBso="b_f" BBgc="o_uf" BBgt="D_100" BBgo="b_f" RBsw="U_1" RBss="o_di5a29" RBsc="o_ub" RBst="D_100" RBso="b_f" RBac="o_uf" RBat="D_100" RBao="b_f" spbe="U_4" spaf="U_-4" Sfsr="l_0" Slsr="l_0" RSfc="l_0" RScf="o_ub" RSwf="U_1" RSsf="o_di5a29" RStf="D_100" RSgo="b_f" RSgc="o_uf" RSgt="D_100" RSof="b_f" RSsc="l_0" RScs="o_ub" RSws="U_0.25" RSss="o_di5a29" RSts="D_100" RSos="b_f" RSgs="o_uf" RSas="D_100" RSps="b_f" Sfsc="l_0" Slsc="l_0" CSfc="l_0" CScf="o_ub" CSwf="U_1" CSsf="o_di5a29" CStf="D_100" CSof="b_f" CSgc="o_uf" CSgt="D_100" CSgo="b_f" CSsc="l_0" CScs="o_ub" CSws="U_0.25" CSss="o_di5a29" CSts="D_100" CSos="b_f" CSgs="o_uf" CSas="D_100" CSps="b_f" CFPr="b_f" Sffr="l_0" Slfr="l_0" RFcf="o_ub" RFfc="l_0" RFtf="D_20" RFof="b_f" RFsc="l_0" RFcs="o_ue" RFts="D_100" RFos="b_f" Sffc="l_0" Slfc="l_0" CFfc="l_0" CFcf="o_ub" CFtf="D_20" CFof="b_f" CFsc="l_0" CFcs="o_ue" CFts="D_100" CFos="b_f" BrHd="b_t" BrFt="b_t" BrLc="b_t" BrRc="b_t" RsHd="o_n" RsFt="o_n" RsLc="o_n" RsRc="o_n" RsBr="o_u68" Self="rc_u6a"/>
+	<tsty pnam="k_[Basic Table]" basd="k_[No table style]" kbsc="x_2_s_0_s_0" Self="rc_u6c"/>
+	<tsty pnam="c_MA Table" basd="o_u6c" TBsw="U_0.5" LBsw="U_0.5" BBsw="U_0.5" RBsw="U_0.5" RSfc="l_1" RSwf="U_0.4" RSsc="l_1" RSws="U_0.4" CSfc="l_1" CSwf="U_0.4" CSsc="l_2" CSws="U_0.4" RFfc="l_1" RFtf="D_10" RFsc="l_1" RFcs="o_ub" RFts="D_25" BrHd="b_f" BrFt="b_f" BrLc="b_f" BrRc="b_f" RsHd="o_u121" RsFt="o_u121" RsLc="o_u121" RsRc="o_u121" RsBr="o_u121" kbsc="x_2_s_0_s_0" Self="rc_u12a"/>
+	<Jngd pnam="k_[Page Grid]" Self="rc_u72">
+		<Jgda font="c_Times" ptfs="c_Regular" ptsz="U_12" Jcak="D_0" Jlak="D_9" phzs="D_100" pvts="D_100" laln="e_lltj" jgal="e_Jact" jcal="e_Jact"/>
+	</Jngd>
+	<ObSt pnam="k_[None]" prst="o_u62" flcl="o_ue" filt="D_-1" lnwt="U_0" mitr="D_4" endc="e_bcap" endj="e_mjon" stty="o_di5a29" llen="e_none" rlen="e_none" lncl="o_ue" lint="D_-1" pcrd="D_12" gapC="o_ue" gapT="D_-1" strA="e_stAC" nopr="b_f" pgfa="D_0" pgsa="D_0" Jang="o_n" pcOp="e_none" Self="rc_u73">
+		<TFPf ccnt="l_1" clgt="U_12" clwd="U_144" ufcw="b_f" inst="x_4_U_0_U_0_U_0_U_0" Fbof="e_MAso" Fboa="U_0" VJal="e_top" VJmi="U_0" iwrp="b_f"/>
+		<BfGo BFuc="b_f" BFso="U_0" BFro="e_EToi" BFic="U_12" BFcl="e_iLbl"/>
+		<cAOs AOpt="e_AOPi" AOsr="b_f" AOlp="b_f" AOpp="b_t" AOwp="e_ANbr" AOHa="e_left" AHrl="e_txtf" AOVa="e_botm" AOVr="e_AVba" AOxo="D_0" AOyo="D_0" AOya="D_0"/>
+		<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			<ccos pcot="e_sacp" iied="b_f" pcnm="k_"/>
+		</ctxw>
+		<SyPf omAL="b_f" omBZ="U_12" sgON="e_Txft" sorn="e_horz" sdir="e_Unkd"/>
+		<FFop fcrl="U_0" fcrt="U_0" fcrr="U_0" fcrb="U_0" ffit="e_none" faln="e_ANtl"/>
+	</ObSt>
+	<ObSt basd="k_[None]" pnam="k_[Normal Graphics Frame]" prst="o_u62" osnp="b_f" obfc="b_t" obsc="b_t" obpc="b_f" obtf="b_f" obbc="b_f" oboc="b_f" obtw="b_f" obao="b_f" flcl="o_ue" filt="D_-1" lnwt="U_1" mitr="D_4" endc="e_bcap" endj="e_mjon" stty="o_di5a29" llen="e_none" rlen="e_none" lncl="o_ub" lint="D_-1" pcrd="D_12" sovp="b_f" gapC="o_ue" gapT="D_-1" strA="e_stAC" nopr="b_f" pgfa="D_0" pgsa="D_0" Jang="o_n" kbsc="x_2_s_0_s_0" obff="b_f" pcOp="e_none" obCc="b_t" Self="rc_u75">
+		<TFPf ccnt="l_1" clgt="U_12" clwd="U_144" ufcw="b_f" inst="x_4_U_0_U_0_U_0_U_0" Fbof="e_MAso" Fboa="U_0" VJal="e_top" VJmi="U_0" iwrp="b_f"/>
+		<BfGo BFuc="b_f" BFso="U_0" BFro="e_EToi" BFic="U_12" BFcl="e_iLbl"/>
+		<cAOs AOpt="e_AOPi" AOsr="b_f" AOlp="b_f" AOpp="b_t" AOwp="e_ANbr" AOHa="e_left" AHrl="e_txtf" AOVa="e_botm" AOVr="e_AVba" AOxo="D_0" AOyo="D_0" AOya="D_0"/>
+		<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_t" ptws="e_twbs">
+			<ccos pcot="e_sacp" iied="b_f" pcnm="k_"/>
+		</ctxw>
+		<SyPf omAL="b_f" omBZ="U_12" sgON="e_Unkn" sorn="e_Unkn" sdir="e_Unkd"/>
+		<FFop fcrl="U_0" fcrt="U_0" fcrr="U_0" fcrb="U_0" ffit="e_none" faln="e_ANtl"/>
+		<xpQa>
+			<xpQf xpUr="b_f"/>
+		</xpQa>
+		<ospc obtc="b_t" obds="b_t" obvg="b_t" obis="b_t" obog="b_t" obig="b_t" obbe="b_t" obsa="b_t" obdf="b_t" obgf="b_t"/>
+		<ossc obtc="b_t" obds="b_t" obvg="b_t" obis="b_t" obog="b_t" obig="b_t" obbe="b_t" obsa="b_t" obdf="b_t" obgf="b_t"/>
+		<osfc obtc="b_t" obds="b_t" obvg="b_t" obis="b_t" obog="b_t" obig="b_t" obbe="b_t" obsa="b_t" obdf="b_t" obgf="b_t"/>
+		<oscc obtc="b_t" obds="b_t" obvg="b_t" obis="b_t" obog="b_t" obig="b_t" obbe="b_t" obsa="b_t" obdf="b_t" obgf="b_t"/>
+	</ObSt>
+	<ObSt basd="k_[None]" pnam="k_[Normal Text Frame]" prst="o_u65" osnp="b_f" obfc="b_t" obsc="b_t" obpc="b_f" obtf="b_t" obbc="b_t" oboc="b_f" obtw="b_f" obao="b_f" flcl="o_ue" filt="D_-1" lnwt="U_0" mitr="D_4" endc="e_bcap" endj="e_mjon" stty="o_di5a29" llen="e_none" rlen="e_none" lncl="o_ue" lint="D_-1" pcrd="D_12" gapC="o_ue" gapT="D_-1" strA="e_stAC" nopr="b_f" pgfa="D_0" pgsa="D_0" Jang="o_n" kbsc="x_2_s_0_s_0" obff="b_f" pcOp="e_none" obCc="b_t" Self="rc_u76">
+		<TFPf ccnt="l_1" clgt="U_12" clwd="U_144" ufcw="b_f" inst="x_4_U_0_U_0_U_0_U_0" Fbof="e_MAso" Fboa="U_0" VJal="e_top" VJmi="U_0" iwrp="b_f"/>
+		<BfGo BFuc="b_f" BFso="U_0" BFro="e_EToi" BFic="U_12" BFcl="e_iLbl"/>
+		<cAOs AOpt="e_AOPi" AOsr="b_f" AOlp="b_f" AOpp="b_t" AOwp="e_ANbr" AOHa="e_left" AHrl="e_txtf" AOVa="e_botm" AOVr="e_AVba" AOxo="D_0" AOyo="D_0" AOya="D_0"/>
+		<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_t" ptws="e_twbs">
+			<ccos pcot="e_sacp" iied="b_f" pcnm="k_"/>
+		</ctxw>
+		<SyPf omAL="b_f" omBZ="U_12" sgON="e_Txft" sorn="e_Unkn" sdir="e_Unkd"/>
+		<FFop fcrl="U_0" fcrt="U_0" fcrr="U_0" fcrb="U_0" ffit="e_none" faln="e_ANtl"/>
+		<xpQa>
+			<xpQf xpUr="b_f"/>
+		</xpQa>
+		<ospc obtc="b_t" obds="b_t" obvg="b_t" obis="b_t" obog="b_t" obig="b_t" obbe="b_t" obsa="b_t" obdf="b_t" obgf="b_t"/>
+		<ossc obtc="b_t" obds="b_t" obvg="b_t" obis="b_t" obog="b_t" obig="b_t" obbe="b_t" obsa="b_t" obdf="b_t" obgf="b_t"/>
+		<osfc obtc="b_t" obds="b_t" obvg="b_t" obis="b_t" obog="b_t" obig="b_t" obbe="b_t" obsa="b_t" obdf="b_t" obgf="b_t"/>
+		<oscc obtc="b_t" obds="b_t" obvg="b_t" obis="b_t" obog="b_t" obig="b_t" obbe="b_t" obsa="b_t" obdf="b_t" obgf="b_t"/>
+	</ObSt>
+	<ObSt basd="k_[None]" pnam="k_[Normal Grid]" prst="o_u65" osnp="b_f" obfc="b_t" obsc="b_t" obpc="b_f" obtf="b_t" obbc="b_t" oboc="b_t" obtw="b_f" obao="b_f" flcl="o_ue" filt="D_-1" lnwt="U_0" mitr="D_4" endc="e_bcap" endj="e_mjon" stty="o_di5a29" llen="e_none" rlen="e_none" lncl="o_ue" lint="D_-1" pcrd="D_12" gapC="o_ue" gapT="D_-1" strA="e_stAC" nopr="b_f" pgfa="D_0" pgsa="D_0" Jang="o_n" kbsc="x_2_s_0_s_0" obff="b_f" pcOp="e_none" obCc="b_t" Self="rc_u77">
+		<TFPf ccnt="l_1" clgt="U_12" clwd="U_144" ufcw="b_f" inst="x_4_U_0_U_0_U_0_U_0" Fbof="e_MAso" Fboa="U_0" VJal="e_top" VJmi="U_0" iwrp="b_f"/>
+		<BfGo BFuc="b_f" BFso="U_0" BFro="e_EToi" BFic="U_12" BFcl="e_iLbl"/>
+		<cAOs AOpt="e_AOPi" AOsr="b_f" AOlp="b_f" AOpp="b_t" AOwp="e_ANbr" AOHa="e_left" AHrl="e_txtf" AOVa="e_botm" AOVr="e_AVba" AOxo="D_0" AOyo="D_0" AOya="D_0"/>
+		<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_t" ptws="e_twbs">
+			<ccos pcot="e_sacp" iied="b_f" pcnm="k_"/>
+		</ctxw>
+		<SyPf omAL="b_f" omBZ="U_12" sgON="e_FGtp" sorn="e_Unkn" sdir="e_Unkd"/>
+		<FFop fcrl="U_0" fcrt="U_0" fcrr="U_0" fcrb="U_0" ffit="e_none" faln="e_ANtl"/>
+		<xpQa>
+			<xpQf xpUr="b_f"/>
+		</xpQa>
+		<ospc obtc="b_t" obds="b_t" obvg="b_t" obis="b_t" obog="b_t" obig="b_t" obbe="b_t" obsa="b_t" obdf="b_t" obgf="b_t"/>
+		<ossc obtc="b_t" obds="b_t" obvg="b_t" obis="b_t" obog="b_t" obig="b_t" obbe="b_t" obsa="b_t" obdf="b_t" obgf="b_t"/>
+		<osfc obtc="b_t" obds="b_t" obvg="b_t" obis="b_t" obog="b_t" obig="b_t" obbe="b_t" obsa="b_t" obdf="b_t" obgf="b_t"/>
+		<oscc obtc="b_t" obds="b_t" obvg="b_t" obis="b_t" obog="b_t" obig="b_t" obbe="b_t" obsa="b_t" obdf="b_t" obgf="b_t"/>
+	</ObSt>
+	<trSt pnam="k_k[No Trap Preset]" tpDW="U_0.25" tpBW="U_0.5" tpJS="e_mjon" tpES="e_tpme" tpOI="b_t" tpII="b_t" tpIM="b_f" tpOB="b_t" tpIP="e_tpcn" tpST="D_10" tpBT="D_100" tpBD="D_1.6" tpSL="D_70" tpRD="D_100" Self="rc_u9d"/>
+	<trSt pnam="k_kDefaultTrapStyleName" tpDW="U_0.25" tpBW="U_0.5" tpJS="e_mjon" tpES="e_tpme" tpOI="b_t" tpII="b_t" tpIM="b_f" tpOB="b_t" tpIP="e_tpcn" tpST="D_10" tpBT="D_100" tpBD="D_1.6" tpSL="D_70" tpRD="D_100" Self="rc_u9e"/>
+	<cdmo dmFI="e_dmPr" dmCI="b_f" dmLI="b_t" dmRB="b_f" dmCN="b_f" dmDS="l_32"/>
+	<Ladp EnLA="b_f" LASZ="U_2" LAGR="b_t" LAGM="b_t" LAGA="b_f" LAOL="b_t"/>
+	<xiPf Xits="b_t" XMis="e_XMmi" Xicl="b_f" XMrt="b_t" Xtal="b_f" Xtit="b_t" Xiws="b_f" Xtar="b_f" Xalt="b_f" Xtfn="e_Xssx" Xisp="x_0" Xict="b_t"/>
+	<xePf Xvae="b_f" Xprb="f_C:\Program Files\Internet Explorer\IEXPLORE.EXE" Xefs="b_f" svFE="e_svU8" Xrub="b_f" Xdtd="b_t" Xeco="b_f" Xeoi="b_f" Xefi="b_f" Xeic="e_ibst" Xegp="e_plap" Xegi="b_f" Xejq="e_enMd" Xejf="e_jpgb" Xalt="b_f" Xtfn="e_Xssx" Xcrf="b_f" Xeut="e_Xtcs"/>
+	<xgPf XstN="c_Story" XstC="e_iBrd" XtaN="c_Table" XtaC="e_iDbl" XceN="c_Cell" XceC="e_iGgr" XimN="c_Image" XimC="e_iVlt"/>
+	<ewPf Xefi="b_f" Xeoi="b_f" Xeco="b_f" Xeic="e_ibst" Xegp="e_plap" Xegi="b_f" Xejq="e_enMd" Xejf="e_jpgb"/>
+	<xpPf xpPb="e_CMYK" xpU1="D_120" xpU2="D_30"/>
+	<xpDC>
+		<xpQa>
+			<xpQe xpBm="e_norm" xpBo="D_100" xpBk="b_f" xpBi="b_f"/>
+			<xpQf xpUp="e_none" xpBm="e_xpMb" xpBo="D_75" xpUj="U_7" xpUk="U_7" dsiz="U_5" xpUt="o_n" e0D5="D_0" sprd="D_0" xpUs="b_f" xpUr="b_t" xpU7="b_f"/>
+			<xpQg xpUp="e_none" wdwh="U_9" xpUq="e_xpCc" e0D5="D_0" xpUu="D_0"/>
+			<xpQh xpUn="b_f" xpUt="o_n" xpBm="e_xpMb" xpBo="D_75" inAn="D_120" e0D8="U_7" xpUs="b_f" xpUu="D_0" dsiz="U_7" e0D5="D_0"/>
+			<xpQi xpUn="b_f" xpBm="e_xpMc" xpBo="D_75" e0D5="D_0" xpUt="o_n" xpUo="e_xp0a" sprd="D_0" dsiz="U_7"/>
+			<xpQj xpUn="b_f" xpBm="e_xpMc" xpBo="D_75" e0D5="D_0" xpUt="o_n" xpUo="e_xp0a" sprd="D_0" dsiz="U_7" hlsc="e_xp1b"/>
+			<xpQk xpUn="b_f" xpUb="e_xp2b" xpUo="e_xp3a" xpUc="D_100" xpUd="e_Fstn" dsiz="U_7" xpUe="U_0" inAn="D_120" xpUf="D_30" xpUs="b_f" e0E4="o_n" xpUh="e_xpMc" e0E3="D_75" xpSc="o_n" xpSb="e_xpMb" xpSo="D_75"/>
+			<xpQl xpUn="b_f" xpUt="o_n" xpBm="e_xpMb" xpBo="D_50" inAn="D_120" e0D8="U_7" dsiz="U_7" xpUv="b_f"/>
+			<xpQm xpUn="b_f" xpU3="U_0" xpU4="U_0" xpU5="U_0" xpU6="U_0" xpUu="D_0" inAn="D_0" xpUw="e_en5a" e0D5="D_0"/>
+			<xpQn xpUn="b_f" grdt="e_axlg" inAn="D_0" leng="U_0" xpUx="x_2_U_0_U_0" xpUy="D_0" xpUz="U_0"/>
+		</xpQa>
+		<xpQb>
+			<xpQe xpBm="e_norm" xpBo="D_100" xpBk="b_f" xpBi="b_f"/>
+			<xpQf xpUp="e_none" xpBm="e_xpMb" xpBo="D_75" xpUj="U_7" xpUk="U_7" dsiz="U_5" xpUt="o_n" e0D5="D_0" sprd="D_0" xpUs="b_f" xpUr="b_t" xpU7="b_f"/>
+			<xpQg xpUp="e_none" wdwh="U_9" xpUq="e_xpCc" e0D5="D_0" xpUu="D_0"/>
+			<xpQh xpUn="b_f" xpUt="o_n" xpBm="e_xpMb" xpBo="D_75" inAn="D_120" e0D8="U_7" xpUs="b_f" xpUu="D_0" dsiz="U_7" e0D5="D_0"/>
+			<xpQi xpUn="b_f" xpBm="e_xpMc" xpBo="D_75" e0D5="D_0" xpUt="o_n" xpUo="e_xp0a" sprd="D_0" dsiz="U_7"/>
+			<xpQj xpUn="b_f" xpBm="e_xpMc" xpBo="D_75" e0D5="D_0" xpUt="o_n" xpUo="e_xp0a" sprd="D_0" dsiz="U_7" hlsc="e_xp1b"/>
+			<xpQk xpUn="b_f" xpUb="e_xp2b" xpUo="e_xp3a" xpUc="D_100" xpUd="e_Fstn" dsiz="U_7" xpUe="U_0" inAn="D_120" xpUf="D_30" xpUs="b_f" e0E4="o_n" xpUh="e_xpMc" e0E3="D_75" xpSc="o_n" xpSb="e_xpMb" xpSo="D_75"/>
+			<xpQl xpUn="b_f" xpUt="o_n" xpBm="e_xpMb" xpBo="D_50" inAn="D_120" e0D8="U_7" dsiz="U_7" xpUv="b_f"/>
+			<xpQm xpUn="b_f" xpU3="U_0" xpU4="U_0" xpU5="U_0" xpU6="U_0" xpUu="D_0" inAn="D_0" xpUw="e_en5a" e0D5="D_0"/>
+			<xpQn xpUn="b_f" grdt="e_axlg" inAn="D_0" leng="U_0" xpUx="x_2_U_0_U_0" xpUy="D_0" xpUz="U_0"/>
+		</xpQb>
+		<xpQc>
+			<xpQe xpBm="e_norm" xpBo="D_100" xpBk="b_f" xpBi="b_f"/>
+			<xpQf xpUp="e_none" xpBm="e_xpMb" xpBo="D_75" xpUj="U_7" xpUk="U_7" dsiz="U_5" xpUt="o_n" e0D5="D_0" sprd="D_0" xpUs="b_f" xpUr="b_t" xpU7="b_f"/>
+			<xpQg xpUp="e_none" wdwh="U_9" xpUq="e_xpCc" e0D5="D_0" xpUu="D_0"/>
+			<xpQh xpUn="b_f" xpUt="o_n" xpBm="e_xpMb" xpBo="D_75" inAn="D_120" e0D8="U_7" xpUs="b_f" xpUu="D_0" dsiz="U_7" e0D5="D_0"/>
+			<xpQi xpUn="b_f" xpBm="e_xpMc" xpBo="D_75" e0D5="D_0" xpUt="o_n" xpUo="e_xp0a" sprd="D_0" dsiz="U_7"/>
+			<xpQj xpUn="b_f" xpBm="e_xpMc" xpBo="D_75" e0D5="D_0" xpUt="o_n" xpUo="e_xp0a" sprd="D_0" dsiz="U_7" hlsc="e_xp1b"/>
+			<xpQk xpUn="b_f" xpUb="e_xp2b" xpUo="e_xp3a" xpUc="D_100" xpUd="e_Fstn" dsiz="U_7" xpUe="U_0" inAn="D_120" xpUf="D_30" xpUs="b_f" e0E4="o_n" xpUh="e_xpMc" e0E3="D_75" xpSc="o_n" xpSb="e_xpMb" xpSo="D_75"/>
+			<xpQl xpUn="b_f" xpUt="o_n" xpBm="e_xpMb" xpBo="D_50" inAn="D_120" e0D8="U_7" dsiz="U_7" xpUv="b_f"/>
+			<xpQm xpUn="b_f" xpU3="U_0" xpU4="U_0" xpU5="U_0" xpU6="U_0" xpUu="D_0" inAn="D_0" xpUw="e_en5a" e0D5="D_0"/>
+			<xpQn xpUn="b_f" grdt="e_axlg" inAn="D_0" leng="U_0" xpUx="x_2_U_0_U_0" xpUy="D_0" xpUz="U_0"/>
+		</xpQc>
+		<xpQd>
+			<xpQe xpBm="e_norm" xpBo="D_100" xpBk="b_f" xpBi="b_f"/>
+			<xpQf xpUp="e_none" xpBm="e_xpMb" xpBo="D_75" xpUj="U_7" xpUk="U_7" dsiz="U_5" xpUt="o_n" e0D5="D_0" sprd="D_0" xpUs="b_f" xpUr="b_t" xpU7="b_f"/>
+			<xpQg xpUp="e_none" wdwh="U_9" xpUq="e_xpCc" e0D5="D_0" xpUu="D_0"/>
+			<xpQh xpUn="b_f" xpUt="o_n" xpBm="e_xpMb" xpBo="D_75" inAn="D_120" e0D8="U_7" xpUs="b_f" xpUu="D_0" dsiz="U_7" e0D5="D_0"/>
+			<xpQi xpUn="b_f" xpBm="e_xpMc" xpBo="D_75" e0D5="D_0" xpUt="o_n" xpUo="e_xp0a" sprd="D_0" dsiz="U_7"/>
+			<xpQj xpUn="b_f" xpBm="e_xpMc" xpBo="D_75" e0D5="D_0" xpUt="o_n" xpUo="e_xp0a" sprd="D_0" dsiz="U_7" hlsc="e_xp1b"/>
+			<xpQk xpUn="b_f" xpUb="e_xp2b" xpUo="e_xp3a" xpUc="D_100" xpUd="e_Fstn" dsiz="U_7" xpUe="U_0" inAn="D_120" xpUf="D_30" xpUs="b_f" e0E4="o_n" xpUh="e_xpMc" e0E3="D_75" xpSc="o_n" xpSb="e_xpMb" xpSo="D_75"/>
+			<xpQl xpUn="b_f" xpUt="o_n" xpBm="e_xpMb" xpBo="D_50" inAn="D_120" e0D8="U_7" dsiz="U_7" xpUv="b_f"/>
+			<xpQm xpUn="b_f" xpU3="U_0" xpU4="U_0" xpU5="U_0" xpU6="U_0" xpUu="D_0" inAn="D_0" xpUw="e_en5a" e0D5="D_0"/>
+			<xpQn xpUn="b_f" grdt="e_axlg" inAn="D_0" leng="U_0" xpUx="x_2_U_0_U_0" xpUy="D_0" xpUz="U_0"/>
+		</xpQd>
+	</xpDC>
+	<SyPf omAL="b_f" omBZ="U_12" sgON="e_Txft" sorn="e_horz" sdir="e_L2Rd"/>
+	<TFPf ccnt="l_1" clgt="U_12" clwd="U_144" ufcw="b_f" inst="x_4_U_0_U_0_U_0_U_0" Fbof="e_MAso" Fboa="U_0" VJal="e_top" VJmi="U_0" iwrp="b_f"/>
+	<txtp typq="b_t" shhj="b_f" shkp="b_f" shsb="b_f" shcs="b_f" hlmf="b_t" mmos="b_t" pled="b_f" sups="D_58" supp="D_33" subs="D_58" subp="D_33" Smcp="D_70" lkbd="U_2" bkbd="U_2" kkbd="D_5" sinv="b_t" jwrp="b_f" awrp="b_t" zwrp="b_f" gplt="b_f" shkk="b_f" Jnvs="b_f" Jcid="b_f" sspm="b_f" dflw="b_f" apin="e_aeos" aprm="b_t" afrv="b_f" ddel="b_f"/>
+	<cTdf infl="U_0" inbl="U_0" inbr="U_0" spbe="U_0" spaf="U_0" bala="e_BlOf" paln="e_left" pals="e_full" alea="D_120" dcli="s_0" dcca="s_0" kepl="b_f" kept="b_f" kwnx="s_0" kfnl="s_2" klnl="s_2" pbbp="e_nbrk" ptce="c_HL Composer" wsmi="D_80" wsma="D_133" wsde="D_100" lsmi="D_0" lsma="D_0" lsde="D_0" gsmi="D_100" gsma="D_100" gsde="D_100" prar="b_f" prao="b_f" pras="D_1" prat="D_-1" paof="U_0" pral="U_0" pair="U_0" rawd="e_Klwd" rlac="c_Text Color" ragc="o_ue" ragt="D_-1" rago="b_f" patp="o_di5a29" prbr="b_f" prbs="D_1" prbt="D_-1" pbop="U_0" prbl="U_0" pbir="U_0" rbwd="e_Klwd" rlbc="c_Text Color" rbgc="o_ue" rbgt="D_-1" pbtp="o_di5a29" hypc="b_t" hyph="b_t" miaf="s_2" mibe="s_2" swor="s_5" hypl="s_3" hyzo="U_36" hypw="s_5" prst="o_u65" crst="o_u61" font="c_Times" ptfs="c_Regular" ptsz="U_12" szld="e_atil" pakm="k_Metrics" trak="D_0" capm="e_norm" posm="e_norm" undr="b_f" strk="b_f" ligt="b_t" nobk="b_f" phzs="D_100" pvts="D_100" bshf="U_0" pskw="D_0" filt="D_-1" lint="D_-1" lnwt="U_1" sovp="b_f" ovpr="b_f" Ofst="e_Dflt" OTor="b_f" OTfr="b_f" OTdl="b_f" OTti="b_f" OTca="b_t" OTsw="b_f" ulco="c_Text Color" ulgc="o_ue" ultt="D_-1" ulgt="D_-1" ulop="b_f" upgo="b_f" ultp="o_di5a29" ulos="U_-9999" ulwt="U_-9999" stco="c_Text Color" stgc="o_ue" sttt="D_-1" stgt="D_-1" Stvp="b_f" stgo="b_f" sttp="o_di5a29" stos="U_-9999" stwt="U_-9999" flcl="o_ub" lncl="o_ue" plng="k_English: UK" inlr="U_0" hylw="b_t" OTzr="b_f" OThi="b_f" OTss="l_0" pgfl="D_-1" pgfa="D_0" pgsl="D_-1" pgsa="D_0" pgst="x_2_U_0_U_0" pgss="x_2_U_0_U_0" prb2="b_f" rbg2="b_f" dcdm="l_0" hycf="b_t" prak="b_f" igEA="b_f" OTmk="b_t" OTlc="b_t" OTPf="e_none" pdir="e_L2Rd" pjus="e_pjde" mitr="D_4" strA="e_stAO" endj="e_mjon" OTol="b_f" OTsy="b_f" OTja="b_f" OTsh="b_f" cdir="e_Defd" kdir="e_Defd" digi="e_dide" kash="e_kade" diap="e_dpot" diax="D_0" diay="D_0" Jang="o_n" jcal="e_Jact" tsum="D_0" jmbs="D_-1" jmas="D_-1" crot="D_0" jjid="s_0" jshp="D_0" jsha="D_4500" jshr="b_f" jsht="b_t" jtcy="b_f" jtax="D_0" jtay="D_0" jkfc="c_Text Color" jksc="c_Text Color" jktn="D_-1" jkst="D_-1" jkwt="D_-1" jkof="e_atil" jkos="e_atil" jktp="e_none" jkpl="D_0" jkal="e_Jknc" jkp2="e_Jkar" jkfn="k_" jkfs="e_nada" jkfz="D_-1" jkcm="D_100" jkpt="D_100" jkcc="c_" jset="e_Jchi" jrfl="c_Text Color" jrsk="c_Text Color" jrti="D_-1" jrwt="D_-1" jrof="e_atil" jros="e_atil" jrst="D_-1" jrfn="k_" jrft="e_nada" jrfs="D_-1" jpro="b_t" jrwd="D_100" jrpt="D_100" jrtp="e_Jrpc" jral="e_Jrjs" jrpz="e_Jkar" jrxo="D_0" jryo="D_0" jrsp="e_Jr12" jraa="b_t" jrov="b_f" jras="b_f" jrsc="D_66" jrva="e_Jro1" jwar="b_f" jwas="D_50" jwli="s_2" jwls="D_0" jwal="e_atil" jmab="s_2" jmbb="s_2" palt="b_f" hkna="b_f" ital="b_f" jslh="b_f" jgrt="b_f" jgfm="e_none" jga1="b_f" jgal="e_none" jggy="s_0" jatc="s_0" jatr="b_f" jkin="e_nada" jkit="e_Jkif" jkht="e_none" jbki="b_t" jmoj="e_nada" jren="b_t" jro1="b_f" Jled="e_Jlab" jrtd="s_0" jrtr="b_f" jrts="b_t" jisb="b_f" jwro="b_f" jpgd="b_f" bnlt="e_LTno" bnbc="x_2_e_BCuo_l_2022" blfn="k_" blft="e_nada" bnbs="o_u61" bnnc="o_u61" bnne="c_^#.^t" bnta="c_^t" bnnl="o_u37" bnle="l_1" DHnm="c_1, 2, 3, 4..." bncp="b_t" bnst="l_1" bnar="b_t" bnba="e_left" bnna="e_left" bnbr="x_3_e_enap_l_0_l_0"/>
+	<dctp dpcu="e_both" dpmu="b_f" dprc="b_t"/>
+	<cAOd AOct="e_unas" AOht="D_72" AOwd="D_72" AOps="o_u62" AOos="o_u73"/>
+	<cAOs AOpt="e_AOPi" AOsr="b_f" AOlp="b_f" AOpp="b_t" AOwp="e_ANbr" AOHa="e_left" AHrl="e_txtf" AOVa="e_top" AOVr="e_AVba" AOxo="D_0" AOyo="D_0" AOya="D_0"/>
+	<BfGo BFuc="b_f" BFso="U_0" BFro="e_EToi" BFic="U_12" BFcl="e_iLbl"/>
+	<FNop FNns="e_Marb" FNsa="l_1" FNrn="e_Fdrs" FNps="e_Fpsn" FNpr="c_" FNsu="c_" FNap="o_u65" FNac="o_u61" FNmp="e_FmSp" FNsp="c_&#x9;" FNsb="U_0" FNsh="U_0" FNfm="e_MLdo" FNfo="U_0" FNpl="b_f" FNds="b_f" FNn0="b_t" FNty="o_di5a29" FNsw="U_1" FNnc="o_ub" FNrg="o_ue" FNrt="D_100" FNgt="D_100" FNgo="b_f" FNnv="b_f" FNli="U_0" FNri="U_72" FNro="U_0" FNc0="b_t" FNcy="o_di5a29" FNcw="U_1" FNcc="o_ub" FNcg="o_ue" FNct="D_100" FNc4="D_100" FNcv="b_f" FNc3="b_f" FNci="U_0" FNcr="U_288" FNco="U_0"/>
+	<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+		<ccos pcot="e_sacp" iied="b_f" pcnm="k_"/>
+	</ctxw>
+	<docp phgt="U_792" pwdt="U_612" cclr="e_iVlt" mclr="e_iMgn" nump="l_1" ppsd="b_f" bldt="U_9" bldb="U_9" bldi="U_9" bldo="U_9" bldu="b_t" slgt="U_0" slgb="U_0" slgi="U_0" slgo="U_0" slgu="b_f" PrSl="b_t" Shfl="b_t" oprb="b_t" pbin="e_ltrb" cold="e_horz" clok="b_t" MsTx="b_f" suol="b_f"/>
+	<grdp gsho="b_f" grto="b_f" Hgdv="U_72" Vgdv="U_72" Hgsd="l_8" Vgsd="l_8" grdc="e_iLgr" GrDb="b_t" blsn="b_f" blst="U_36" bldv="U_12" blvl="D_75" blcl="e_iLbl" grlo="e_ENgt"/>
+	<gudp gdib="b_f" gdsh="b_t" gdlk="b_f" gdto="b_t" gvth="D_5" gudc="e_iCyn"/>
+	<imgp colc="l_1" colg="U_12" mart="U_36" marb="U_36" marl="U_36" marr="U_36" cold="e_horz"/>
+	<pbdp PBbr="U_72" PBbk="e_iLgr" PBbc="e_iFie" PBsc="e_iGbl"/>
+	<viwp sntz="l_4" keyn="U_1" hunt="e_zpoi" vunt="e_zpoi" RCtp="e_RCSo" srul="b_t" sfre="b_t" tunt="e_zpoi" tsnt="e_zpoi" pdnt="e_zinc" lunt="e_zpoi" ptin="D_72" hrcp="D_12" vecp="D_12" SHNt="b_t"/>
+	<prnp Rsty="e_Cstm" Rprt="c_HP Colour" ppd="c_Generic PostScript Printer" RpFn="f_" lwcp="l_2" lwcl="b_f" Rrvr="b_f" oeb="e_all" Rspd="b_f" Rpmp="b_f" Rpnp="b_f" Rblk="b_f" Rpgg="b_f" Rpsz="c_A4" Rpht="e_atil" Rpwd="e_atil" Rpof="U_0" Rpgp="U_0" RpTv="b_f" RpOr="e_high" RpCt="e_cntB" RScm="e_scxy" swdp="D_100" shtp="D_100" RpSP="b_t" RpTn="b_f" RpTp="e_t1x2" RpTt="b_f" tilt="e_atil" tilo="D_108" apm="b_f" crpm="b_f" bldm="b_f" regm="b_f" colb="b_f" pifo="b_f" RpMt="e_Dflt" RpMw="e_250p" Rpmo="U_6" RpDB="b_t" RpBt="U_0" RpBb="U_0" RpBi="U_0" RpBo="U_0" RpIS="b_f" RpCm="e_cmCK" RpTB="b_f" trpe="e_OFF" RpFp="e_none" RpNe="b_f" RpSc="e_Dflt" RpCA="D_45" RpCF="D_70" RpSO="b_f" RPCI="b_t" RCIA="D_71.5651" RCIF="D_63.2456" RPMI="b_t" RMIA="D_18.4349" RMIF="D_63.2456" RPYI="b_t" RYIA="D_0" RYIF="D_66.6667" RPBI="b_t" RBIA="D_45" RBIF="D_70.7107" simd="e_opss" fndl="e_whle" RpPF="b_f" RpPL="e_PSL2" RpDF="e_ASCI" RCSP="e_uDoc" RpPr="e_uDoc" RpCr="e_Dflt" RCin="e_RIac" odir="b_f" omte="b_f" omtp="b_f" omtb="b_f" RpFS="k_kFlSt~sep~MediumDefaultName" igSO="b_f" pcty="e_prna" Rpdt="l_0" Rppt="l_0" ppdf="k_/var/folders/k-/k-U0vIvuEimipVSQTidX0E+++TI/-Tmp-//4993c229e1946" Rptd="b_f" Rppr="k_TkJSQwIAAABGZ1BNzBsAADw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9IlVURi04Ij8+Cjwh&#xa;RE9DVFlQRSBwbGlzdCBQVUJMSUMgIi0vL0FwcGxlLy9EVEQgUExJU1QgMS4wLy9FTiIgImh0dHA6&#xa;Ly93d3cuYXBwbGUuY29tL0RURHMvUHJvcGVydHlMaXN0LTEuMC5kdGQiPgo8cGxpc3QgdmVyc2lv&#xa;bj0iMS4wIj4KPGRpY3Q+Cgk8a2V5PmNvbS5hcHBsZS5wcmludC5QYWdlRm9ybWF0LlBNSG9yaXpv&#xa;bnRhbFJlczwva2V5PgoJPGRpY3Q+CgkJPGtleT5jb20uYXBwbGUucHJpbnQudGlja2V0LmNyZWF0&#xa;b3I8L2tleT4KCQk8c3RyaW5nPmNvbS5hcHBsZS5qb2J0aWNrZXQ8L3N0cmluZz4KCQk8a2V5PmNv&#xa;bS5hcHBsZS5wcmludC50aWNrZXQuaXRlbUFycmF5PC9rZXk+CgkJPGFycmF5PgoJCQk8ZGljdD4K&#xa;CQkJCTxrZXk+Y29tLmFwcGxlLnByaW50LlBhZ2VGb3JtYXQuUE1Ib3Jpem9udGFsUmVzPC9rZXk+&#xa;CgkJCQk8cmVhbD43MjwvcmVhbD4KCQkJCTxrZXk+Y29tLmFwcGxlLnByaW50LnRpY2tldC5zdGF0&#xa;ZUZsYWc8L2tleT4KCQkJCTxpbnRlZ2VyPjA8L2ludGVnZXI+CgkJCTwvZGljdD4KCQk8L2FycmF5&#xa;PgoJPC9kaWN0PgoJPGtleT5jb20uYXBwbGUucHJpbnQuUGFnZUZvcm1hdC5QTU9yaWVudGF0aW9u&#xa;PC9rZXk+Cgk8ZGljdD4KCQk8a2V5PmNvbS5hcHBsZS5wcmludC50aWNrZXQuY3JlYXRvcjwva2V5&#xa;PgoJCTxzdHJpbmc+Y29tLmFwcGxlLmpvYnRpY2tldDwvc3RyaW5nPgoJCTxrZXk+Y29tLmFwcGxl&#xa;LnByaW50LnRpY2tldC5pdGVtQXJyYXk8L2tleT4KCQk8YXJyYXk+CgkJCTxkaWN0PgoJCQkJPGtl&#xa;eT5jb20uYXBwbGUucHJpbnQuUGFnZUZvcm1hdC5QTU9yaWVudGF0aW9uPC9rZXk+CgkJCQk8aW50&#xa;ZWdlcj4xPC9pbnRlZ2VyPgoJCQkJPGtleT5jb20uYXBwbGUucHJpbnQudGlja2V0LnN0YXRlRmxh&#xa;Zzwva2V5PgoJCQkJPGludGVnZXI+MDwvaW50ZWdlcj4KCQkJPC9kaWN0PgoJCTwvYXJyYXk+Cgk8&#xa;L2RpY3Q+Cgk8a2V5PmNvbS5hcHBsZS5wcmludC5QYWdlRm9ybWF0LlBNU2NhbGluZzwva2V5PgoJ&#xa;PGRpY3Q+CgkJPGtleT5jb20uYXBwbGUucHJpbnQudGlja2V0LmNyZWF0b3I8L2tleT4KCQk8c3Ry&#xa;aW5nPmNvbS5hcHBsZS5qb2J0aWNrZXQ8L3N0cmluZz4KCQk8a2V5PmNvbS5hcHBsZS5wcmludC50&#xa;aWNrZXQuaXRlbUFycmF5PC9rZXk+CgkJPGFycmF5PgoJCQk8ZGljdD4KCQkJCTxrZXk+Y29tLmFw&#xa;cGxlLnByaW50LlBhZ2VGb3JtYXQuUE1TY2FsaW5nPC9rZXk+CgkJCQk8cmVhbD4xPC9yZWFsPgoJ&#xa;CQkJPGtleT5jb20uYXBwbGUucHJpbnQudGlja2V0LnN0YXRlRmxhZzwva2V5PgoJCQkJPGludGVn&#xa;ZXI+MDwvaW50ZWdlcj4KCQkJPC9kaWN0PgoJCTwvYXJyYXk+Cgk8L2RpY3Q+Cgk8a2V5PmNvbS5h&#xa;cHBsZS5wcmludC5QYWdlRm9ybWF0LlBNVmVydGljYWxSZXM8L2tleT4KCTxkaWN0PgoJCTxrZXk+&#xa;Y29tLmFwcGxlLnByaW50LnRpY2tldC5jcmVhdG9yPC9rZXk+CgkJPHN0cmluZz5jb20uYXBwbGUu&#xa;am9idGlja2V0PC9zdHJpbmc+CgkJPGtleT5jb20uYXBwbGUucHJpbnQudGlja2V0Lml0ZW1BcnJh&#xa;eTwva2V5PgoJCTxhcnJheT4KCQkJPGRpY3Q+CgkJCQk8a2V5PmNvbS5hcHBsZS5wcmludC5QYWdl&#xa;Rm9ybWF0LlBNVmVydGljYWxSZXM8L2tleT4KCQkJCTxyZWFsPjcyPC9yZWFsPgoJCQkJPGtleT5j&#xa;b20uYXBwbGUucHJpbnQudGlja2V0LnN0YXRlRmxhZzwva2V5PgoJCQkJPGludGVnZXI+MDwvaW50&#xa;ZWdlcj4KCQkJPC9kaWN0PgoJCTwvYXJyYXk+Cgk8L2RpY3Q+Cgk8a2V5PmNvbS5hcHBsZS5wcmlu&#xa;dC5QYWdlRm9ybWF0LlBNVmVydGljYWxTY2FsaW5nPC9rZXk+Cgk8ZGljdD4KCQk8a2V5PmNvbS5h&#xa;cHBsZS5wcmludC50aWNrZXQuY3JlYXRvcjwva2V5PgoJCTxzdHJpbmc+Y29tLmFwcGxlLmpvYnRp&#xa;Y2tldDwvc3RyaW5nPgoJCTxrZXk+Y29tLmFwcGxlLnByaW50LnRpY2tldC5pdGVtQXJyYXk8L2tl&#xa;eT4KCQk8YXJyYXk+CgkJCTxkaWN0PgoJCQkJPGtleT5jb20uYXBwbGUucHJpbnQuUGFnZUZvcm1h&#xa;dC5QTVZlcnRpY2FsU2NhbGluZzwva2V5PgoJCQkJPHJlYWw+MTwvcmVhbD4KCQkJCTxrZXk+Y29t&#xa;LmFwcGxlLnByaW50LnRpY2tldC5zdGF0ZUZsYWc8L2tleT4KCQkJCTxpbnRlZ2VyPjA8L2ludGVn&#xa;ZXI+CgkJCTwvZGljdD4KCQk8L2FycmF5PgoJPC9kaWN0PgoJPGtleT5jb20uYXBwbGUucHJpbnQu&#xa;c3ViVGlja2V0LnBhcGVyX2luZm9fdGlja2V0PC9rZXk+Cgk8ZGljdD4KCQk8a2V5PlBNUFBEUGFw&#xa;ZXJDb2RlTmFtZTwva2V5PgoJCTxkaWN0PgoJCQk8a2V5PmNvbS5hcHBsZS5wcmludC50aWNrZXQu&#xa;Y3JlYXRvcjwva2V5PgoJCQk8c3RyaW5nPmNvbS5hcHBsZS5qb2J0aWNrZXQ8L3N0cmluZz4KCQkJ&#xa;PGtleT5jb20uYXBwbGUucHJpbnQudGlja2V0Lml0ZW1BcnJheTwva2V5PgoJCQk8YXJyYXk+CgkJ&#xa;CQk8ZGljdD4KCQkJCQk8a2V5PlBNUFBEUGFwZXJDb2RlTmFtZTwva2V5PgoJCQkJCTxzdHJpbmc+&#xa;QTQ8L3N0cmluZz4KCQkJCQk8a2V5PmNvbS5hcHBsZS5wcmludC50aWNrZXQuc3RhdGVGbGFnPC9r&#xa;ZXk+CgkJCQkJPGludGVnZXI+MDwvaW50ZWdlcj4KCQkJCTwvZGljdD4KCQkJPC9hcnJheT4KCQk8&#xa;L2RpY3Q+CgkJPGtleT5QTVBQRFRyYW5zbGF0aW9uU3RyaW5nUGFwZXJOYW1lPC9rZXk+CgkJPGRp&#xa;Y3Q+CgkJCTxrZXk+Y29tLmFwcGxlLnByaW50LnRpY2tldC5jcmVhdG9yPC9rZXk+CgkJCTxzdHJp&#xa;bmc+Y29tLmFwcGxlLmpvYnRpY2tldDwvc3RyaW5nPgoJCQk8a2V5PmNvbS5hcHBsZS5wcmludC50&#xa;aWNrZXQuaXRlbUFycmF5PC9rZXk+CgkJCTxhcnJheT4KCQkJCTxkaWN0PgoJCQkJCTxrZXk+UE1Q&#xa;UERUcmFuc2xhdGlvblN0cmluZ1BhcGVyTmFtZTwva2V5PgoJCQkJCTxzdHJpbmc+QTQ8L3N0cmlu&#xa;Zz4KCQkJCQk8a2V5PmNvbS5hcHBsZS5wcmludC50aWNrZXQuc3RhdGVGbGFnPC9rZXk+CgkJCQkJ&#xa;PGludGVnZXI+MDwvaW50ZWdlcj4KCQkJCTwvZGljdD4KCQkJPC9hcnJheT4KCQk8L2RpY3Q+CgkJ&#xa;PGtleT5QTVRpb2dhUGFwZXJOYW1lPC9rZXk+CgkJPGRpY3Q+CgkJCTxrZXk+Y29tLmFwcGxlLnBy&#xa;aW50LnRpY2tldC5jcmVhdG9yPC9rZXk+CgkJCTxzdHJpbmc+Y29tLmFwcGxlLmpvYnRpY2tldDwv&#xa;c3RyaW5nPgoJCQk8a2V5PmNvbS5hcHBsZS5wcmludC50aWNrZXQuaXRlbUFycmF5PC9rZXk+CgkJ&#xa;CTxhcnJheT4KCQkJCTxkaWN0PgoJCQkJCTxrZXk+UE1UaW9nYVBhcGVyTmFtZTwva2V5PgoJCQkJ&#xa;CTxzdHJpbmc+aXNvLWE0PC9zdHJpbmc+CgkJCQkJPGtleT5jb20uYXBwbGUucHJpbnQudGlja2V0&#xa;LnN0YXRlRmxhZzwva2V5PgoJCQkJCTxpbnRlZ2VyPjA8L2ludGVnZXI+CgkJCQk8L2RpY3Q+CgkJ&#xa;CTwvYXJyYXk+CgkJPC9kaWN0PgoJCTxrZXk+Y29tLmFwcGxlLnByaW50LlBhZ2VGb3JtYXQuUE1B&#xa;ZGp1c3RlZFBhZ2VSZWN0PC9rZXk+CgkJPGRpY3Q+CgkJCTxrZXk+Y29tLmFwcGxlLnByaW50LnRp&#xa;Y2tldC5jcmVhdG9yPC9rZXk+CgkJCTxzdHJpbmc+Y29tLmFwcGxlLmpvYnRpY2tldDwvc3RyaW5n&#xa;PgoJCQk8a2V5PmNvbS5hcHBsZS5wcmludC50aWNrZXQuaXRlbUFycmF5PC9rZXk+CgkJCTxhcnJh&#xa;eT4KCQkJCTxkaWN0PgoJCQkJCTxrZXk+Y29tLmFwcGxlLnByaW50LlBhZ2VGb3JtYXQuUE1BZGp1&#xa;c3RlZFBhZ2VSZWN0PC9rZXk+CgkJCQkJPGFycmF5PgoJCQkJCQk8cmVhbD4wLjA8L3JlYWw+CgkJ&#xa;CQkJCTxyZWFsPjAuMDwvcmVhbD4KCQkJCQkJPHJlYWw+ODA4LjMxOTk0NjI4OTA2MjU8L3JlYWw+&#xa;CgkJCQkJCTxyZWFsPjU2MS4zMTk5NDYyODkwNjI1PC9yZWFsPgoJCQkJCTwvYXJyYXk+CgkJCQkJ&#xa;PGtleT5jb20uYXBwbGUucHJpbnQudGlja2V0LnN0YXRlRmxhZzwva2V5PgoJCQkJCTxpbnRlZ2Vy&#xa;PjA8L2ludGVnZXI+CgkJCQk8L2RpY3Q+CgkJCTwvYXJyYXk+CgkJPC9kaWN0PgoJCTxrZXk+Y29t&#xa;LmFwcGxlLnByaW50LlBhZ2VGb3JtYXQuUE1BZGp1c3RlZFBhcGVyUmVjdDwva2V5PgoJCTxkaWN0&#xa;PgoJCQk8a2V5PmNvbS5hcHBsZS5wcmludC50aWNrZXQuY3JlYXRvcjwva2V5PgoJCQk8c3RyaW5n&#xa;PmNvbS5hcHBsZS5qb2J0aWNrZXQ8L3N0cmluZz4KCQkJPGtleT5jb20uYXBwbGUucHJpbnQudGlj&#xa;a2V0Lml0ZW1BcnJheTwva2V5PgoJCQk8YXJyYXk+CgkJCQk8ZGljdD4KCQkJCQk8a2V5PmNvbS5h&#xa;cHBsZS5wcmludC5QYWdlRm9ybWF0LlBNQWRqdXN0ZWRQYXBlclJlY3Q8L2tleT4KCQkJCQk8YXJy&#xa;YXk+CgkJCQkJCTxyZWFsPi0xNi44NDAwMjY4NTU0Njg3NTwvcmVhbD4KCQkJCQkJPHJlYWw+LTE2&#xa;Ljg0MDAwMDE1MjU4Nzg5MTwvcmVhbD4KCQkJCQkJPHJlYWw+ODI1LjE1OTk3MzE0NDUzMTI1PC9y&#xa;ZWFsPgoJCQkJCQk8cmVhbD41NzguMTU5OTczMTQ0NTMxMjU8L3JlYWw+CgkJCQkJPC9hcnJheT4K&#xa;CQkJCQk8a2V5PmNvbS5hcHBsZS5wcmludC50aWNrZXQuc3RhdGVGbGFnPC9rZXk+CgkJCQkJPGlu&#xa;dGVnZXI+MDwvaW50ZWdlcj4KCQkJCTwvZGljdD4KCQkJPC9hcnJheT4KCQk8L2RpY3Q+CgkJPGtl&#xa;eT5jb20uYXBwbGUucHJpbnQuUGFwZXJJbmZvLlBNQ29uc3RyYWluZWRQYXBlcjwva2V5PgoJCTxk&#xa;aWN0PgoJCQk8a2V5PmNvbS5hcHBsZS5wcmludC50aWNrZXQuY3JlYXRvcjwva2V5PgoJCQk8c3Ry&#xa;aW5nPmNvbS5hcHBsZS5qb2J0aWNrZXQ8L3N0cmluZz4KCQkJPGtleT5jb20uYXBwbGUucHJpbnQu&#xa;dGlja2V0Lml0ZW1BcnJheTwva2V5PgoJCQk8YXJyYXk+CgkJCQk8ZGljdD4KCQkJCQk8a2V5PmNv&#xa;bS5hcHBsZS5wcmludC5QYXBlckluZm8uUE1Db25zdHJhaW5lZFBhcGVyPC9rZXk+CgkJCQkJPGZh&#xa;bHNlLz4KCQkJCQk8a2V5PmNvbS5hcHBsZS5wcmludC50aWNrZXQuc3RhdGVGbGFnPC9rZXk+CgkJ&#xa;CQkJPGludGVnZXI+MDwvaW50ZWdlcj4KCQkJCTwvZGljdD4KCQkJPC9hcnJheT4KCQk8L2RpY3Q+&#xa;CgkJPGtleT5jb20uYXBwbGUucHJpbnQuUGFwZXJJbmZvLlBNUGFwZXJOYW1lPC9rZXk+CgkJPGRp&#xa;Y3Q+CgkJCTxrZXk+Y29tLmFwcGxlLnByaW50LnRpY2tldC5jcmVhdG9yPC9rZXk+CgkJCTxzdHJp&#xa;bmc+Y29tLmFwcGxlLmpvYnRpY2tldDwvc3RyaW5nPgoJCQk8a2V5PmNvbS5hcHBsZS5wcmludC50&#xa;aWNrZXQuaXRlbUFycmF5PC9rZXk+CgkJCTxhcnJheT4KCQkJCTxkaWN0PgoJCQkJCTxrZXk+Y29t&#xa;LmFwcGxlLnByaW50LlBhcGVySW5mby5QTVBhcGVyTmFtZTwva2V5PgoJCQkJCTxzdHJpbmc+aXNv&#xa;LWE0PC9zdHJpbmc+CgkJCQkJPGtleT5jb20uYXBwbGUucHJpbnQudGlja2V0LnN0YXRlRmxhZzwv&#xa;a2V5PgoJCQkJCTxpbnRlZ2VyPjA8L2ludGVnZXI+CgkJCQk8L2RpY3Q+CgkJCTwvYXJyYXk+CgkJ&#xa;PC9kaWN0PgoJCTxrZXk+Y29tLmFwcGxlLnByaW50LlBhcGVySW5mby5QTVVuYWRqdXN0ZWRQYWdl&#xa;UmVjdDwva2V5PgoJCTxkaWN0PgoJCQk8a2V5PmNvbS5hcHBsZS5wcmludC50aWNrZXQuY3JlYXRv&#xa;cjwva2V5PgoJCQk8c3RyaW5nPmNvbS5hcHBsZS5qb2J0aWNrZXQ8L3N0cmluZz4KCQkJPGtleT5j&#xa;b20uYXBwbGUucHJpbnQudGlja2V0Lml0ZW1BcnJheTwva2V5PgoJCQk8YXJyYXk+CgkJCQk8ZGlj&#xa;dD4KCQkJCQk8a2V5PmNvbS5hcHBsZS5wcmludC5QYXBlckluZm8uUE1VbmFkanVzdGVkUGFnZVJl&#xa;Y3Q8L2tleT4KCQkJCQk8YXJyYXk+CgkJCQkJCTxyZWFsPjAuMDwvcmVhbD4KCQkJCQkJPHJlYWw+&#xa;MC4wPC9yZWFsPgoJCQkJCQk8cmVhbD44MDguMzE5OTQ2Mjg5MDYyNTwvcmVhbD4KCQkJCQkJPHJl&#xa;YWw+NTYxLjMxOTk0NjI4OTA2MjU8L3JlYWw+CgkJCQkJPC9hcnJheT4KCQkJCQk8a2V5PmNvbS5h&#xa;cHBsZS5wcmludC50aWNrZXQuc3RhdGVGbGFnPC9rZXk+CgkJCQkJPGludGVnZXI+MDwvaW50ZWdl&#xa;cj4KCQkJCTwvZGljdD4KCQkJPC9hcnJheT4KCQk8L2RpY3Q+CgkJPGtleT5jb20uYXBwbGUucHJp&#xa;bnQuUGFwZXJJbmZvLlBNVW5hZGp1c3RlZFBhcGVyUmVjdDwva2V5PgoJCTxkaWN0PgoJCQk8a2V5&#xa;PmNvbS5hcHBsZS5wcmludC50aWNrZXQuY3JlYXRvcjwva2V5PgoJCQk8c3RyaW5nPmNvbS5hcHBs&#xa;ZS5qb2J0aWNrZXQ8L3N0cmluZz4KCQkJPGtleT5jb20uYXBwbGUucHJpbnQudGlja2V0Lml0ZW1B&#xa;cnJheTwva2V5PgoJCQk8YXJyYXk+CgkJCQk8ZGljdD4KCQkJCQk8a2V5PmNvbS5hcHBsZS5wcmlu&#xa;dC5QYXBlckluZm8uUE1VbmFkanVzdGVkUGFwZXJSZWN0PC9rZXk+CgkJCQkJPGFycmF5PgoJCQkJ&#xa;CQk8cmVhbD4tMTYuODQwMDI2ODU1NDY4NzU8L3JlYWw+CgkJCQkJCTxyZWFsPi0xNi44NDAwMDAx&#xa;NTI1ODc4OTE8L3JlYWw+CgkJCQkJCTxyZWFsPjgyNS4xNTk5NzMxNDQ1MzEyNTwvcmVhbD4KCQkJ&#xa;CQkJPHJlYWw+NTc4LjE1OTk3MzE0NDUzMTI1PC9yZWFsPgoJCQkJCTwvYXJyYXk+CgkJCQkJPGtl&#xa;eT5jb20uYXBwbGUucHJpbnQudGlja2V0LnN0YXRlRmxhZzwva2V5PgoJCQkJCTxpbnRlZ2VyPjA8&#xa;L2ludGVnZXI+CgkJCQk8L2RpY3Q+CgkJCTwvYXJyYXk+CgkJPC9kaWN0PgoJCTxrZXk+Y29tLmFw&#xa;cGxlLnByaW50LlBhcGVySW5mby5wcGQuUE1QYXBlck5hbWU8L2tleT4KCQk8ZGljdD4KCQkJPGtl&#xa;eT5jb20uYXBwbGUucHJpbnQudGlja2V0LmNyZWF0b3I8L2tleT4KCQkJPHN0cmluZz5jb20uYXBw&#xa;bGUuam9idGlja2V0PC9zdHJpbmc+CgkJCTxrZXk+Y29tLmFwcGxlLnByaW50LnRpY2tldC5pdGVt&#xa;QXJyYXk8L2tleT4KCQkJPGFycmF5PgoJCQkJPGRpY3Q+CgkJCQkJPGtleT5jb20uYXBwbGUucHJp&#xa;bnQuUGFwZXJJbmZvLnBwZC5QTVBhcGVyTmFtZTwva2V5PgoJCQkJCTxzdHJpbmc+QTQ8L3N0cmlu&#xa;Zz4KCQkJCQk8a2V5PmNvbS5hcHBsZS5wcmludC50aWNrZXQuc3RhdGVGbGFnPC9rZXk+CgkJCQkJ&#xa;PGludGVnZXI+MDwvaW50ZWdlcj4KCQkJCTwvZGljdD4KCQkJPC9hcnJheT4KCQk8L2RpY3Q+CgkJ&#xa;PGtleT5jb20uYXBwbGUucHJpbnQudGlja2V0LkFQSVZlcnNpb248L2tleT4KCQk8c3RyaW5nPjAw&#xa;LjIwPC9zdHJpbmc+CgkJPGtleT5jb20uYXBwbGUucHJpbnQudGlja2V0LnR5cGU8L2tleT4KCQk8&#xa;c3RyaW5nPmNvbS5hcHBsZS5wcmludC5QYXBlckluZm9UaWNrZXQ8L3N0cmluZz4KCTwvZGljdD4K&#xa;CTxrZXk+Y29tLmFwcGxlLnByaW50LnRpY2tldC5BUElWZXJzaW9uPC9rZXk+Cgk8c3RyaW5nPjAw&#xa;LjIwPC9zdHJpbmc+Cgk8a2V5PmNvbS5hcHBsZS5wcmludC50aWNrZXQudHlwZTwva2V5PgoJPHN0&#xa;cmluZz5jb20uYXBwbGUucHJpbnQuUGFnZUZvcm1hdFRpY2tldDwvc3RyaW5nPgo8L2RpY3Q+Cjwv&#xa;cGxpc3Q+CnRTUE1PEQAAPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFE&#xa;T0NUWVBFIHBsaXN0IFBVQkxJQyAiLS8vQXBwbGUvL0RURCBQTElTVCAxLjAvL0VOIiAiaHR0cDov&#xa;L3d3dy5hcHBsZS5jb20vRFREcy9Qcm9wZXJ0eUxpc3QtMS4wLmR0ZCI+CjxwbGlzdCB2ZXJzaW9u&#xa;PSIxLjAiPgo8ZGljdD4KCTxrZXk+Y29tLmFwcGxlLnByaW50LkRvY3VtZW50VGlja2V0LlBNU3Bv&#xa;b2xGb3JtYXQ8L2tleT4KCTxkaWN0PgoJCTxrZXk+Y29tLmFwcGxlLnByaW50LnRpY2tldC5jcmVh&#xa;dG9yPC9rZXk+CgkJPHN0cmluZz5jb20uYXBwbGUuam9idGlja2V0PC9zdHJpbmc+CgkJPGtleT5j&#xa;b20uYXBwbGUucHJpbnQudGlja2V0Lml0ZW1BcnJheTwva2V5PgoJCTxhcnJheT4KCQkJPGRpY3Q+&#xa;CgkJCQk8a2V5PmNvbS5hcHBsZS5wcmludC5Eb2N1bWVudFRpY2tldC5QTVNwb29sRm9ybWF0PC9r&#xa;ZXk+CgkJCQk8c3RyaW5nPmFwcGxpY2F0aW9uL3BkZjwvc3RyaW5nPgoJCQkJPGtleT5jb20uYXBw&#xa;bGUucHJpbnQudGlja2V0LnN0YXRlRmxhZzwva2V5PgoJCQkJPGludGVnZXI+MDwvaW50ZWdlcj4K&#xa;CQkJPC9kaWN0PgoJCTwvYXJyYXk+Cgk8L2RpY3Q+Cgk8a2V5PmNvbS5hcHBsZS5wcmludC5Kb2JJ&#xa;bmZvLlBNSm9iTmFtZTwva2V5PgoJPGRpY3Q+CgkJPGtleT5jb20uYXBwbGUucHJpbnQudGlja2V0&#xa;LmNyZWF0b3I8L2tleT4KCQk8c3RyaW5nPmNvbS5hcHBsZS5qb2J0aWNrZXQ8L3N0cmluZz4KCQk8&#xa;a2V5PmNvbS5hcHBsZS5wcmludC50aWNrZXQuaXRlbUFycmF5PC9rZXk+CgkJPGFycmF5PgoJCQk8&#xa;ZGljdD4KCQkJCTxrZXk+Y29tLmFwcGxlLnByaW50LkpvYkluZm8uUE1Kb2JOYW1lPC9rZXk+CgkJ&#xa;CQk8c3RyaW5nPkZPUlRVTV9rYW1wcGlzX3YxLjAuaW5kZDwvc3RyaW5nPgoJCQkJPGtleT5jb20u&#xa;YXBwbGUucHJpbnQudGlja2V0LnN0YXRlRmxhZzwva2V5PgoJCQkJPGludGVnZXI+MDwvaW50ZWdl&#xa;cj4KCQkJPC9kaWN0PgoJCTwvYXJyYXk+Cgk8L2RpY3Q+Cgk8a2V5PmNvbS5hcHBsZS5wcmludC5Q&#xa;cmludFNldHRpbmdzLlBNQ29sb3JNb2RlPC9rZXk+Cgk8ZGljdD4KCQk8a2V5PmNvbS5hcHBsZS5w&#xa;cmludC50aWNrZXQuY3JlYXRvcjwva2V5PgoJCTxzdHJpbmc+Y29tLmFwcGxlLmpvYnRpY2tldDwv&#xa;c3RyaW5nPgoJCTxrZXk+Y29tLmFwcGxlLnByaW50LnRpY2tldC5pdGVtQXJyYXk8L2tleT4KCQk8&#xa;YXJyYXk+CgkJCTxkaWN0PgoJCQkJPGtleT5jb20uYXBwbGUucHJpbnQuUHJpbnRTZXR0aW5ncy5Q&#xa;TUNvbG9yTW9kZTwva2V5PgoJCQkJPGludGVnZXI+MzwvaW50ZWdlcj4KCQkJCTxrZXk+Y29tLmFw&#xa;cGxlLnByaW50LnRpY2tldC5zdGF0ZUZsYWc8L2tleT4KCQkJCTxpbnRlZ2VyPjA8L2ludGVnZXI+&#xa;CgkJCTwvZGljdD4KCQk8L2FycmF5PgoJPC9kaWN0PgoJPGtleT5jb20uYXBwbGUucHJpbnQuUHJp&#xa;bnRTZXR0aW5ncy5QTUNvbG9yU3luY1Byb2ZpbGVJRDwva2V5PgoJPGRpY3Q+CgkJPGtleT5jb20u&#xa;YXBwbGUucHJpbnQudGlja2V0LmNyZWF0b3I8L2tleT4KCQk8c3RyaW5nPmNvbS5hcHBsZS5qb2J0&#xa;aWNrZXQ8L3N0cmluZz4KCQk8a2V5PmNvbS5hcHBsZS5wcmludC50aWNrZXQuaXRlbUFycmF5PC9r&#xa;ZXk+CgkJPGFycmF5PgoJCQk8ZGljdD4KCQkJCTxrZXk+Y29tLmFwcGxlLnByaW50LlByaW50U2V0&#xa;dGluZ3MuUE1Db2xvclN5bmNQcm9maWxlSUQ8L2tleT4KCQkJCTxpbnRlZ2VyPjM0NzM8L2ludGVn&#xa;ZXI+CgkJCQk8a2V5PmNvbS5hcHBsZS5wcmludC50aWNrZXQuc3RhdGVGbGFnPC9rZXk+CgkJCQk8&#xa;aW50ZWdlcj4wPC9pbnRlZ2VyPgoJCQk8L2RpY3Q+CgkJPC9hcnJheT4KCTwvZGljdD4KCTxrZXk+&#xa;Y29tLmFwcGxlLnByaW50LlByaW50U2V0dGluZ3MuUE1Db3BpZXM8L2tleT4KCTxkaWN0PgoJCTxr&#xa;ZXk+Y29tLmFwcGxlLnByaW50LnRpY2tldC5jcmVhdG9yPC9rZXk+CgkJPHN0cmluZz5jb20uYXBw&#xa;bGUuam9idGlja2V0PC9zdHJpbmc+CgkJPGtleT5jb20uYXBwbGUucHJpbnQudGlja2V0Lml0ZW1B&#xa;cnJheTwva2V5PgoJCTxhcnJheT4KCQkJPGRpY3Q+CgkJCQk8a2V5PmNvbS5hcHBsZS5wcmludC5Q&#xa;cmludFNldHRpbmdzLlBNQ29waWVzPC9rZXk+CgkJCQk8aW50ZWdlcj4yPC9pbnRlZ2VyPgoJCQkJ&#xa;PGtleT5jb20uYXBwbGUucHJpbnQudGlja2V0LnN0YXRlRmxhZzwva2V5PgoJCQkJPGludGVnZXI+&#xa;MDwvaW50ZWdlcj4KCQkJPC9kaWN0PgoJCTwvYXJyYXk+Cgk8L2RpY3Q+Cgk8a2V5PmNvbS5hcHBs&#xa;ZS5wcmludC5QcmludFNldHRpbmdzLlBNQ29weUNvbGxhdGU8L2tleT4KCTxkaWN0PgoJCTxrZXk+&#xa;Y29tLmFwcGxlLnByaW50LnRpY2tldC5jcmVhdG9yPC9rZXk+CgkJPHN0cmluZz5jb20uYXBwbGUu&#xa;am9idGlja2V0PC9zdHJpbmc+CgkJPGtleT5jb20uYXBwbGUucHJpbnQudGlja2V0Lml0ZW1BcnJh&#xa;eTwva2V5PgoJCTxhcnJheT4KCQkJPGRpY3Q+CgkJCQk8a2V5PmNvbS5hcHBsZS5wcmludC5Qcmlu&#xa;dFNldHRpbmdzLlBNQ29weUNvbGxhdGU8L2tleT4KCQkJCTx0cnVlLz4KCQkJCTxrZXk+Y29tLmFw&#xa;cGxlLnByaW50LnRpY2tldC5zdGF0ZUZsYWc8L2tleT4KCQkJCTxpbnRlZ2VyPjA8L2ludGVnZXI+&#xa;CgkJCTwvZGljdD4KCQk8L2FycmF5PgoJPC9kaWN0PgoJPGtleT5jb20uYXBwbGUucHJpbnQuUHJp&#xa;bnRTZXR0aW5ncy5QTURlc3RpbmF0aW9uVHlwZTwva2V5PgoJPGRpY3Q+CgkJPGtleT5jb20uYXBw&#xa;bGUucHJpbnQudGlja2V0LmNyZWF0b3I8L2tleT4KCQk8c3RyaW5nPmNvbS5hcHBsZS5qb2J0aWNr&#xa;ZXQ8L3N0cmluZz4KCQk8a2V5PmNvbS5hcHBsZS5wcmludC50aWNrZXQuaXRlbUFycmF5PC9rZXk+&#xa;CgkJPGFycmF5PgoJCQk8ZGljdD4KCQkJCTxrZXk+Y29tLmFwcGxlLnByaW50LlByaW50U2V0dGlu&#xa;Z3MuUE1EZXN0aW5hdGlvblR5cGU8L2tleT4KCQkJCTxpbnRlZ2VyPjE8L2ludGVnZXI+CgkJCQk8&#xa;a2V5PmNvbS5hcHBsZS5wcmludC50aWNrZXQuc3RhdGVGbGFnPC9rZXk+CgkJCQk8aW50ZWdlcj4w&#xa;PC9pbnRlZ2VyPgoJCQk8L2RpY3Q+CgkJPC9hcnJheT4KCTwvZGljdD4KCTxrZXk+Y29tLmFwcGxl&#xa;LnByaW50LlByaW50U2V0dGluZ3MuUE1GaXJzdFBhZ2U8L2tleT4KCTxkaWN0PgoJCTxrZXk+Y29t&#xa;LmFwcGxlLnByaW50LnRpY2tldC5jcmVhdG9yPC9rZXk+CgkJPHN0cmluZz5jb20uYXBwbGUuam9i&#xa;dGlja2V0PC9zdHJpbmc+CgkJPGtleT5jb20uYXBwbGUucHJpbnQudGlja2V0Lml0ZW1BcnJheTwv&#xa;a2V5PgoJCTxhcnJheT4KCQkJPGRpY3Q+CgkJCQk8a2V5PmNvbS5hcHBsZS5wcmludC5QcmludFNl&#xa;dHRpbmdzLlBNRmlyc3RQYWdlPC9rZXk+CgkJCQk8aW50ZWdlcj4xPC9pbnRlZ2VyPgoJCQkJPGtl&#xa;eT5jb20uYXBwbGUucHJpbnQudGlja2V0LnN0YXRlRmxhZzwva2V5PgoJCQkJPGludGVnZXI+MDwv&#xa;aW50ZWdlcj4KCQkJPC9kaWN0PgoJCTwvYXJyYXk+Cgk8L2RpY3Q+Cgk8a2V5PmNvbS5hcHBsZS5w&#xa;cmludC5QcmludFNldHRpbmdzLlBNTGFzdFBhZ2U8L2tleT4KCTxkaWN0PgoJCTxrZXk+Y29tLmFw&#xa;cGxlLnByaW50LnRpY2tldC5jcmVhdG9yPC9rZXk+CgkJPHN0cmluZz5jb20uYXBwbGUuam9idGlj&#xa;a2V0PC9zdHJpbmc+CgkJPGtleT5jb20uYXBwbGUucHJpbnQudGlja2V0Lml0ZW1BcnJheTwva2V5&#xa;PgoJCTxhcnJheT4KCQkJPGRpY3Q+CgkJCQk8a2V5PmNvbS5hcHBsZS5wcmludC5QcmludFNldHRp&#xa;bmdzLlBNTGFzdFBhZ2U8L2tleT4KCQkJCTxpbnRlZ2VyPjIxNDc0ODM2NDc8L2ludGVnZXI+CgkJ&#xa;CQk8a2V5PmNvbS5hcHBsZS5wcmludC50aWNrZXQuc3RhdGVGbGFnPC9rZXk+CgkJCQk8aW50ZWdl&#xa;cj4wPC9pbnRlZ2VyPgoJCQk8L2RpY3Q+CgkJPC9hcnJheT4KCTwvZGljdD4KCTxrZXk+Y29tLmFw&#xa;cGxlLnByaW50LlByaW50U2V0dGluZ3MuUE1QYWdlUmFuZ2U8L2tleT4KCTxkaWN0PgoJCTxrZXk+&#xa;Y29tLmFwcGxlLnByaW50LnRpY2tldC5jcmVhdG9yPC9rZXk+CgkJPHN0cmluZz5jb20uYXBwbGUu&#xa;am9idGlja2V0PC9zdHJpbmc+CgkJPGtleT5jb20uYXBwbGUucHJpbnQudGlja2V0Lml0ZW1BcnJh&#xa;eTwva2V5PgoJCTxhcnJheT4KCQkJPGRpY3Q+CgkJCQk8a2V5PmNvbS5hcHBsZS5wcmludC5Qcmlu&#xa;dFNldHRpbmdzLlBNUGFnZVJhbmdlPC9rZXk+CgkJCQk8YXJyYXk+CgkJCQkJPGludGVnZXI+MTwv&#xa;aW50ZWdlcj4KCQkJCQk8aW50ZWdlcj4yMTQ3NDgzNjQ3PC9pbnRlZ2VyPgoJCQkJPC9hcnJheT4K&#xa;CQkJCTxrZXk+Y29tLmFwcGxlLnByaW50LnRpY2tldC5zdGF0ZUZsYWc8L2tleT4KCQkJCTxpbnRl&#xa;Z2VyPjA8L2ludGVnZXI+CgkJCTwvZGljdD4KCQk8L2FycmF5PgoJPC9kaWN0PgoJPGtleT5jb20u&#xa;YXBwbGUucHJpbnQudGlja2V0LkFQSVZlcnNpb248L2tleT4KCTxzdHJpbmc+MDAuMjA8L3N0cmlu&#xa;Zz4KCTxrZXk+Y29tLmFwcGxlLnByaW50LnRpY2tldC50eXBlPC9rZXk+Cgk8c3RyaW5nPmNvbS5h&#xa;cHBsZS5wcmludC5QcmludFNldHRpbmdzVGlja2V0PC9zdHJpbmc+CjwvZGljdD4KPC9wbGlzdD4K&#xa;d1ZQTQEAAAAAdHJQTREAAABfMDEwXzAwMF8wMDBfMDk4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#xa;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#xa;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#xa;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#xa;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#xa;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#xa;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#xa;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#xa;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#xa;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#xa;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#xa;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#xa;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" Rpre="D_72" RpSR="x_4_D_0_D_0_D_595_D_842" RpIR="x_4_D_16.84000015258789_D_16.84002685546875_D_578.1599731445312_D_825.1599731445312" RpSS="k_QTQA" RpHR="x_2_D_540_D_1274" RpWR="x_2_D_264_D_842" RpOR="x_2_D_0_D_0" RpSs="k_kDefault" RpCs="k_kDefault" RSIA="D_45" RSIF="D_70" RpBC="b_f" RpCn="b_t" bmpr="b_f" bmrz="l_12c" RpLR="e_vprL"/>
+	<CPrB pcty="e_prna" BBTy="e_B2SS" BSBP="U_0" BBBP="U_0" BCrp="U_0" BSgS="e_BS04" dmTM="U_36" dmBM="U_36" dmLM="U_36" dmRM="U_36" BAAM="b_t" BChM="b_f" BPBS="b_t"/>
+	<CPBP Rprs="rx_0" Rpds="rx_0" Rpss="rx_0" RpSL="rx_0" Rprt="k_" ppd="k_" RpFn="f_" lwcp="l_1" lwcl="b_f" Rrvr="b_f" Rpnp="b_f" Rblk="b_f" Rpgg="b_f" Rpsz="e_PSDr" Rpht="e_atil" Rpwd="e_atil" Rpof="U_0" Rpgp="U_0" RpTv="b_f" RpOr="e_high" RpCt="e_cntN" RScm="e_scxy" swdp="D_100" shtp="D_100" RpSP="b_t" RpLR="e_vprL" apm="b_f" crpm="b_f" bldm="b_f" regm="b_f" colb="b_f" pifo="b_f" RpMt="e_Dflt" RpMw="e_250p" Rpmo="U_6" RpDB="b_t" RpBt="U_0" RpBb="U_0" RpBi="U_0" RpBo="U_0" RpBC="b_f" RpCm="e_cmCK" RpTB="b_f" trpe="e_OFF" RpFp="e_none" RpNe="b_f" RpSc="e_Dflt" RpCA="D_45" RpCF="D_70" RpSO="b_f" RPCI="b_t" RCIA="D_75" RCIF="D_70" RPMI="b_t" RMIA="D_15" RMIF="D_70" RPYI="b_t" RYIA="D_0" RYIF="D_70" RPBI="b_t" RBIA="D_45" RBIF="D_70" simd="e_opss" fndl="e_whle" RpPF="b_t" RpPL="e_PSL2" RpDF="e_Bnry" RCSP="e_uDoc" RpPr="e_uDoc" RpCr="e_Dflt" RCin="e_RIac" RpCn="b_t" odir="b_f" omte="b_f" omtp="b_f" omtb="b_f" RpFS="k_kFlSt~sep~MediumDefaultName" igSO="b_f" bmpr="b_f" bmrz="l_12c" Rsty="e_Cstm" Rpdt="l_0" Rppt="l_0" ppdf="k_" Rptd="b_f" Rppr="k_" Rpre="D_600" RpSR="x_4_D_0_D_0_D_0_D_0" RpIR="x_4_D_0_D_0_D_0_D_0" RpSS="k_" RpHR="x_2_D_0_D_0" RpWR="x_2_D_0_D_0" RpOR="x_2_D_0_D_0" RpSs="k_" RpCs="k_kDefault" RSIA="D_45" RSIF="D_70"/>
+	<cMep>
+		<pcnt><![CDATA[<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 4.2.2-c063 53.352624, 2008/07/30-18:12:18        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+         <dc:format>application/x-indesign</dc:format>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/">
+         <xmp:CreateDate>2016-06-05T19:00:11-07:00</xmp:CreateDate>
+         <xmp:MetadataDate>2016-06-07T08:23:52+08:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2016-06-07T08:23:52+08:00</xmp:ModifyDate>
+         <xmp:CreatorTool>Adobe InDesign 6.0</xmp:CreatorTool>
+         <xmp:Thumbnails>
+            <rdf:Alt>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpGImg:format>JPEG</xmpGImg:format>
+                  <xmpGImg:width>256</xmpGImg:width>
+                  <xmpGImg:height>256</xmpGImg:height>
+                  <xmpGImg:image>/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA&#xA;AQBIAAAAAQAB/+4AE0Fkb2JlAGSAAAAAAQUAArFD/9sAhAAKBwcHBwcKBwcKDgkJCQ4RDAsLDBEU&#xA;EBAQEBAUEQ8RERERDxERFxoaGhcRHyEhISEfKy0tLSsyMjIyMjIyMjIyAQsJCQ4MDh8XFx8rIh0i&#xA;KzIrKysrMjIyMjIyMjIyMjIyMjIyMjI+Pj4+PjJAQEBAQEBAQEBAQEBAQEBAQEBAQED/wAARCAEA&#xA;AMYDAREAAhEBAxEB/8QBogAAAAcBAQEBAQAAAAAAAAAABAUDAgYBAAcICQoLAQACAgMBAQEBAQAA&#xA;AAAAAAABAAIDBAUGBwgJCgsQAAIBAwMCBAIGBwMEAgYCcwECAxEEAAUhEjFBUQYTYSJxgRQykaEH&#xA;FbFCI8FS0eEzFmLwJHKC8SVDNFOSorJjc8I1RCeTo7M2F1RkdMPS4ggmgwkKGBmElEVGpLRW01Uo&#xA;GvLj88TU5PRldYWVpbXF1eX1ZnaGlqa2xtbm9jdHV2d3h5ent8fX5/c4SFhoeIiYqLjI2Oj4KTlJ&#xA;WWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+hEAAgIBAgMFBQQFBgQIAwNtAQACEQMEIRIxQQVRE2Ei&#xA;BnGBkTKhsfAUwdHhI0IVUmJy8TMkNEOCFpJTJaJjssIHc9I14kSDF1STCAkKGBkmNkUaJ2R0VTfy&#xA;o7PDKCnT4/OElKS0xNTk9GV1hZWltcXV5fVGVmZ2hpamtsbW5vZHV2d3h5ent8fX5/c4SFhoeIiY&#xA;qLjI2Oj4OUlZaXmJmam5ydnp+So6SlpqeoqaqrrK2ur6/9oADAMBAAIRAxEAPwDkqIhRSVHQdsuA&#xA;FOPKRtd6cf8AKPuGHhCOI97vTj/lH3DHhC8R73enH/KPuGPCF4j3u9OP+UfcMeELxHvd6cf8o+4Y&#xA;8IXiPe+jPKPlPytc+VtIuLnRdPmmls4HkkktYWdmKKSzM0ZJJymXNyI8k4/wZ5P/AOrDpv8A0hwf&#xA;9U8CXf4M8n/9WHTf+kOD/qnirv8ABnk//qw6b/0hwf8AVPFXf4M8n/8AVh03/pDg/wCqeKu/wZ5P&#xA;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&#xA;d+g1/wCpPb/uIN/XFXfoNf8AqT2/7iDf1xV36DX/AKk9v+4g39cVd+g1/wCpPb/uIN/XFXfoNf8A&#xA;qT2/7iDf1xV36DX/AKk9v+4g39cVd+g1/wCpPb/uIN/XFXfoNf8AqT2/7iDf1xV36DX/AKk9v+4g&#xA;39cVRWm6DbvfwCfyw1kgbkbg3rScCvxKeAbfcYqzfFXYqkuu/wDHU8uf9tKT/unalir5bj/u1+Q/&#xA;Vl8eTjS5ldhQ7FXYq7FXYq97sbP6z5b8vt+jbq+46bbjnbzekq/CPhI7nKJc3JjyDf6K/wC1DqH/&#xA;AEl4Eu/RX/ah1D/pLxV36K/7UOof9JeKu/RX/ah1D/pLxVMtL8r2F9G73dneWDI1FSS5Ziwp1HHF&#xA;Ud/grRfG4/5Hv/XFXf4K0XxuP+R7/wBcVd/grRfG4/5Hv/XFXf4K0XxuP+R7/wBcVd/grRfG4/5H&#xA;v/XFXf4K0XxuP+R7/wBcVd/grRfG4/5Hv/XFXf4K0XxuP+R7/wBcVd/grRfG4/5Hv/XFVS38oaRb&#xA;TxXMRn5wusi8pnIqp5CoJ9sVTzFXYqkuu/8AHU8uf9tKT/unalir5bj/ALtfkP1ZfHk40uZXYUOx&#xA;V2KuxV2KvozQLzWbbytoK6baw3EZ0+3LNLKIyG4DYA5RLm5MeQRv6V81/wDVttf+klcCXfpXzX/1&#xA;bbX/AKSVxV36V81/9W21/wCklcVd+lfNf/Vttf8ApJXFXfpXzX/1bbX/AKSVxV36V81/9W21/wCk&#xA;lcVd+lfNf/Vttf8ApJXFXfpXzX/1bbX/AKSVxV36V81/9W21/wCklcVd+lfNf/Vttf8ApJXFXfpX&#xA;zX/1bbX/AKSVxV36V81/9W21/wCklcVd+lfNf/Vttf8ApJXFXfpXzX/1bbX/AKSVxVXs7/zNNcRr&#xA;cafbxwFgJZEnDlV7kAYqnmKuxVJdd/46nlz/ALaUn/dO1LFXy3H/AHa/Ifqy+PJxpcyuwodirsVd&#xA;irsVe92Wlvf+WvL0i6KNVC6bbr6huvQ4fCDx481r88olzcmPIO/w7N/1KS/9xA/9VcCXf4dm/wCp&#xA;SX/uIH/qrirv8Ozf9Skv/cQP/VXFXf4dm/6lJf8AuIH/AKq4q7/Ds3/UpL/3ED/1VxV3+HZv+pSX&#xA;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&#xA;3IxV/9k=</xmpGImg:image>
+               </rdf:li>
+            </rdf:Alt>
+         </xmp:Thumbnails>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#">
+         <xmpMM:InstanceID>xmp.iid:5E609A1C462CE611BB13B044DD9FC6A1</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:6D8D90BBAB2BE61185E8EEE927566C7C</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>xmp.did:3A780F678A2BE61185E8EEE927566C7C</xmpMM:OriginalDocumentID>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>created</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:3A780F678A2BE61185E8EEE927566C7C</stEvt:instanceID>
+                  <stEvt:when>2016-06-05T19:00:11-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign 6.0</stEvt:softwareAgent>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:3B780F678A2BE61185E8EEE927566C7C</stEvt:instanceID>
+                  <stEvt:when>2016-06-05T20:22:10-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign 6.0</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:3C780F678A2BE61185E8EEE927566C7C</stEvt:instanceID>
+                  <stEvt:when>2016-06-05T20:22:10-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign 6.0</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:3D780F678A2BE61185E8EEE927566C7C</stEvt:instanceID>
+                  <stEvt:when>2016-06-05T21:02:27-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign 6.0</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:3E780F678A2BE61185E8EEE927566C7C</stEvt:instanceID>
+                  <stEvt:when>2016-06-05T21:06:34-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign 6.0</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:3F780F678A2BE61185E8EEE927566C7C</stEvt:instanceID>
+                  <stEvt:when>2016-06-05T21:28:02-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign 6.0</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:40780F678A2BE61185E8EEE927566C7C</stEvt:instanceID>
+                  <stEvt:when>2016-06-05T21:32:49-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign 6.0</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:41780F678A2BE61185E8EEE927566C7C</stEvt:instanceID>
+                  <stEvt:when>2016-06-05T21:38:25-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign 6.0</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:42780F678A2BE61185E8EEE927566C7C</stEvt:instanceID>
+                  <stEvt:when>2016-06-05T21:39:02-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign 6.0</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:43780F678A2BE61185E8EEE927566C7C</stEvt:instanceID>
+                  <stEvt:when>2016-06-05T21:39:26-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign 6.0</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:9F382784A12BE61185E8EEE927566C7C</stEvt:instanceID>
+                  <stEvt:when>2016-06-05T21:45:38-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign 6.0</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:A0382784A12BE61185E8EEE927566C7C</stEvt:instanceID>
+                  <stEvt:when>2016-06-05T22:01:11-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign 6.0</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:A1382784A12BE61185E8EEE927566C7C</stEvt:instanceID>
+                  <stEvt:when>2016-06-05T22:04:39-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign 6.0</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:A2382784A12BE61185E8EEE927566C7C</stEvt:instanceID>
+                  <stEvt:when>2016-06-05T22:10:12-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign 6.0</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:A3382784A12BE61185E8EEE927566C7C</stEvt:instanceID>
+                  <stEvt:when>2016-06-05T22:30:36-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign 6.0</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:A4382784A12BE61185E8EEE927566C7C</stEvt:instanceID>
+                  <stEvt:when>2016-06-05T22:31:23-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign 6.0</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:A5382784A12BE61185E8EEE927566C7C</stEvt:instanceID>
+                  <stEvt:when>2016-06-05T22:43:13-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign 6.0</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:A6382784A12BE61185E8EEE927566C7C</stEvt:instanceID>
+                  <stEvt:when>2016-06-05T22:44:43-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign 6.0</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:A7382784A12BE61185E8EEE927566C7C</stEvt:instanceID>
+                  <stEvt:when>2016-06-05T22:48:45-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign 6.0</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:A8382784A12BE61185E8EEE927566C7C</stEvt:instanceID>
+                  <stEvt:when>2016-06-05T22:49:36-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign 6.0</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:A9382784A12BE61185E8EEE927566C7C</stEvt:instanceID>
+                  <stEvt:when>2016-06-05T22:52:54-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign 6.0</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:6C8D90BBAB2BE61185E8EEE927566C7C</stEvt:instanceID>
+                  <stEvt:when>2016-06-05T22:58:46-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign 6.0</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:6D8D90BBAB2BE61185E8EEE927566C7C</stEvt:instanceID>
+                  <stEvt:when>2016-06-05T22:58:46-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign 6.0</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:5E609A1C462CE611BB13B044DD9FC6A1</stEvt:instanceID>
+                  <stEvt:when>2016-06-07T08:23:52+08:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign 6.0</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <xmpMM:RenditionClass>default</xmpMM:RenditionClass>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>xmp.iid:6C8D90BBAB2BE61185E8EEE927566C7C</stRef:instanceID>
+            <stRef:documentID>xmp.did:3A780F678A2BE61185E8EEE927566C7C</stRef:documentID>
+            <stRef:originalDocumentID>xmp.did:3A780F678A2BE61185E8EEE927566C7C</stRef:originalDocumentID>
+            <stRef:renditionClass>default</stRef:renditionClass>
+         </xmpMM:DerivedFrom>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:idPriv="http://ns.adobe.com/xmp/InDesign/private">
+         <idPriv:DocChangeCount>157</idPriv:DocChangeCount>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+            xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
+            xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#">
+         <xmpTPg:Colorants>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>Black</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>0</xmpG:cyan>
+                  <xmpG:magenta>0</xmpG:magenta>
+                  <xmpG:yellow>0</xmpG:yellow>
+                  <xmpG:black>100</xmpG:black>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>Paper</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>0</xmpG:cyan>
+                  <xmpG:magenta>0</xmpG:magenta>
+                  <xmpG:yellow>0</xmpG:yellow>
+                  <xmpG:black>0</xmpG:black>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>Registration</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>100</xmpG:cyan>
+                  <xmpG:magenta>100</xmpG:magenta>
+                  <xmpG:yellow>100</xmpG:yellow>
+                  <xmpG:black>100</xmpG:black>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>head</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>50</xmpG:cyan>
+                  <xmpG:magenta>0</xmpG:magenta>
+                  <xmpG:yellow>0</xmpG:yellow>
+                  <xmpG:black>89.99999761581421</xmpG:black>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>head_line</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>100</xmpG:cyan>
+                  <xmpG:magenta>0</xmpG:magenta>
+                  <xmpG:yellow>0</xmpG:yellow>
+                  <xmpG:black>15.999999642372131</xmpG:black>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>sidebar_background</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>95</xmpG:cyan>
+                  <xmpG:magenta>74</xmpG:magenta>
+                  <xmpG:yellow>54</xmpG:yellow>
+                  <xmpG:black>71</xmpG:black>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpTPg:Colorants>
+         <xmpTPg:Fonts>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Times-Roman</stFnt:fontName>
+                  <stFnt:fontFamily>Times</stFnt:fontFamily>
+                  <stFnt:fontFace>Regular</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>Times-RomanVersion 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Times-Italic</stFnt:fontName>
+                  <stFnt:fontFamily>Times</stFnt:fontFamily>
+                  <stFnt:fontFace>Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>Times-ItalicVersion 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Times-Bold</stFnt:fontName>
+                  <stFnt:fontFamily>Times</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>Times-BoldVersion 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Times-BoldItalic</stFnt:fontName>
+                  <stFnt:fontFamily>Times</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>Times-BoldItalicVersion 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Oswald-Extra-LightItalic</stFnt:fontName>
+                  <stFnt:fontFamily>Oswald</stFnt:fontFamily>
+                  <stFnt:fontFace>Extra-Light</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>Oswald-Extra-LightItalic3.0; ttfautohint (v0.94.23-7a4d-dirty) -l 8 -r 50 -G 200 -x 0 -w "G" -W -c</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>Oswald-Extra-LightItalic.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Oswald-ExtraLight</stFnt:fontName>
+                  <stFnt:fontFamily>Oswald</stFnt:fontFamily>
+                  <stFnt:fontFace>ExtraLight</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>Oswald-ExtraLight3.0; ttfautohint (v0.95) -l 8 -r 50 -G 200 -x 0 -w "G" -W -c</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>Oswald-ExtraLight.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Oswald-Light</stFnt:fontName>
+                  <stFnt:fontFamily>Oswald</stFnt:fontFamily>
+                  <stFnt:fontFace>Light</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>Oswald-Light3.0; ttfautohint (v0.95) -l 8 -r 50 -G 200 -x 0 -w "G" -W -c</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>Oswald-Light.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Oswald-LightItalic</stFnt:fontName>
+                  <stFnt:fontFamily>Oswald</stFnt:fontFamily>
+                  <stFnt:fontFace>Light Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>Oswald-LightItalic3.0; ttfautohint (v0.95.6-bc232) -l 8 -r 50 -G 200 -x 0 -w "G" -W -c</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>Oswald-LightItalic.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Oswald-RegularItalic</stFnt:fontName>
+                  <stFnt:fontFamily>Oswald</stFnt:fontFamily>
+                  <stFnt:fontFace>Regular</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>Oswald-RegularItalic3.0; ttfautohint (v0.94.23-7a4d-dirty) -l 8 -r 50 -G 200 -x 0 -w "G" -W -c</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>Oswald-RegularItalic.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Oswald-Medium</stFnt:fontName>
+                  <stFnt:fontFamily>Oswald</stFnt:fontFamily>
+                  <stFnt:fontFace>Medium</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>Oswald-Medium3.0; ttfautohint (v0.95) -l 8 -r 50 -G 200 -x 0 -w "G" -W -c</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>Oswald-Medium.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Oswald-MediumItalic</stFnt:fontName>
+                  <stFnt:fontFamily>Oswald</stFnt:fontFamily>
+                  <stFnt:fontFace>Medium Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>Oswald-MediumItalic3.0; ttfautohint (v0.94.23-7a4d-dirty) -l 8 -r 50 -G 150 -x 0 -w "G" -W -c</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>Oswald-MediumItalic.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Oswald-Demi-BoldItalic</stFnt:fontName>
+                  <stFnt:fontFamily>Oswald</stFnt:fontFamily>
+                  <stFnt:fontFace>Demi-Bold</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>Oswald-Demi-BoldItalic3.0; ttfautohint (v0.94.23-7a4d-dirty) -l 8 -r 50 -G 200 -x 0 -w "G" -W -c</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>Oswald-Demi-BoldItalic.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Oswald-DemiBold</stFnt:fontName>
+                  <stFnt:fontFamily>Oswald</stFnt:fontFamily>
+                  <stFnt:fontFace>DemiBold</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>Oswald-DemiBold3.0; ttfautohint (v0.95) -l 8 -r 50 -G 200 -x 0 -w "G" -W -c</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>Oswald-DemiBold.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Oswald-Bold</stFnt:fontName>
+                  <stFnt:fontFamily>Oswald</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>Oswald-Bold3.0; ttfautohint (v0.95) -l 8 -r 50 -G 200 -x 0 -w "G" -W -c</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>Oswald-Bold.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Oswald-BoldItalic</stFnt:fontName>
+                  <stFnt:fontFamily>Oswald</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>Oswald-BoldItalic3.0; ttfautohint (v0.94.23-7a4d-dirty) -l 8 -r 50 -G 200 -x 0 -w "G" -W -c</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>Oswald-BoldItalic.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Oswald-HeavyItalic</stFnt:fontName>
+                  <stFnt:fontFamily>Oswald</stFnt:fontFamily>
+                  <stFnt:fontFace>ExtraBold Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>Oswald-HeavyItalic3.0; ttfautohint (v0.95.6-bc232) -l 8 -r 50 -G 200 -x 0 -w "G" -W -c</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>Oswald-HeavyItalic.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Oswald-Heavy</stFnt:fontName>
+                  <stFnt:fontFamily>Oswald</stFnt:fontFamily>
+                  <stFnt:fontFace>Heavy</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>Oswald-Heavy3.0; ttfautohint (v0.95) -l 8 -r 50 -G 200 -x 0 -w "G" -W -c</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>Oswald-Heavy.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Matchbook</stFnt:fontName>
+                  <stFnt:fontFamily>Matchbook</stFnt:fontFamily>
+                  <stFnt:fontFace>Matchbook</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>MatchbookVersion 1.000</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>Matchbook.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Cantarell-Regular</stFnt:fontName>
+                  <stFnt:fontFamily>Cantarell</stFnt:fontFamily>
+                  <stFnt:fontFace>Regular</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>Cantarell-RegularVersion 001.001 </stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>Cantarell-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Cantarell-Oblique</stFnt:fontName>
+                  <stFnt:fontFamily>Cantarell</stFnt:fontFamily>
+                  <stFnt:fontFace>Oblique</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>Cantarell-ObliqueVersion 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Cantarell-Bold</stFnt:fontName>
+                  <stFnt:fontFamily>Cantarell</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>Cantarell-BoldVersion 001.001 </stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>Cantarell-Bold.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Cantarell-BoldOblique</stFnt:fontName>
+                  <stFnt:fontFamily>Cantarell</stFnt:fontFamily>
+                  <stFnt:fontFace>BoldOblique</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>Cantarell-BoldObliqueVersion 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+            </rdf:Bag>
+         </xmpTPg:Fonts>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>]]></pcnt>
+	</cMep>
+	<cOpt tlnm="c_Index" tlsl="o_u62" ReIx="b_t" iBkD="b_f" iHEs="b_f" IdxF="e_NtIf" iSHs="b_t" iEiS="b_f" lOst="o_u62" lTws="o_u62" lThs="o_u62" lFst="o_u62" sHst="o_u62" pnSt="o_u61" crSt="o_u61" crTS="o_u61" ftSp="c_  " beSp="c_; " prSp="c_^=" pnSp="c_, " crSp="c_. " eeSp="c_"/>
+	<cIhs HSnm="k_" HSlg="l_100" HShc="l_1303a" HSgv="l_0" HSov="l_0" HSgl="x_a_c_kIndexGroup~sep~Alphabet_k_kIndexGroup~sep~Alphabet_k__b_f_x_68_k_A_k__k_kIndexSection~sep~A_l_100_k_B_k__k_kIndexSection~sep~B_l_100_k_C_k__k_kIndexSection~sep~C_l_100_k_D_k__k_kIndexSection~sep~D_l_100_k_E_k__k_kIndexSection~sep~E_l_100_k_F_k__k_kIndexSection~sep~F_l_100_k_G_k__k_kIndexSection~sep~G_l_100_k_H_k__k_kIndexSection~sep~H_l_100_k_I_k__k_kIndexSection~sep~I_l_100_k_J_k__k_kIndexSection~sep~J_l_100_k_K_k__k_kIndexSection~sep~K_l_100_k_L_k__k_kIndexSection~sep~L_l_100_k_M_k__k_kIndexSection~sep~M_l_100_k_N_k__k_kIndexSection~sep~N_l_100_k_O_k__k_kIndexSection~sep~O_l_100_k_P_k__k_kIndexSection~sep~P_l_100_k_Q_k__k_kIndexSection~sep~Q_l_100_k_R_k__k_kIndexSection~sep~R_l_100_k_S_k__k_kIndexSection~sep~S_l_100_k_T_k__k_kIndexSection~sep~T_l_100_k_U_k__k_kIndexSection~sep~U_l_100_k_V_k__k_kIndexSection~sep~V_l_100_k_W_k__k_kIndexSection~sep~W_l_100_k_X_k__k_kIndexSection~sep~X_l_100_k_Y_k__k_kIndexSection~sep~Y_l_100_k_Z_k__k_kIndexSection~sep~Z_l_100_c_kIndexGroup~sep~Symbol_k_kIndexGroup~sep~Symbol_k__b_f_x_4_k__k__k_kIndexSection~sep~Symbol_l_100"/>
+	<cPID agos="o_u75" atos="o_u76" aGos="o_u77" flcl="o_ue" filt="D_-1" lnwt="U_0" mitr="D_4" endc="e_bcap" endj="e_mjon" stty="o_di5a29" llen="e_none" rlen="e_none" lncl="o_ue" lint="D_-1" pcOp="e_none" pcrd="D_12" pgfa="D_0" pgsa="D_0" gapC="o_ue" gapT="D_-1" strA="e_stAC" nopr="b_f">
+	</cPID>
+	<FFop fcrl="U_0" fcrt="U_0" fcrr="U_0" fcrb="U_0" ffit="e_none" faln="e_ANtl"/>
+	<btnp pnam="k_" snam="k_"/>
+	<tinD gaiM="m_FFFFFFFF0000000000000000&gt;">
+		<pcnt><![CDATA[AAAAAA==]]></pcnt>
+	</tinD>
+	<ctOp scdI="e_eCIs" apCS="o_n"/>
+	<Jcpg font="c_Times" ptfs="c_Regular" ptsz="U_12" Jcak="D_0" Jlak="D_9" phzs="D_100" pvts="D_100"/>
+	<Jcsg font="c_Times" ptfs="c_Regular" ptsz="U_12" Jcak="D_0" Jlak="D_9" phzs="D_100" pvts="D_100" laln="e_lltj" jgal="e_Jact" jcal="e_Jact" Jgdv="e_jGgv" Jgcc="e_botm" Jgcz="D_9.21259842519685"/>
+	<Jgpf Jgsa="b_f" Jgsf="b_t" Jgms="D_50" Jstp="b_f" Jgci="e_iGdg" Jcen="s_a" Jslc="b_t" Jicf="b_f" Jucc="b_f" Jscc="b_t"/>
+	<Jmui jmus="s_3fff"/>
+	<cnpo cnpr="l_1" cnSo="e_cncp" cnfp="c_1, 2, 3, 4..."/>
+	<SPtv pnam="c_Creation Date" TVbt="e_TVcd" Self="rc_dSPtvnCreation Date">
+		<TVPd TVtb="c_" Mdft="c_d.MM.yy" TVta="c_"/>
+	</SPtv>
+	<SPtv pnam="c_Last Page Number" TVbt="e_TVtp" Self="rc_dSPtvnLast Page Number">
+		<TVPl TVtb="c_" Mdft="e_Mcur" TVta="c_" TVsc="e_CSse"/>
+	</SPtv>
+	<SPtv pnam="c_Modification Date" TVbt="e_TVmd" Self="rc_dSPtvnModification Date">
+		<TVPd TVtb="c_" Mdft="c_d.MM.yy" TVta="c_"/>
+	</SPtv>
+	<tagX pnam="c_Root" XTCr="e_iLbl" Self="rc_ua1"/>
+	<layr pnam="c_Layer 2" pvis="b_t" plck="b_f" lcol="e_iRed" iwrp="b_f" sogd="b_t" lkgd="b_f" uilr="b_t" exlr="b_t" prta="b_t" Self="rc_ua2"/>
+	<layr pnam="c_Layer 1" pvis="b_t" plck="b_f" lcol="e_iLbl" iwrp="b_f" sogd="b_t" lkgd="b_f" uilr="b_t" exlr="b_t" prta="b_t" Self="rc_u132"/>
+	<mspr ITra="x_6_D_1_D_0_D_0_D_1_D_0_D_0" pnam="rc_A-Master" npfx="c_A" nmbs="c_Master" smsi="b_t" PagC="l_1" ovpp="x_0" Self="rc_ua3">
+		<page pnam="rc_A" pgTs="o_u9e" pmas="o_n" ovrl="x_0" TOpp="y_0" Jgsp="e_gsto" Jumg="b_t" Self="rc_ua8">
+			<imgp colc="l_1" colg="U_12" mart="U_65.37259842519686" marb="U_35.25" marl="U_158.73839999999998" marr="U_68.0328" cold="e_horz" cpos="x_2_U_0_U_385.22880000000004"/>
+			<guid gcol="e_iCyn" gort="e_vert" loca="U_41.19919999999996" issh="b_t" vthr="D_5" plck="b_f" pilr="o_u132" pgdx="rs_1" Self="rc_u529"/>
+			<Jgda font="c_Times" ptfs="c_Regular" ptsz="U_12" Jcak="D_0" Jlak="D_9" phzs="D_100" pvts="D_100" laln="e_lltj" jgal="e_Jact" jcal="e_Jact"/>
+		</page>
+		<txtf strp="ro_u13b" ptxf="o_n" ntxf="o_n" IGeo="x_19_l_1_l_4_l_2_D_-42.31496063010226_D_-19.923717847387138_l_2_D_-42.31496063010226_D_-12.644476753576695_l_2_D_-7.956907736127114_D_-12.644476753576695_l_2_D_-7.956907736127114_D_-19.923717847387138_b_f_D_-42.31496063010226_D_-19.923717847387138_D_-7.956907736127114_D_-12.644476753576695_D_1_D_0_D_0_D_1_D_308.91338582695266_D_-360.4857309715105" cntt="e_~sep~745f7465" ovbl="b_t" STof="ro_n" pgst="x_2_U_0_U_0" pgfl="U_0" pgfa="D_0" pgss="x_2_U_0_U_0" pgsl="U_0" pgsa="D_0" pilr="o_u132" plck="b_f" pLDs="e_Dflt" gfhl="U_0" gfha="D_0" gshl="U_0" gsha="D_0" aobs="o_u73" Self="rc_u14d">
+			<TFPf clwd="U_34.35805289397515"/>
+			<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			</ctxw>
+		</txtf>
+		<crec sTtl="k_" IGeo="x_19_l_1_l_4_l_2_D_-621_D_-405_l_2_D_-621_D_405.00000000000006_l_2_D_-459.6377952755906_D_405.00000000000006_l_2_D_-459.6377952755906_D_-405_b_f_D_-621_D_-405_D_-459.6377952755906_D_405.00000000000006_D_1_D_0_D_0_D_1_D_306_D_0" cntt="e_unas" ovbl="b_t" STof="ro_n" flcl="o_ub8" lnwt="U_0" lncl="o_ue" pgst="x_2_U_0_U_0" pgfl="U_0" pgfa="D_0" pgss="x_2_U_0_U_0" pgsl="U_0" pgsa="D_0" pilr="o_u132" plck="b_f" pLDs="e_Dflt" gfhl="U_0" gfha="D_0" gshl="U_0" gsha="D_0" aobs="o_u75" Self="rc_u179">
+			<xpQa>
+				<xpQf xpUr="b_t"/>
+			</xpQa>
+			<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			</ctxw>
+			<icEo inGP="b_t" inAR="b_f"/>
+			<FFop fcrl="U_0" fcrt="U_0" fcrr="U_0" fcrb="U_0" ffit="e_none" faln="e_ANtl"/>
+		</crec>
+		<txtf strp="ro_u17d" ptxf="o_n" ntxf="o_n" IGeo="x_19_l_1_l_4_l_2_D_-106.65069370078749_D_-56.86017741931278_l_2_D_-106.65069370078749_D_25.393142893187203_l_2_D_-11.314460629921319_D_25.393142893187203_l_2_D_-11.314460629921319_D_-56.86017741931278_b_f_D_-106.65069370078749_D_-56.86017741931278_D_-11.314460629921319_D_25.393142893187203_D_1_D_0_D_0_D_1_D_-158.15010629921255_D_332.59246088387977" cntt="e_~sep~745f7465" ovbl="b_t" STof="ro_n" pgst="x_2_U_0_U_0" pgfl="U_0" pgfa="D_0" pgss="x_2_U_0_U_0" pgsl="U_0" pgsa="D_0" pilr="o_u132" plck="b_f" pLDs="e_Dflt" gfhl="U_0" gfha="D_0" gshl="U_0" gsha="D_0" aobs="o_u76" Self="rc_u18f">
+			<xpQa>
+				<xpQf xpUr="b_t"/>
+			</xpQa>
+			<TFPf clwd="U_95.33623307086617"/>
+			<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			</ctxw>
+		</txtf>
+	</mspr>
+	<sprd PgTT="e_none" PgTD="e_ptNA" PgTA="e_enMd" fsSo="e_Dflt" smsi="b_t" PagC="l_1" BnLc="l_0" Shfl="b_t" ITra="x_6_D_1_D_0_D_0_D_1_D_0_D_0" Self="rc_u39f">
+		<flSe fsLl="D_50" fsFr="D_300" fsGr="D_150" fsCr="b_f" fsSf="b_f" fsTo="b_f"/>
+		<page pnam="rc_1" pgTs="o_u9e" PgDt="rx_6_c__e_Marb_b_t_b_f_l_1_c_" pmas="o_ua3" ovrl="x_0" TOpp="y_0" Jgsp="e_gsto" Jumg="b_t" Self="rc_u3a6">
+			<imgp colc="l_1" colg="U_12" mart="U_65.37259842519686" marb="U_35.25" marl="U_158.73839999999998" marr="U_68.0328" cold="e_horz" cpos="x_2_U_0_U_385.22880000000004"/>
+			<guid gcol="e_iCyn" gort="e_vert" loca="U_158.74015748031496" issh="b_t" vthr="D_5" plck="b_f" pilr="o_u132" pgdx="rs_1" Self="rc_u510"/>
+			<Jgda font="c_Times" ptfs="c_Regular" ptsz="U_12" Jcak="D_0" Jlak="D_9" phzs="D_100" pvts="D_100" laln="e_lltj" jgal="e_Jact" jcal="e_Jact"/>
+		</page>
+		<txtf strp="ro_u3a8" ptxf="o_n" ntxf="o_u430" IGeo="x_19_l_1_l_4_l_2_D_-99.31692913385831_D_-311.2729607502772_l_2_D_-99.31692913385831_D_380.1043307109551_l_2_D_285.91141732301577_D_380.1043307109551_l_2_D_285.91141732301577_D_-311.2729607502772_b_f_D_-99.31692913385831_D_-311.2729607502772_D_285.91141732301577_D_380.1043307109551_D_1_D_0_D_0_D_1_D_-47.94291338582673_D_-19.354330710955082" cntt="e_~sep~745f7465" STof="ro_n" pgst="x_2_U_0_U_0" pgfl="U_0" pgfa="D_0" pgss="x_2_U_0_U_0" pgsl="U_0" pgsa="D_0" pilr="o_u132" plck="b_f" pLDs="e_Dflt" gfhl="U_0" gfha="D_0" gshl="U_0" gsha="D_0" aobs="o_u73" Self="rc_u3ba">
+			<TFPf clwd="U_385.2283464568741"/>
+			<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			</ctxw>
+		</txtf>
+		<txtf strp="ro_u3d4" ptxf="o_n" ntxf="o_n" IGeo="x_19_l_1_l_4_l_2_D_-43.20000000000002_D_-153.1062992124075_l_2_D_-43.20000000000002_D_-126.10629921240749_l_2_D_67.96300472440946_D_-126.10629921240749_l_2_D_67.96300472440946_D_-153.1062992124075_b_f_D_-43.20000000000002_D_-153.1062992124075_D_67.96300472440946_D_-126.10629921240749_D_1_D_0_D_0_D_1_D_-221.60080000000002_D_-100.11417322777359" cntt="e_~sep~745f7465" STof="ro_n" pgst="x_2_U_0_U_0" pgfl="U_0" pgfa="D_0" pgss="x_2_U_0_U_0" pgsl="U_0" pgsa="D_0" pilr="o_u132" plck="b_f" pLDs="e_Dflt" gfhl="U_0" gfha="D_0" gshl="U_0" gsha="D_0" aobs="o_u76" Self="rc_u3e6">
+			<xpQa>
+				<xpQf xpUr="b_t"/>
+			</xpQa>
+			<TFPf clwd="U_111.16300472440948"/>
+			<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			</ctxw>
+		</txtf>
+		<txtf strp="ro_u3ea" ptxf="o_n" ntxf="o_n" IGeo="x_19_l_1_l_4_l_2_D_-43.20000000000002_D_-153.1062992124075_l_2_D_-43.20000000000002_D_-126.10629921240749_l_2_D_67.96300472440944_D_-126.10629921240749_l_2_D_67.96300472440944_D_-153.1062992124075_b_f_D_-43.20000000000002_D_-153.1062992124075_D_67.96300472440944_D_-126.10629921240749_D_1_D_0_D_0_D_1_D_-221.60080000000002_D_-182.1141732277736" cntt="e_~sep~745f7465" STof="ro_n" pgst="x_2_U_0_U_0" pgfl="U_0" pgfa="D_0" pgss="x_2_U_0_U_0" pgsl="U_0" pgsa="D_0" pilr="o_u132" plck="b_f" pLDs="e_Dflt" gfhl="U_0" gfha="D_0" gshl="U_0" gsha="D_0" aobs="o_u76" Self="rc_u3fc">
+			<xpQa>
+				<xpQf xpUr="b_t"/>
+			</xpQa>
+			<TFPf clwd="U_111.16300472440946"/>
+			<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			</ctxw>
+		</txtf>
+		<txtf strp="ro_u400" ptxf="o_n" ntxf="o_n" IGeo="x_19_l_1_l_4_l_2_D_-43.20000000000002_D_-153.1062992124075_l_2_D_-43.20000000000002_D_-126.10629921240749_l_2_D_67.96300472440944_D_-126.10629921240749_l_2_D_67.96300472440944_D_-153.1062992124075_b_f_D_-43.20000000000002_D_-153.1062992124075_D_67.96300472440944_D_-126.10629921240749_D_1_D_0_D_0_D_1_D_-221.60080000000002_D_96.88582677222641" cntt="e_~sep~745f7465" STof="ro_n" pgst="x_2_U_0_U_0" pgfl="U_0" pgfa="D_0" pgss="x_2_U_0_U_0" pgsl="U_0" pgsa="D_0" pilr="o_u132" plck="b_f" pLDs="e_Dflt" gfhl="U_0" gfha="D_0" gshl="U_0" gsha="D_0" aobs="o_u76" Self="rc_u412">
+			<xpQa>
+				<xpQf xpUr="b_t"/>
+			</xpQa>
+			<TFPf clwd="U_111.16300472440946"/>
+			<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			</ctxw>
+		</txtf>
+	</sprd>
+	<sprd PgTT="e_none" PgTD="e_ptNA" PgTA="e_enMd" fsSo="e_Dflt" smsi="b_t" PagC="l_1" BnLc="l_0" Shfl="b_t" ITra="x_6_D_1_D_0_D_0_D_1_D_0_D_990" Self="rc_u415">
+		<flSe fsLl="D_50" fsFr="D_300" fsGr="D_150" fsCr="b_f" fsSf="b_f" fsTo="b_f"/>
+		<page pnam="rc_2" pgTs="o_u9e" PgDt="rx_6_c__e_Marb_b_t_b_f_l_2_c_" pmas="o_ua3" ovrl="x_0" TOpp="y_0" Jgsp="e_gsto" Jumg="b_t" Self="rc_u41c">
+			<imgp colc="l_1" colg="U_12" mart="U_99.78" marb="U_124.7244094488189" marl="U_158.73839999999998" marr="U_68.0328" cold="e_horz" cpos="x_2_U_0_U_385.22880000000004"/>
+			<Jgda font="c_Times" ptfs="c_Regular" ptsz="U_12" Jcak="D_0" Jlak="D_9" phzs="D_100" pvts="D_100" laln="e_lltj" jgal="e_Jact" jcal="e_Jact"/>
+		</page>
+		<txtf strp="ro_u3a8" ptxf="o_u3ba" ntxf="o_n" IGeo="x_19_l_1_l_4_l_2_D_-99.31692913385831_D_-221.86614172922603_l_2_D_-99.31692913385831_D_225.73048566988822_l_2_D_285.91141732301577_D_225.73048566988822_l_2_D_285.91141732301577_D_-221.86614172922603_b_f_D_-99.31692913385831_D_-221.86614172922603_D_285.91141732301577_D_225.73048566988822_D_1_D_0_D_0_D_1_D_-47.94291338582673_D_-74.35433071095508" cntt="e_~sep~745f7465" STof="ro_n" pgst="x_2_U_0_U_0" pgfl="U_0" pgfa="D_0" pgss="x_2_U_0_U_0" pgsl="U_0" pgsa="D_0" pilr="o_u132" plck="b_f" pLDs="e_Dflt" gfhl="U_0" gfha="D_0" gshl="U_0" gsha="D_0" aobs="o_u73" Self="rc_u430">
+			<TFPf clwd="U_385.2283464568741"/>
+			<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			</ctxw>
+		</txtf>
+		<txtf strp="ro_u434" ptxf="o_n" ntxf="o_n" IGeo="x_19_l_1_l_4_l_2_D_-43.20000000000002_D_-153.1062992124075_l_2_D_-43.20000000000002_D_-126.10629921240749_l_2_D_67.96300472440944_D_-126.10629921240749_l_2_D_67.96300472440944_D_-153.1062992124075_b_f_D_-43.20000000000002_D_-153.1062992124075_D_67.96300472440944_D_-126.10629921240749_D_1_D_0_D_0_D_1_D_-221.60080000000002_D_-153.1141732277736" cntt="e_~sep~745f7465" STof="ro_n" pgst="x_2_U_0_U_0" pgfl="U_0" pgfa="D_0" pgss="x_2_U_0_U_0" pgsl="U_0" pgsa="D_0" pilr="o_u132" plck="b_f" pLDs="e_Dflt" gfhl="U_0" gfha="D_0" gshl="U_0" gsha="D_0" aobs="o_u76" Self="rc_u446">
+			<xpQa>
+				<xpQf xpUr="b_t"/>
+			</xpQa>
+			<TFPf clwd="U_111.16300472440946"/>
+			<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			</ctxw>
+		</txtf>
+		<txtf strp="ro_u44a" ptxf="o_n" ntxf="o_n" IGeo="x_19_l_1_l_4_l_2_D_-43.20000000000002_D_-153.1062992124075_l_2_D_-43.20000000000002_D_-126.10629921240749_l_2_D_67.96300472440944_D_-126.10629921240749_l_2_D_67.96300472440944_D_-153.1062992124075_b_f_D_-43.20000000000002_D_-153.1062992124075_D_67.96300472440944_D_-126.10629921240749_D_1_D_0_D_0_D_1_D_-221.60080000000002_D_208.88582677222618" cntt="e_~sep~745f7465" STof="ro_n" pgst="x_2_U_0_U_0" pgfl="U_0" pgfa="D_0" pgss="x_2_U_0_U_0" pgsl="U_0" pgsa="D_0" pilr="o_u132" plck="b_f" pLDs="e_Dflt" gfhl="U_0" gfha="D_0" gshl="U_0" gsha="D_0" aobs="o_u76" Self="rc_u45c">
+			<xpQa>
+				<xpQf xpUr="b_t"/>
+			</xpQa>
+			<TFPf clwd="U_111.16300472440946"/>
+			<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			</ctxw>
+		</txtf>
+		<txtf strp="ro_u460" ptxf="o_n" ntxf="o_n" IGeo="x_19_l_1_l_4_l_2_D_-43.20000000000002_D_-153.1062992124075_l_2_D_-43.20000000000002_D_-126.10629921240749_l_2_D_67.96300472440944_D_-126.10629921240749_l_2_D_67.96300472440944_D_-153.1062992124075_b_f_D_-43.20000000000002_D_-153.1062992124075_D_67.96300472440944_D_-126.10629921240749_D_1_D_0_D_0_D_1_D_-221.60080000000002_D_272.8858267722262" cntt="e_~sep~745f7465" STof="ro_n" pgst="x_2_U_0_U_0" pgfl="U_0" pgfa="D_0" pgss="x_2_U_0_U_0" pgsl="U_0" pgsa="D_0" pilr="o_u132" plck="b_f" pLDs="e_Dflt" gfhl="U_0" gfha="D_0" gshl="U_0" gsha="D_0" aobs="o_u76" Self="rc_u472">
+			<xpQa>
+				<xpQf xpUr="b_t"/>
+			</xpQa>
+			<TFPf clwd="U_111.16300472440946"/>
+			<ctxw ptwi="x_4_U_0_U_0_U_0_U_0" ptwv="b_f" txwt="e_none" ptwm="b_f" ptws="e_twbs">
+			</ctxw>
+		</txtf>
+	</sprd>
+	<sctn leng="rl_2" pnam="c_" pnSt="e_Marb" SnCt="b_t" SnPx="b_f" SnMk="c_" SnPg="o_u3a6" spfx="c_" Self="rc_u9f"/>
+	<DcUs UsrN="k_Unknown User Name" UsrC="e_iGld" Self="rc_dDcUs0"/>
+	<DcUs UsrN="c_Nathanael Montgomery, Crash Media" UsrC="e_iGld" Self="rc_dDcUs1"/>
+	<DcUs UsrN="k_Unknown User Name" UsrC="e_iGld" Self="rc_dDcUs2"/>
+	<XRFm pnam="c_Full Paragraph &amp; Page Number" crst="o_n" Self="rc_u475">
+		<xBBk Type="e_bbcs" crst="o_n" CtTx="c_&quot;" Dlmt="k_" IncD="b_f" Self="rc_u475xBBk0"/>
+		<xBBk Type="e_bbfp" crst="o_n" CtTx="k_" Dlmt="k_" IncD="b_f" Self="rc_u475xBBk1"/>
+		<xBBk Type="e_bbcs" crst="o_n" CtTx="c_&quot; on page " Dlmt="k_" IncD="b_f" Self="rc_u475xBBk2"/>
+		<xBBk Type="e_bbpn" crst="o_n" CtTx="k_" Dlmt="k_" IncD="b_f" Self="rc_u475xBBk3"/>
+	</XRFm>
+	<XRFm pnam="c_Full Paragraph" crst="o_n" Self="rc_u476">
+		<xBBk Type="e_bbcs" crst="o_n" CtTx="c_&quot;" Dlmt="k_" IncD="b_f" Self="rc_u476xBBk0"/>
+		<xBBk Type="e_bbfp" crst="o_n" CtTx="k_" Dlmt="k_" IncD="b_f" Self="rc_u476xBBk1"/>
+		<xBBk Type="e_bbcs" crst="o_n" CtTx="c_&quot;" Dlmt="k_" IncD="b_f" Self="rc_u476xBBk2"/>
+	</XRFm>
+	<XRFm pnam="c_Paragraph Text &amp; Page Number" crst="o_n" Self="rc_u477">
+		<xBBk Type="e_bbcs" crst="o_n" CtTx="c_&quot;" Dlmt="k_" IncD="b_f" Self="rc_u477xBBk0"/>
+		<xBBk Type="e_bbpt" crst="o_n" CtTx="k_" Dlmt="k_" IncD="b_f" Self="rc_u477xBBk1"/>
+		<xBBk Type="e_bbcs" crst="o_n" CtTx="c_&quot; on page " Dlmt="k_" IncD="b_f" Self="rc_u477xBBk2"/>
+		<xBBk Type="e_bbpn" crst="o_n" CtTx="k_" Dlmt="k_" IncD="b_f" Self="rc_u477xBBk3"/>
+	</XRFm>
+	<XRFm pnam="c_Paragraph Text" crst="o_n" Self="rc_u478">
+		<xBBk Type="e_bbcs" crst="o_n" CtTx="c_&quot;" Dlmt="k_" IncD="b_f" Self="rc_u478xBBk0"/>
+		<xBBk Type="e_bbpt" crst="o_n" CtTx="k_" Dlmt="k_" IncD="b_f" Self="rc_u478xBBk1"/>
+		<xBBk Type="e_bbcs" crst="o_n" CtTx="c_&quot;" Dlmt="k_" IncD="b_f" Self="rc_u478xBBk2"/>
+	</XRFm>
+	<XRFm pnam="c_Paragraph Number &amp; Page Number" crst="o_n" Self="rc_u479">
+		<xBBk Type="e_bpgn" crst="o_n" CtTx="k_" Dlmt="k_" IncD="b_f" Self="rc_u479xBBk0"/>
+		<xBBk Type="e_bbcs" crst="o_n" CtTx="c_ on page " Dlmt="k_" IncD="b_f" Self="rc_u479xBBk1"/>
+		<xBBk Type="e_bbpn" crst="o_n" CtTx="k_" Dlmt="k_" IncD="b_f" Self="rc_u479xBBk2"/>
+	</XRFm>
+	<XRFm pnam="c_Paragraph Number" crst="o_n" Self="rc_u47a">
+		<xBBk Type="e_bpgn" crst="o_n" CtTx="k_" Dlmt="k_" IncD="b_f" Self="rc_u47axBBk0"/>
+	</XRFm>
+	<XRFm pnam="c_Text Anchor Name &amp; Page Number" crst="o_n" Self="rc_u47b">
+		<xBBk Type="e_bbcs" crst="o_n" CtTx="c_&quot;" Dlmt="k_" IncD="b_f" Self="rc_u47bxBBk0"/>
+		<xBBk Type="e_bbbn" crst="o_n" CtTx="k_" Dlmt="k_" IncD="b_f" Self="rc_u47bxBBk1"/>
+		<xBBk Type="e_bbcs" crst="o_n" CtTx="c_&quot; on page " Dlmt="k_" IncD="b_f" Self="rc_u47bxBBk2"/>
+		<xBBk Type="e_bbpn" crst="o_n" CtTx="k_" Dlmt="k_" IncD="b_f" Self="rc_u47bxBBk3"/>
+	</XRFm>
+	<XRFm pnam="c_Text Anchor Name" crst="o_n" Self="rc_u47c">
+		<xBBk Type="e_bbcs" crst="o_n" CtTx="c_&quot;" Dlmt="k_" IncD="b_f" Self="rc_u47cxBBk0"/>
+		<xBBk Type="e_bbbn" crst="o_n" CtTx="k_" Dlmt="k_" IncD="b_f" Self="rc_u47cxBBk1"/>
+		<xBBk Type="e_bbcs" crst="o_n" CtTx="c_&quot;" Dlmt="k_" IncD="b_f" Self="rc_u47cxBBk2"/>
+	</XRFm>
+	<XRFm pnam="c_Page Number" crst="o_n" Self="rc_u47d">
+		<xBBk Type="e_bbcs" crst="o_n" CtTx="c_page " Dlmt="k_" IncD="b_f" Self="rc_u47dxBBk0"/>
+		<xBBk Type="e_bbpn" crst="o_n" CtTx="k_" Dlmt="k_" IncD="b_f" Self="rc_u47dxBBk1"/>
+	</XRFm>
+	<cxst ATOC="o_n" TCAc="b_f" sTtl="k_" Jang="o_n" Self="rc_u83">
+		<txsr prst="o_u65" crst="o_u61">
+			<pcnt>c_<?aid Char="feff" Self="rc_u83cins1"?><?aid Char="feff" Self="rc_u83cins2"?><?aid Char="feff" Self="rc_u83cins3"?><?aid Char="feff" Self="rc_u83cins4"?></pcnt>
+		</txsr>
+		<SyPf omAL="b_f" omBZ="U_12" sgON="e_Txft" sorn="e_horz" sdir="e_L2Rd"/>
+		<cMep>
+			<pcnt><![CDATA[]]></pcnt>
+		</cMep>
+	</cxst>
+	<cflo ATOC="o_n" TCAc="b_f" sTtl="k_" Jang="o_n" Self="rc_u3ea">
+		<SyPf omAL="b_f" omBZ="U_12" sgON="e_Txft" sorn="e_horz" sdir="e_L2Rd"/>
+		<cMep>
+			<pcnt><![CDATA[]]></pcnt>
+		</cMep>
+		<icEo inGP="b_t" inAR="b_f"/>
+		<txsr prst="o_u65" crst="o_u61" pbop="U_2.834645669291339" prbr="b_t" pbtp="o_di5a2a" flcl="o_ue0" ptfs="c_Matchbook" ptsz="U_36" font="c_Matchbook">
+			<pcnt>c_CV</pcnt>
+		</txsr>
+	</cflo>
+	<cflo ATOC="o_n" TCAc="b_f" sTtl="k_" Jang="o_n" Self="rc_u17d">
+		<SyPf omAL="b_f" omBZ="U_12" sgON="e_Txft" sorn="e_horz" sdir="e_L2Rd"/>
+		<cMep>
+			<pcnt><![CDATA[]]></pcnt>
+		</cMep>
+		<icEo inGP="b_t" inAR="b_f"/>
+		<txsr prst="o_u50d" crst="o_u61">
+			<pcnt>c_8 Myopia Street San Fransisco, CA 90210 USA   +1.712.634.9389  name@gmail.com</pcnt>
+		</txsr>
+	</cflo>
+	<cflo ATOC="o_n" TCAc="b_f" sTtl="k_" Jang="o_n" Self="rc_u460">
+		<SyPf omAL="b_f" omBZ="U_12" sgON="e_Txft" sorn="e_horz" sdir="e_L2Rd"/>
+		<cMep>
+			<pcnt><![CDATA[]]></pcnt>
+		</cMep>
+		<icEo inGP="b_t" inAR="b_f"/>
+		<txsr prst="o_u65" crst="o_u61" pbop="U_2.834645669291339" prbr="b_t" pbtp="o_di5a2a" flcl="o_ue2" ptfs="c_Matchbook" ptsz="U_36" font="c_Matchbook">
+			<pcnt>c_Referrals</pcnt>
+		</txsr>
+	</cflo>
+	<cflo ATOC="o_n" TCAc="b_f" sTtl="k_" Jang="o_n" Self="rc_u44a">
+		<SyPf omAL="b_f" omBZ="U_12" sgON="e_Txft" sorn="e_horz" sdir="e_L2Rd"/>
+		<cMep>
+			<pcnt><![CDATA[]]></pcnt>
+		</cMep>
+		<icEo inGP="b_t" inAR="b_f"/>
+		<txsr prst="o_u65" crst="o_u61" pbop="U_2.834645669291339" prbr="b_t" pbtp="o_di5a2a" flcl="o_ue2" ptfs="c_Matchbook" ptsz="U_36" font="c_Matchbook">
+			<pcnt>c_Education</pcnt>
+		</txsr>
+	</cflo>
+	<cflo ATOC="o_n" TCAc="b_f" sTtl="k_" Jang="o_n" Self="rc_u434">
+		<SyPf omAL="b_f" omBZ="U_12" sgON="e_Txft" sorn="e_horz" sdir="e_L2Rd"/>
+		<cMep>
+			<pcnt><![CDATA[]]></pcnt>
+		</cMep>
+		<icEo inGP="b_t" inAR="b_f"/>
+		<txsr prst="o_u65" crst="o_u61" pbop="U_2.834645669291339" prbr="b_t" pbtp="o_di5a2a" flcl="o_ue1" ptfs="c_Matchbook" ptsz="U_36" font="c_Matchbook">
+			<pcnt>c_Experience</pcnt>
+		</txsr>
+	</cflo>
+	<cflo ATOC="o_n" TCAc="b_f" sTtl="k_" Jang="o_n" Self="rc_u400">
+		<SyPf omAL="b_f" omBZ="U_12" sgON="e_Txft" sorn="e_horz" sdir="e_L2Rd"/>
+		<cMep>
+			<pcnt><![CDATA[]]></pcnt>
+		</cMep>
+		<icEo inGP="b_t" inAR="b_f"/>
+		<txsr prst="o_u65" crst="o_u61" pbop="U_2.834645669291339" prbr="b_t" pbtp="o_di5a2a" flcl="o_ue0" ptfs="c_Matchbook" ptsz="U_36" font="c_Matchbook">
+			<pcnt>c_Experience</pcnt>
+		</txsr>
+	</cflo>
+	<cflo ATOC="o_n" TCAc="b_f" sTtl="k_" Jang="o_n" Self="rc_u3d4">
+		<SyPf omAL="b_f" omBZ="U_12" sgON="e_Txft" sorn="e_horz" sdir="e_L2Rd"/>
+		<cMep>
+			<pcnt><![CDATA[]]></pcnt>
+		</cMep>
+		<icEo inGP="b_t" inAR="b_f"/>
+		<txsr prst="o_u65" crst="o_u61" pbop="U_2.834645669291339" prbr="b_t" pbtp="o_di5a2a" flcl="o_ue0" ptfs="c_Matchbook" ptsz="U_36" font="c_Matchbook">
+			<pcnt>c_Profile</pcnt>
+		</txsr>
+	</cflo>
+	<cflo ATOC="o_n" TCAc="b_f" sTtl="k_" Jang="o_n" Self="rc_u3a8">
+		<SyPf omAL="b_f" omBZ="U_12" sgON="e_Txft" sorn="e_horz" sdir="e_L2Rd"/>
+		<cMep>
+			<pcnt><![CDATA[]]></pcnt>
+		</cMep>
+		<icEo inGP="b_t" inAR="b_f"/>
+		<txsr prst="o_u4ce" crst="o_u61">
+			<pcnt>c_Brian</pcnt>
+		</txsr>
+		<txsr prst="o_u4ce" crst="o_u61" pake="D_0">
+			<pcnt>c_ </pcnt>
+		</txsr>
+		<txsr prst="o_u4ce" crst="o_u61">
+			<pcnt>c_Jones </pcnt>
+		</txsr>
+		<txsr prst="o_u518" crst="o_u61">
+			<pcnt>c_Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel leo sapien. Vestibulum at sem non orci mollis posuere quis a ligula. Mauris euismod odio eu nibh porta bibendum. Nullam sed eros id mi consequat lacinia. Pellentesque elementum dui vitae massa adipiscing eget placerat sapien vulputate </pcnt>
+		</txsr>
+		<txsr prst="o_u519" crst="o_u61">
+			<pcnt>c_Praesent volutpat, nibh vel sodales aliquet, metus sapien aliquam leo, eu lacinia metus justo id est. Fusce elit tortor, convallis non tempor ac, tincidunt nec purus. Quisque eu aliquam orci. Quisque sed purus sit amet risus blandit varius. Vestibulum lorem ipsum, mollis eget placerat at, mollis vel lorem. Cras tincidunt nulla id justo ullamcorper nec consectetur massa gravida. Sed sapien elit, convallis eu mollis vel, sagittis in mauris. Mauris feugiat volutpat lectus, vel semper odio mollis vel. Nulla aliquet nisi quis est iaculis vulputate volutpat dolor vulputate. Sed rutrum tellus tristique neque elementum porta. Maecenas sollicitudin metus ut nisi aliquet nec fringilla tortor semper.  </pcnt>
+		</txsr>
+		<txsr prst="o_u51a" crst="o_u61">
+			<pcnt>c_Director of Business Development, Client Support Services  Acme Inc.</pcnt>
+		</txsr>
+		<txsr prst="o_u51a" crst="o_u61" pake="D_-41">
+			<pcnt>c_ </pcnt>
+		</txsr>
+		<txsr prst="o_u51a" crst="o_u61">
+			<pcnt>c_Sandiego, March ’10 - Current </pcnt>
+		</txsr>
+		<txsr prst="o_u519" crst="o_u61">
+			<pcnt>c_Praesent volutpat, nibh vel sodales aliquet, metus sapien aliquam leo, eu lacinia metus justo id est. Fusce elit tortor, convallis non tempor ac, tincidunt nec purus. Quisque eu aliquam orci. Quisque sed purus sit amet risus blandit varius. Vestibulum lorem ipsum, mollis eget placerat at, mollis vel lorem. Cras tincidunt nulla id justo ullamcorper nec consectetur massa gravida. Sed sapien elit, convallis eu mollis vel, sagittis in mauris.  Mauris feugiat volutpat lectus, vel semper odio mollis vel. Nulla aliquet nisi quis est iaculis vulputate volutpat dolor vulputate. Sed rutrum tellus tristique neque elementum porta. Maecenas sollicitudin metus ut nisi aliquet nec fringilla tortor semper. Phasellus gravida gravida auctor. Aenean vitae mauris dui. Integer ornare nibh in felis sodales convallis. Quisque in erat enim. Etiam non volutpat velit.  </pcnt>
+		</txsr>
+		<txsr prst="o_u51b" crst="o_u61">
+			<pcnt>c_Key Achievements </pcnt>
+		</txsr>
+		<txsr prst="o_u51c" crst="o_u61">
+			<pcnt>c_Over 2500% increase in web traffic to support site Developed proven price strategy for support, hosting, training &amp; development Marketing efforts including </pcnt>
+		</txsr>
+		<txsr prst="o_u51e" crst="o_u61">
+			<pcnt>c_Increased contact rate through website redesign Launched successful email marketing campaign to increase web-traffic, and inquiries with aid of split market testing </pcnt>
+		</txsr>
+		<txsr prst="o_u51c" crst="o_u61">
+			<pcnt>c_Planned and executed sales pipeline strategy Systematically reduced sales bottlenecks through testing and analysis  Developed effective partner program and acquired first partners Development of messaging and sales tactics from ground up Acquired first sales </pcnt>
+		</txsr>
+		<txsr prst="o_u51a" crst="o_u61" spbe="U_8">
+			<pcnt>e_SClB</pcnt>
+		</txsr>
+		<txsr prst="o_u51a" crst="o_u61">
+			<pcnt>c_Cofounder / Board, Keystone Media New York,</pcnt>
+		</txsr>
+		<txsr prst="o_u51a" crst="o_u61" pake="D_0">
+			<pcnt>c_ </pcnt>
+		</txsr>
+		<txsr prst="o_u51a" crst="o_u61">
+			<pcnt>c_New York, 2007 - 2009 </pcnt>
+		</txsr>
+		<txsr prst="o_u519" crst="o_u61">
+			<pcnt>c_Keystone, In felis velit, euismod quis tincidunt eu, posuere eu leo. Quisque iaculis pharetra lorem, sed lobortis quam scelerisque porta. In hac habitasse platea dictumst. Nulla facilisi. Vivamus molestie mattis molestie. </pcnt>
+		</txsr>
+		<txsr prst="o_u51b" crst="o_u61">
+			<pcnt>c_Key Achievements </pcnt>
+		</txsr>
+		<txsr prst="o_u51c" crst="o_u61">
+			<pcnt>c_Recruited operational personnel from USA / Europe Development of market positioning, messaging and materials Initiated partnership discussions Partnership / acquisition negotiations </pcnt>
+		</txsr>
+		<txsr prst="o_u51a" crst="o_u61">
+			<pcnt>c_Cofounder / Board Member, Byson (in operation, 18M€ 2012)  New Hampshire, United Kingdom, 2004 - 2009 </pcnt>
+		</txsr>
+		<txsr prst="o_u519" crst="o_u61">
+			<pcnt>c_In felis velit, euismod quis tincidunt eu, posuere eu leo. Quisque iaculis pharetra lorem, sed lobortis quam scelerisque porta. In hac habitasse platea dictumst. Nulla facilisi. </pcnt>
+		</txsr>
+		<txsr prst="o_u51b" crst="o_u61">
+			<pcnt>c_Key Achievements </pcnt>
+		</txsr>
+		<txsr prst="o_u51c" crst="o_u61">
+			<pcnt>c_Planned strategies affecting revenue growth of up to 400% Planning and execution of acquisitions as part of total growth strategy Built marketing strategy and oversaw building of materials Held key operational position hiring and managing staff </pcnt>
+		</txsr>
+		<txsr prst="o_u520" crst="o_u61">
+			<pcnt>c_Harvar</pcnt>
+		</txsr>
+		<txsr prst="o_u520" crst="o_u61" pake="D_0">
+			<pcnt>c_d</pcnt>
+		</txsr>
+		<txsr prst="o_u520" crst="o_u61">
+			<pcnt>c_ Business School,</pcnt>
+		</txsr>
+		<txsr prst="o_u520" crst="o_u61" pake="D_0">
+			<pcnt>c_ </pcnt>
+		</txsr>
+		<txsr prst="o_u520" crst="o_u61">
+			<pcnt>c_MA  </pcnt>
+		</txsr>
+		<txsr prst="o_u521" crst="o_u61">
+			<pcnt>c_Uguene College, Oregon — Marketing </pcnt>
+		</txsr>
+		<txsr prst="o_u522" crst="o_u61">
+			<pcnt>c_Upon request</pcnt>
+		</txsr>
+	</cflo>
+	<cflo ATOC="o_n" TCAc="b_f" sTtl="k_" Jang="o_n" Self="rc_u13b">
+		<SyPf omAL="b_f" omBZ="U_12" sgON="e_Txft" sorn="e_horz" sdir="e_L2Rd"/>
+		<cMep>
+			<pcnt><![CDATA[]]></pcnt>
+		</cMep>
+		<icEo inGP="b_t" inAR="b_f"/>
+		<txsr prst="o_u50c" crst="o_u61">
+			<pcnt>e_SApn</pcnt>
+		</txsr>
+		<txsr prst="o_u50c" crst="o_u61">
+			<pcnt>c_ </pcnt>
+		</txsr>
+		<txsr prst="o_u50c" crst="o_u61">
+			<pcnt>c_/</pcnt>
+		</txsr>
+		<txsr prst="o_u50c" crst="o_u61">
+			<pcnt>c_ </pcnt>
+		</txsr>
+		<txsr prst="o_u50c" crst="o_u61">
+			<pcnt>e_SPtv<?aid Char="0" Self="rc_u13bcins4"?><?aid Char="0" Self="rc_u13bcins5"?></pcnt>
+		</txsr>
+		<TVc3 pnam="rc_Last Page Number" TVeq="rc_1" STof="ro_u13bcins4" TVrf="o_dSPtvnLast Page Number" Self="rc_u47e"/>
+	</cflo>
+	<cXML strp="ro_u83" STof="o_u83cins2" XMLt="o_ua1" Xcnt="o_u83cins2:u83cins3" Self="rc_di3"/>
+	<iSOp pnam="rk_kIndexGroup~sep~Symbol" incl="b_t" prty="l_0" hdty="e_nada" Self="rc_diSOpnkIndexGroup~sep~Symbol"/>
+	<iSOp pnam="rk_kIndexGroup~sep~Alphabet" incl="b_t" prty="l_1" hdty="e_HTBL" Self="rc_diSOpnkIndexGroup~sep~Alphabet"/>
+	<iSOp pnam="rk_kIndexGroup~sep~Numeric" incl="b_f" prty="l_2" hdty="e_nada" Self="rc_diSOpnkIndexGroup~sep~Numeric"/>
+	<iSOp pnam="rk_kWRIndexGroup~sep~GreekAlphabet" incl="b_f" prty="l_3" hdty="e_nada" Self="rc_diSOpnkWRIndexGroup~sep~GreekAlphabet"/>
+	<iSOp pnam="rk_kWRIndexGroup~sep~CyrillicAlphabet" incl="b_f" prty="l_4" hdty="e_HTRu" Self="rc_diSOpnkWRIndexGroup~sep~CyrillicAlphabet"/>
+	<iSOp pnam="rk_kIndexGroup~sep~Kana" incl="b_f" prty="l_5" hdty="e_HTHA" Self="rc_diSOpnkIndexGroup~sep~Kana"/>
+	<iSOp pnam="rk_kIndexGroup~sep~Chinese" incl="b_f" prty="l_6" hdty="e_HTCP" Self="rc_diSOpnkIndexGroup~sep~Chinese"/>
+	<iSOp pnam="rk_kIndexGroup~sep~Korean" incl="b_f" prty="l_7" hdty="e_HTKo" Self="rc_diSOpnkIndexGroup~sep~Korean"/>
+	<bnoc bnbt="e_BCuo" bnbv="l_2022" blfn="k_" blft="k_" Self="rc_dbnoc0"/>
+	<bnoc bnbt="e_BCuo" bnbv="l_2a" blfn="k_" blft="k_" Self="rc_dbnoc1"/>
+	<bnoc bnbt="e_BCuo" bnbv="l_25ca" blfn="k_" blft="k_" Self="rc_dbnoc2"/>
+	<bnoc bnbt="e_BCuf" bnbv="l_bb" blfn="c_Myriad Pro" blft="k_Regular" Self="rc_dbnoc3"/>
+	<bnoc bnbt="e_BCgf" bnbv="l_1f7" blfn="c_Minion Pro" blft="k_Regular" Self="rc_dbnoc4"/>
+	<bnoc bnbt="e_BCgf" bnbv="l_276" blfn="c_Adobe Jenson Pro" blft="k_Regular" Self="rc_dbnoc5"/>
+	<bnoc bnbt="e_BCgf" bnbv="l_276" blfn="c_Myriad Pro" blft="k_Regular" Self="rc_dbnoc6"/>
+	<bnoc bnbt="e_BCuf" bnbv="l_2219" blfn="c_Futura Std" blft="c_Light" Self="rc_dbnoc7"/>
+	<bnoc bnbt="e_BCuf" bnbv="l_b7" blfn="c_Cantarell" blft="c_Regular" Self="rc_dbnoc8"/>
+	<AsMt pnam="k_UnassignedInCopy" UsrN="k_" AsEx="e_AsEs" AFCl="e_nada" AsIl="b_t" path="k_" Self="rc_ub1"/>
+</docu>

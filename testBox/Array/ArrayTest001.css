@@ -1,0 +1,7 @@
+table { 
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+.cell { width: 20px; height: 20px; }
+.odd { background-color: brown }
+.even { background-color: pink }

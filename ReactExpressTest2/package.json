@@ -1,0 +1,62 @@
+{
+			"name": "pg7esth",
+			"version": "0.1.0",
+			"private": true,
+			"dependencies": {
+						"@devexpress/dx-react-core": "^1.10.4",
+						"@devexpress/dx-react-grid": "^1.10.4",
+						"@devexpress/dx-react-grid-bootstrap4": "^1.10.4",
+						"@fortawesome/fontawesome-svg-core": "^1.2.12",
+						"@fortawesome/free-solid-svg-icons": "^5.6.3",
+						"@fortawesome/react-fontawesome": "^0.1.4",
+						"ag-grid-community": "^20.1.0",
+						"axios": "^0.18.0",
+						"bootstrap": "^4.3.1",
+						"bson-objectid": "^1.2.4",
+						"devextreme": "18.2.6",
+						"draft-js": "^0.10.5",
+						"draftjs-to-html": "^0.8.4",
+						"history": "^4.7.2",
+						"lodash": "^4.17.11",
+						"moment": "^2.24.0",
+						"react": "^16.7.0",
+						"react-bootstrap": "^0.32.4",
+						"react-browser-router": "^2.1.2",
+						"react-data-grid": "^5.0.5",
+						"react-data-grid-addons": "^5.0.5",
+						"react-dom": "^16.7.0",
+						"react-draft-wysiwyg": "^1.13.2",
+						"react-flatpickr": "^3.7.1",
+						"react-full-screen": "^0.2.4",
+						"react-iframe": "^1.5.0",
+						"react-livechat": "^1.1.1",
+						"react-mongoose-form-maker": "0.0.2",
+						"react-responsive-modal": "^3.6.0",
+						"react-router": "^4.3.1",
+						"react-router-auth": "^1.0.1",
+						"react-router-dom": "^4.3.1",
+						"react-scripts": "^2.1.8",
+						"react-smart-data-table": "^0.6.7",
+						"simple-react-validator": "^1.0.3"
+			},
+			"scripts": {
+						"start": "react-scripts start",
+						"build": "react-scripts build && cd backend/src && rm -fr build/ && cp -R ../../build/ ./",
+						"test": "react-scripts test",
+						"eject": "react-scripts eject"
+			},
+			"proxy": "http://localhost:5000/",
+			"eslintConfig": {
+						"extends": "react-app"
+			},
+			"browserslist": [
+						">0.2%",
+						"not dead",
+						"not ie <= 11",
+						"not op_mini all"
+			],
+			"devDependencies": {
+						"css-loader": "^2.1.0",
+						"style-loader": "^0.23.1"
+			}
+}

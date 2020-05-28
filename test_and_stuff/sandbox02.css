@@ -1,0 +1,107 @@
+body {
+	background-color: black;
+	}
+h1 {
+	color: red;
+   font-family: 'Cinzel', serif;
+   font-size: 250%;
+	border: 1px solid powderblue;
+	padding: 1px; 
+	}
+h2 {  
+	color: red;
+	font-size: 120%;
+	font-family: 'Gentium Basic', serif;
+	border: 1px solid orange;
+	padding: 1px;
+	}
+	
+h3 {  
+	color: orchid;
+	font-size: 270%;
+   font-family: 'Indie Flower', cursive;	
+   border: 1px solid white;
+   padding: 1px;
+   }
+	
+p {
+	color: green;
+	font-size: 130%;
+	font-family: 'Pacifico', cursive;
+	border: 1px solid red;
+   padding: 1px;	
+	}	 	
+	
+pre {
+	color: white;
+	font-size: 200%;
+   font-family: 'EB Garamond', serif;
+	border: 1px solid powderblue;
+	padding: 1px;
+
+	}
+	
+a {
+	color: white;
+	font-size: 200%;
+   font-family: 'Pacifico', cursive;
+	border: none;
+	margin: 20px;
+	padding: 20px;}
+
+footer {
+	color: pink; 
+   font-size: 200%; 
+	border: 1px solid powderblue;
+   font-family: 'Cinzel', serif;
+	padding: 1px;
+   }
+
+img {padding: 20px}
+
+
+/* special stuff*/
+
+#sp01 {
+    color: pink;
+	 font-size: 200%;
+    font-family: 'Indie Flower', cursive;
+	 padding: 1px;
+	 border: 1px solid red;
+}
+	 
+          
+.class_test_01 {
+    color: red;
+	 font-size: 300%;
+    font-family: 'Permanent Marker', cursive;
+	 border: 50px solid green;
+	 padding: 50px;
+}
+
+/* link behaviour... maybe*/
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+/* end of link behaviour*/

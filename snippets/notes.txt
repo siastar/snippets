@@ -1,0 +1,1 @@
+to quit running node ctrl^C in running terminal

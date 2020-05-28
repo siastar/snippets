@@ -1,0 +1,7 @@
+/* PG7 extras */
+@import 'pg7-mixins';
+  
+/* menu options visibility boxes */
+ul.dropdown-menu.checkbox-menu.allow-focus.show {
+  @include pg7-menu-options-visibility-box();
+  }

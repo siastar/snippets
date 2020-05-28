@@ -1,0 +1,100 @@
+body {width: 80%;
+		border: 1px solid black;}
+
+h1 {
+	width: 90%;
+	text-align: center;
+	color: red;
+   font-family: 'Cinzel', serif;
+   font-size: 100%;
+	border: 1px solid powderblue;
+	padding: 1px; 
+	}
+		
+p {/*font-family: Pacifico, sans-serif;*/   
+   background-color: transparent;
+   width: 90%;
+}		
+
+span {background-color: black;
+		color: white}
+
+div{background-color: blueviolet;
+	 font-family: arial, sans-serif;
+	 padding: 20px;}
+
+/*CLASSES-------------------------------------------------------*/
+/*CLASSES-------------------------------------------------------*/
+/*CLASSES-------------------------------------------------------*/
+/*CLASSES-------------------------------------------------------*/
+
+.animal_type{background-color: greenyellow;
+    			 color: black;
+    			 padding: 10px;
+    			 font-family: arial, sans-serif;}
+    			 
+.animal_name{background-color: tomato;
+    			 color: white;
+    			 padding: 10px;
+    			 font-family: arial, sans-serif;}
+
+.animal_color{background-color: black;
+    			 color: fuchsia;
+    			 padding: 10px;
+    			 font-family: arial, sans-serif;}
+
+
+/*ID-------------------------------------------------------*/
+
+#johndoe
+{background-color: red;
+ color: white;
+ padding: 15px;
+ font-family: 'Cinzel', serif;}
+
+
+/*TABLE STYLE-------------------------------------------------------*/
+/*TABLE STYLE-------------------------------------------------------*/
+/*TABLE STYLE-------------------------------------------------------*/
+table {
+    font-family: 'arial', sans-serif;   
+    border-collapse: collapse;
+    width: 90%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: red;
+}
+/*END OF TABLE STYLE--------------------------------------------------*/
+
+/*LIST STYLE--------------------------------------------------*/
+
+	ul {
+    list-style-type: disc;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111111;
+}
+/*END OF LIST STYLE--------------------------------------------------*/
