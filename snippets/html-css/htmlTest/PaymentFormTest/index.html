@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>tables test</title>
+
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <h1>payment form</h1>
+    <p>required fields are followed by <strong><abbr title="required"> * </abbr></strong></p>
+    <section>
+        <h2>Contact Info</h2>
+        <fieldset>
+            <legend>title</legend>
+            <ul>
+                <li>
+                    <label for="title_1">
+                        <input name="title" type="radio" value="K" id="title_1" />
+                        King</label>
+                </li>
+                <li>
+                    <label for="title_2">
+                        <input name="title" type="radio" value="Q" id="title_2" />
+                        Queen
+                    </label>
+                </li>
+                <li>
+                    <label for="title_3">
+                        <input name="title" type="radio" value="J" id="title_3" />
+                        Jack
+                    </label>
+                </li>
+            </ul>
+        </fieldset>
+        <p>
+            <label for="name"><span>Name: </span>
+                <strong><abbr title="required">*</abbr></strong>
+            </label>
+            <input id="name" name="username" type="text" value="" />
+        </p>
+
+
+        <p>
+            <label for="email">
+                <span>Email: </span>
+                <strong><abbr title="required">*</abbr></strong>
+            </label>
+            <input id="email" name="usermail" type="text" value="" />
+        </p>
+
+        <p>
+            <label for="">
+                <span>Password</span>
+                <strong><abbr title="required">*</abbr></strong>
+            </label>
+            <input id="password" name="password" type="text" value="" />
+        </p>
+    </section>
+
+    <section>
+        <h2>payment info</h2>
+        <p>
+            <label for="cardname"></label>
+            <span>select card</span>
+            <select id="cardname" name="usercard">
+                <option value="visa">Visa</option>
+                <option value="amex">American Express</option>
+                <option value="master">Mastercard</option>
+            </select>
+        </p>
+        <p>
+            <label for="cardnumber">
+                <span>Card Number</span>
+                <strong><abbr title="required">*</abbr></strong>
+                <input id="cardnumber" name="cardnumber" type="tel" value="" />
+            </label>
+        </p>
+        <p>
+            <label for="expdate"></label>
+            <span>Expiration Date</span>
+            <strong><abbr title="required">*</abbr></strong>
+            <input id="expdate" name="expirationdate" type="date" value="" />
+        </p>
+
+    </section>
+
+    <p>
+        <button type="submit">check out</button>
+    </p>
+
+    <button type="submit">
+      This is a <strong>submit button</strong>
+    </button>
+    <br />
+    <br />
+    <input type="submit" value="This is a submit button">
+    <br />
+    <br />
+    <input type="image" alt="Click me!" src="img/firefoxlogo120px.png" height="120">
+    <br />
+    <br />
+    <input type="file" name="file" id="file" accept="image/*" multiple>
+    <br/>
+    <br/>
+    <input type="color" name="color" id="color">
+</body>
+
+</html>

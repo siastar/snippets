@@ -1,0 +1,48 @@
+h1 {
+    color: red;
+}
+
+p,li {
+    color: green;
+}
+
+li {
+    list-style-type: none;
+}
+
+span{
+    background-color: gold;
+    color: black;
+}
+
+a:link {background-color:red;}
+a:visited {background-color: orange;}
+a:hover{
+    text-decoration: none;
+    background-color: gold;
+    font-size:150%;}
+
+em{
+    background-color: pink;
+    color: blue;
+}
+
+li em{
+    /*style elements em whose parent is li*/
+    background-color:rebeccapurple;
+    color:yellow;
+}
+
+h1+p{
+    /*style p elements only if after h1*/
+    background-color: black;
+    color:white;
+}
+
+
+.special {
+    color: brown;
+    font-weight: bold;
+}
+
+

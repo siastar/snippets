@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>tables test</title>
+
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="index.css">
+
+
+</head>
+
+<body>
+
+    <form action="/my-handling-form-page" method="post">
+
+        <ul>
+            <li>
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="user_name" value="your name" />
+            </li>
+            <li>
+                <label for="mail">Email</label>
+                <input type="email" id="mail" name="user_mail" value="your email address" />
+            </li>
+            <li>
+                <label for="msg">Message:</label>
+                <textarea id="msg" name="user_message">type your message here
+		</textarea>
+            </li>
+
+            <li class="button">
+                <button type="submit">submit</button>
+            </li>
+
+
+            <li class="button">
+                <button type="reset">reset</button>
+            </li>
+        </ul>
+    </form>
+
+    <form action="">
+        <fieldset>
+            <legend>test</legend>
+            <p>
+                <input id="size_1" name="small" type="radio" value="small">
+                <label for="size_1">small</label>
+            </p>
+            <p>
+                <input id="size_2" name="medium" type="radio" value="medium">
+                <label for="size_2">medium</label>
+            </p>
+            <p>
+                <input id="size_3" name="large" type="radio" value="large">
+                <label for="size_3">large</label>
+            </p>
+        </fieldset>
+    </form>
+
+    <form action="">
+      
+      <div>
+        <label for="username">Name: <abbr title="required" aria-label="required">*</abbr></label>
+        <input id="username" type="text" name="username">
+      </div>
+
+
+
+    </form>
+    
+
+</body>
+
+</html>
