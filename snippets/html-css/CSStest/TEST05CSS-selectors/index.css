@@ -1,0 +1,112 @@
+* {
+  margin: 25px;
+  background-color: lime;
+}
+
+code {
+  background-color: black;
+  color: orange;
+  border: 1px;
+  border-color: gold;
+  border-style: solid;
+  font-size:18px;
+  /*margin: 2px;*/
+}
+
+h1 {
+  background-color: gold;
+  color: magenta;
+}
+
+.special1 {
+  font-size: 25px;
+  background-color: black;
+  color: red;
+}
+
+.special1:hover {
+  background-color: brown;
+  color: yellow;
+}
+
+h2,
+.special2 {
+  font-size: 25px;
+  background-color: orange;
+  color: green;
+}
+
+#test_id {
+  font-size: 25px;
+  background-color: cyan;
+  color: brown;
+}
+
+div[title] {
+  font-size: 25px;
+  background-color: brown;
+  color: yellow;
+}
+
+div[name="donald_duck"] {
+  font-size: 25px;
+  background-color: pink;
+  color: darkblue;
+}
+
+span {
+  background-color: yellow;
+  color: darkblue;
+  font-size: 20px;
+}
+
+p {
+  font-size: 25px;
+  background-color: cyan;
+  color: darkred;
+}
+
+
+p::first-line {
+  font-size: 25px;
+  background-color: darkred;
+  color: gold;
+}
+
+article{
+  font-size: 25px;
+  background-color: darkgrey;
+  color: darkgreen;    
+}
+
+article > .articlebox
+{
+  font-size: 25px;
+  background-color: gold;
+  color: red;
+}
+
+.testparent1{
+ font-size: 25px;
+  background-color: salmon;
+  color: darkblue; 
+}
+
+.testparent1>div{
+ font-size: 25px;
+  background-color: darkorange;
+  color: darkblue;
+}
+
+
+.testparent2{
+ font-size: 25px;
+  background-color: darkred;
+  color: darkblue; 
+}
+
+.testparent2 div{
+ font-size: 25px;
+  background-color: darkblue;
+  color: lime;
+}

@@ -1,0 +1,23 @@
+/* article p::first-line { */
+/*     font-size: 120%; */
+/*     font-weight: bold; */
+/* }    */
+
+article p:first-child::first-line {
+  font-size: 120%;
+  font-weight: bold;
+}
+
+.box {
+  background-color: pink;
+}
+
+.box::before {
+  content: "this will be before box ";
+  background-color: yellow;
+}
+
+.box::after {
+  content: " this will be after box";
+  background-color: magenta;
+}

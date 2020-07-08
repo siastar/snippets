@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>tables test</title>
+
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<!-- ************************************************************** -->
+
+<body>
+    <h1><code>h1 {...}</code> header test</h1>
+    <div class="special1"><code>.special1{...}</code> class name selector</div>
+    <div class="special1"><code>.special1:hover {...}</code> hover pseudo class</div>
+    <h2><code>h2, special2{...}</code>header2 test</h2>
+    <div class="special2"><code>h2, special2{...}</code>class name selector</div>
+    <div id="test_id"><code>#test_id{}</code> id selector</div>
+    <div title="testattr"><code>div[title] {...}</code>attribute selector (e.g. title)</div>
+    <div name="donald_duck"><code>div[name="donald_duck"]{...} </code>attribute value selector</div>
+    <p>
+        <code>p::first-line {...}</code>paragraph first-line pseudo class
+        <br />
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Duis imperdiet, eros sed varius commodo, purus orci porta elit,
+        vel cursus tellus est sed magna. Curabitur ut nunc ut tortor volutpat
+        aliquam. Mauris varius lorem eget enim pretium, et ultricies felis porttitor.
+        Vivamus eu tortor eget lorem hendrerit iaculis. In eget ante ac nisl rutrum
+        malesuada quis non sapien. Praesent id euismod turpis. Phasellus nec mi
+        ex. Mauris mattis leo sit amet accumsan maximus. Nulla vitae leo commodo, dapibus
+        felis vitae, feugiat tortor.
+
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Duis imperdiet, eros sed varius commodo, purus orci porta elit,
+        vel cursus tellus est sed magna. Curabitur ut nunc ut tortor volutpat
+        aliquam. Mauris varius lorem eget enim pretium, et ultricies felis porttitor.
+        Vivamus eu tortor eget lorem hendrerit iaculis. In eget ante ac nisl rutrum
+        malesuada quis non sapien. Praesent id euismod turpis. Phasellus nec mi
+        ex. Mauris mattis leo sit amet accumsan maximus. Nulla vitae leo commodo, dapibus
+        felis vitae, feugiat tortor.
+    </p>
+    <article>
+        <code>article{...}</code>this is an article, tellus est sed magna.
+        Curabitur ut nunc ut tortor volutpat
+        aliquam. Mauris varius lorem eget enim pretium, et ultricies felis porttitor.
+        Vivamus eu tortor eget lorem hendrerit iaculis. In eget ante ac nisl rutrum
+        malesuada quis non sapien
+        <div class="articlebox"><code>article > class {...}</code>this is a child div of article:
+            adipiscing elit. Duis imperdiet, eros sed varius commodo, purus orci porta elit,
+            vel cursus tellus est sed magna. Curabitur ut nunc ut tortor volutpat
+            aliquam. Mauris varius lorem eget enim pretium, et ultricies felis porttitor.
+            Vivamus eu tortor eget lorem hendrerit iaculis. In eget ante ac nisl rutrum
+            malesuada quis non sapien.
+        </div>
+    </article>
+
+    <div class="testparent1">
+        <code>.testparent{...}</code>
+        adipiscing elit. Duis imperdiet, eros sed varius commodo, purus orci porta elit,
+        vel cursus tellus est sed magna. Curabitur ut nunc ut tortor volutpat
+        <code>.testparent>div{...}</code>
+        <div>affects all direct children of parent, but not further descendants</div>
+        <div>---------------</div>
+        <div> varius lorem eget enim divretium, et ultricies felis divorttitor.Vivamus eu torto</div>
+        <div> Mauris varius lovretium, et ultricies felis divorttitor.Vivamus eu torto</div>
+        <div> lorem eget enim divretium, et ultricies felis divorttitor.Vivamus eu torto</div>
+        <div> et ultricies felis divorttitor Mauris varius lorem eget enim divretium o</div>
+
+        <article>this is an article and is affected by<code>article{...}</code>selector but not by
+            class "testparent" selector nor by<code>.testparent1>div</code>which selects testparent children but
+            not further descendants
+                <div>
+                this div is a descendant of testparent but does nor receive any rule
+                </div>
+		<div>
+                  Phasellus congue mi id tortor efficitur gravida. Vivamus tincidunt odio ac ipsum
+                  citudin quam gravida. Nam scelerisque mauris lacinia, consequat libero vitae,
+                  tempor dui. Nulla suscipit posuere posuere. Donec scelerisque viverra dui, ut euismod
+                  eros cursus in. Integer feugiat felis elit, in pretium lacus mollis at.
+		</div>
+        </article>
+    </div>
+
+    <div class="testparent2">
+      <code>.testparent{...}</code>
+      adipiscing elit. Duis imperdiet, eros sed varius commodo, purus orci porta elit,
+      vel cursus tellus est sed magna. Curabitur ut nunc ut tortor volutpat
+      <code>.testparent>div{...}</code>
+      <div>affects all direct children of parent, but not further descendants</div>
+      <div>---------------</div>
+      <div> varius lorem eget enim divretium, et ultricies felis divorttitor.Vivamus eu torto</div>
+      <div> Mauris varius lovretium, et ultricies felis divorttitor.Vivamus eu torto</div>
+      <div> lorem eget enim divretium, et ultricies felis divorttitor.Vivamus eu torto</div>
+      <div> et ultricies felis divorttitor Mauris varius lorem eget enim divretium o</div>
+
+      <article>this is an article and is affected by<code>article{...}</code>selector but not by
+        class "testparent" selector nor by<code>.testparent2 div</code>which selects testparent children but
+        not further descendants
+        <div>
+          this div is a descendant of testparent but does nor receive any rule
+        </div>
+	<div>
+          eu sollicitudin quam gravida. Nam scelerisque mauris lacinia, consequat libero vitae,
+          tempor dui. Nulla suscipit posuere posuere. Donec scelerisque viverra dui, ut euismod
+          eros cursus in. Integer feugiat felis elit, in pretium lacus mollis at.
+        </div>
+      </article>
+    </div>
+
+
+    
+
+    
+    <div id="outer" class="container">
+        <div id="inner" class="container">
+            <ul>
+                <li class="nav"><a href="#">One</a></li>
+                <li class="nav"><a href="#">Two</a></li>
+            </ul>
+        </div>
+    </div>
+
+</body>
+
+</html>

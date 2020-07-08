@@ -1,0 +1,54 @@
+/* span:first-child { */
+/*   font-size: 120%; */
+/*   font-weight: bold; */
+/*   background-color: yellow; */
+/* } */
+
+code {
+  background-color: gold;
+  color: brown;
+}
+
+p {
+  background-color: pink;
+}
+
+p:first-child {
+  font-size: 120%;
+  font-weight: bold;
+  background-color: yellow;
+}
+
+p:last-child {
+  font-size: 120%;
+  font-weight: bold;
+  background-color: cyan;
+}
+
+div {
+  display: inline-block;
+  margin: 6px;
+  background-color:darkblue;
+  color:gold;
+  outline: 1px solid;
+}
+
+div:only-child {
+    color:red;
+    background-color: lime;
+}
+
+
+a:link, a:visited {
+    color: rebeccapurple;
+    font-weight: bold;
+}
+
+a:hover {
+    color:hotpink;
+}   
+
+article p::first-line {
+    font-size: 120%;
+    font-weight: bold;
+}   

@@ -1,0 +1,50 @@
+npm init -> initialize package.JSON file
+npm install -> install all the dependencies indicated in the package.JSON file
+
+---------------------------------------------------------------------
+
+to start mysql -> terminal mysql
+to start myadminphp -> http://localhost/phpmyadmin/
+
+---------------------------------------------------------------------
+
+mongo service must be started in order to operate mongo db
+$sudo service mongod start
+
+$sudo mongod --dbpath /home/ytze/CodeBox/NodeJs/Mongo/DB/
+
+
+
+once service is started you can launch db console
+ 
+$mongo 
+
+to switch to a specific db 
+$use databasename
+
+
+into the DB console itself you can run js command to control DB
+check this out
+https://www.quackit.com/mongodb/tutorial/mongodb_create_a_database.cfm
+-------------------------------------------------------------
+
+newstuff = [{ "username" : "testuser4", "email" : "testuser4@testdomain.com" }, { "username" : "testuser5", "email" : "testuser5@testdomain.com" }]
+
+newstuff = [{ "username" : "testuser1", "email" : "testuser1@testdomain.com" }]
+
+db.usercollection.insert(newstuff);
+localhost:27017/test01
+
+========================================================================================================
+online test database
+https://cloud.mongodb.com/
+========================================================================================================
+local db
+localhost:27017
+========================================================================================================
+physical db location
+home/Codeboc/NodeJs/Mongo/DB
+
+security (https://medium.com/@matteocontrini/how-to-setup-auth-in-mongodb-3-0-properly-86b60aeef7e8)
+
+db.createUser({ user: "admin", pwd: "adminpassword", roles: [{ role: "userAdminAnyDatabase", db: "admin" }] })

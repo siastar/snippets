@@ -1,0 +1,15 @@
+const express = require ('express');
+const router = express.Router();
+
+router.get('/' , (req, res) => {
+    console.log('req baseUrl:', req.baseUrl); // output: req baseUrl: /posts
+    console.log('req originalUrl:', req.originalUrl); // output: req originalUrl: /posts
+    //console.log('res :', res); 
+    res.send('this is the posts page!');
+    // responds to the request by sending the outcoming output on "/posts" (localhost:3000/posts)
+});
+
+
+
+
+module.exports = router;

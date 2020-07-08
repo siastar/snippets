@@ -1,0 +1,41 @@
+body {
+    color: red;
+    background-color: grey;
+}
+          
+a{
+background-color: yellow}
+
+.my-class-1 a {
+    color: inherit;
+}
+          
+.my-class-2 a {
+    color: initial;
+}
+          
+.my-class-3 a {
+    color: unset;
+}
+    
+blockquote {
+    background-color: brown;
+    border: 2px solid green;
+    color: black;
+}
+        
+.fix-this {
+    all: unset;
+}
+    
+h2{
+    color: blue;
+}
+
+.small{
+    font-size: 90%
+}
+
+.bright{
+    background-color: pink;
+}

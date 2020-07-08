@@ -1,0 +1,23 @@
+*{background-color:pink;}
+
+p,
+ul {
+  border: 2px solid rebeccapurple;
+  padding: 0.5em;
+}
+
+.block,
+li {
+  border: 2px solid blue;
+  padding: 0.5em;
+  background-color:lime;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+}
+
+.block {
+  display: block;
+}

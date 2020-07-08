@@ -1,0 +1,51 @@
+
+const http = require('http');
+
+// Create an instance of the http server to handle HTTP requests
+let app = http.createServer((req, res) => {  
+    // Set a response type of plain text for the response
+    res.writeHead(200, {'Content-Type': 'text/plain'});
+
+	 import THREE from 'three';
+	 var camera, scene, renderer;
+	 var geometry, material, mesh;
+ 
+	 init();
+    animate();
+ 
+    function init() {
+ 
+    	camera = new THREE.PerspectiveCamera( 70, window.innerWidth / window.innerHeight, 0.01, 10 );
+    	camera.position.z = 1;
+ 
+    	scene = new THREE.Scene();
+ 
+    	geometry = new THREE.BoxGeometry( 0.2, 0.2, 0.2 );
+    	material = new THREE.MeshNormalMaterial();
+ 
+    	mesh = new THREE.Mesh( geometry, material );
+    	scene.add( mesh );
+ 
+    	renderer = new THREE.WebGLRenderer( { antialias: true } );
+    	renderer.setSize( window.innerWidth, window.innerHeight );
+    	document.body.appendChild( renderer.domElement );
+ 
+		}
+ 
+function animate() {
+ 
+    requestAnimationFrame( animate );
+ 
+    mesh.rotation.x += 0.01;
+    mesh.rotation.y += 0.02;
+ 
+    renderer.render( scene, camera );
+ 
+}
+    // Send back a response and end the connection
+    res.end('Hello World!\n');
+});
+
+// Start the server on port 3000
+app.listen(3000, '127.0.0.1');  
+console.log('Node server running on port 3000');  

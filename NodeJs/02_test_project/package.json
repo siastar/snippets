@@ -1,0 +1,11 @@
+{
+  "name": "02_test_project",
+  "version": "1.0.0",
+  "description": "messing with node 01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ytz3",
+  "license": "ISC"
+}
