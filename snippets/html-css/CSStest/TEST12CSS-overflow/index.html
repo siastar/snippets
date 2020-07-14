@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>testCSS</title>
+
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<!-- ************************************************************** -->
+
+<body>
+
+
+    <div class="container">
+        <p>this first box text overlaps the second box</p>
+        <div class="box1">
+            The standard chunk of Lorem Ipsum used since the 1500s is reproduced
+            below for those interested. Sections 1.10.32 and 1.10.33 from
+            "de Finibus Bonorum et Malorum" by Cicero are also reproduced in
+            their exact original form, accompanied by English versions from
+            ùthe 1914 translation by H. Rackham.
+        </div>
+        <div class="box2">
+            It is a long established fact that a reader will be
+            distracted by the readable content of a page when looking at its layout.
+        </div>
+        <p>this text overflows the box margins</p>
+
+        <div class="box3">aLongWordThatWillNotFitTheBorders</div>
+
+        <p>this box text disappears because of CSS property <code> overflows:hidden </code></p>
+        <div class="box4">
+          The standard chunk of Lorem Ipsum used since the 1500s is reproduced
+          below for those interested. Sections 1.10.32 and 1.10.33 from
+          "de Finibus Bonorum et Malorum" by Cicero are also reproduced in
+          their exact original form, accompanied by English versions from
+          ùthe 1914 translation by H. Rackham.
+        </div>
+
+	<p>
+	  this box text disappears because of CSS property
+	  and shows both x and y scrollbar
+	  <code> overflow:scroll </code>
+	</p>
+        <div class="box5">
+          The standard chunk of Lorem Ipsum used since the 1500s is reproduced
+          below for those interested. Sections 1.10.32 and 1.10.33 from
+          "de Finibus Bonorum et Malorum" by Cicero are also reproduced in
+          their exact original form, accompanied by English versions from
+          ùthe 1914 translation by H. Rackham.
+        </div>
+
+	
+	<p>
+	  this box text disappears because of CSS property
+	  and shows only  y scrollbar
+	  <code> overflow-y:scroll </code>
+	</p>
+        <div class="box5">
+          The standard chunk of Lorem Ipsum used since the 1500s is reproduced
+          below for those interested. Sections 1.10.32 and 1.10.33 from
+          "de Finibus Bonorum et Malorum" by Cicero are also reproduced in
+          their exact original form, accompanied by English versions from
+          ùthe 1914 translation by H. Rackham.
+        </div>
+
+	<p>
+	  this box text disappears because of CSS property
+	  and shows only x scrollbar
+	  <code> overflow-x:scroll </code>
+	</p>
+        <div class="box6">aLongWordThatWillNotFitTheBorders</div>
+	
+    </div>
+
+
+
+</body>
+
+</html>

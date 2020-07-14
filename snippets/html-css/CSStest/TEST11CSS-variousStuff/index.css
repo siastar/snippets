@@ -1,6 +1,6 @@
 .container {
   background-color: hotpink;
-  border: 5px solid red;
+  border: 5px solid darkcyan;
   margin: 20px;
   padding: 20px;
 }
@@ -11,10 +11,11 @@
 }
 
 ul {
-    background-color: blanchedalmond;
-    border: 1px solid gold;
-    padding: 10px;
-    margin: 5px;
+  background-color: black;
+  border: 1px solid gold;
+  padding: 10px;
+  margin: 5px;
+  display: flex;
 }
 
 li {
@@ -23,4 +24,121 @@ li {
   border: 1px solid limegreen;
   margin: 5px;
   padding: 10px;
+  list-style: none;
+}
+
+code {
+  background-color: black;
+  color: gold;
+}
+
+.singleblock {
+  color: white;
+  display: block;
+  background-color: purple;
+  border: 1px solid greenyellow;
+  width: 300px;
+  height: 100px;
+  margin: 20px;
+}
+
+.par02 {
+  background-color: turquoise;
+  display: inline;
+  border: 1px solid blueviolet;
+  padding: 5px;
+  margin: 5px;
+}
+
+.mybox {
+  background-color: darkblue;
+  color: lime;
+  width: 300px;
+  height: 250px;
+  margin: 20px;
+  padding: 20px;
+  border: 15px solid brown;
+}
+
+.myspecialbox {
+  box-sizing: border-box;
+  background-color: darkblue;
+  color: lime;
+  width: 300px;
+  height: 250px;
+  margin: 20px;
+  padding: 20px;
+  border: 15px solid brown;
+}
+
+div[class*="box"] {
+  box-sizing: border-box;
+}
+
+/*CSS wildcard takes all the classes starting with box*/
+
+.box1 {
+  background-color: darkblue;
+  color: lime;
+  width: 600px;
+  height: 650px;
+  margin: 20px;
+  padding: 20px;
+  border: 5px solid brown;
+}
+
+.box2 {
+  background-color: pink;
+  color: blue;
+  width: 400px;
+  height: 450px;
+  margin: 20px;
+  padding: 20px;
+  border: 5px solid brown;
+}
+
+.box3 {
+  background-color: cyan;
+  color: brown;
+  width: 300px;
+  height: 350px;
+  margin: 20px;
+  padding: 20px;
+  border: 5px solid brown;
+}
+
+.testspan1 {
+  margin: 20px;
+  padding: 20px;
+  background-color: darkcyan;
+  color: cyan;
+}
+
+.par03 {
+  /* background-color: yellow; */
+  /* border: 2px solid brown; */
+  color: darkblue;
+}
+
+.testspan2 {
+  display: inline-block;
+  margin: 20px;
+  padding: 20px;
+  background-color: darkcyan;
+  color: cyan;
+}
+
+.linklist a {
+    background-color: cyan;
+    border: 10px solid blue;
+}
+
+.speciallink {
+  background-color: gold;
+  color: blue;
+  border: 2px solid darkturquoise;
+  margin: 4px;
+  padding: 10px;
+  list-style: none;
+  display: inline-block;
 }

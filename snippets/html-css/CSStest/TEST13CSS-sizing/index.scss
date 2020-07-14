@@ -1,0 +1,204 @@
+// *{
+//     margin: 0 !important;
+//     padding: 0 !important;
+//     line-height: 0 !important;
+
+// }
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+// html, body, div, span, applet, object, iframe,
+// h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+// a, abbr, acronym, address, big, cite, code,
+// del, dfn, em, img, ins, kbd, q, s, samp,
+// small, strike, strong, sub, sup, tt, var,
+// b, u, i, center,
+// dl, dt, dd, ol, ul, li,
+// fieldset, form, label, legend,
+// table, caption, tbody, tfoot, thead, tr, th, td,
+// article, aside, canvas, details, embed,
+// figure, figcaption, footer, header, hgroup,
+// menu, nav, output, ruby, section, summary,
+// time, mark, audio, video {
+// 	margin: 0;
+// 	padding: 0;
+// 	border: 0;
+// 	font-size: 100%;
+// 	font: inherit;
+// 	vertical-align: baseline;
+// }
+// /* HTML5 display-role reset for older browsers */
+// article, aside, details, figcaption, figure,
+// footer, header, hgroup, menu, nav, section {
+// 	display: block;
+// }
+// body {
+// 	line-height: 1;
+// }
+// ol, ul {
+// 	list-style: none;
+// }
+// blockquote, q {
+// 	quotes: none;
+// }
+// blockquote:before, blockquote:after,
+// q:before, q:after {
+// 	content: '';
+// 	content: none;
+// }
+// table {
+// 	border-collapse: collapse;
+// 	border-spacing: 0;
+// }
+
+code {
+  background-color: black;
+  color: gold;
+  font-size: 150%;
+	    
+}
+
+.container {
+  margin: 10px;
+  border: 2px solid blue;
+  background-color: lime;
+}
+
+.box1 {
+  margin: 10px;
+  border: 5px solid green;
+}
+
+.image1 {
+  padding: 10px;
+  margin: 10px;
+  border: 5px solid red;
+}
+
+.box2 {
+  margin: 10px;
+  border: 5px solid goldenrod;
+  height: 100px;
+  width: 100px;
+}
+
+.wrapper1 {
+  padding: 20px;
+  border: 3px solid purple;
+  background-color: cyan;
+  width: 600px;
+  height: 300px;
+}
+
+.box3 {
+  width: 60%;
+  height: 40%;
+  border: 2px solid blue;
+  background-color: yellow;
+}
+
+.wrapper2 {
+    margin: 20px;
+  padding: 20px;
+  border: 5px solid darkslateblue;
+  background-color: turquoise;
+  width: 900px;
+  height: 600px;
+}
+
+.box4 {
+  display: inline-block;
+  width: 130px;
+  min-height: 100px;
+  border: 2px solid blue;
+  background-color: hotpink;
+  padding: 5px;
+  //vertical-align: middle;
+  //line-height: 50px;
+}
+
+.box5 {
+  display: inline-block;
+  width: 130px;
+  min-height: 100px;
+  border: 2px solid blue;
+  background-color: hotpink;
+  padding: 5px;
+  vertical-align: middle;
+  //line-height: 50px;
+}
+
+.box6 {
+  display: inline-block;
+  width: 130px;
+  min-height: 100px;
+  border: 2px solid blue;
+  background-color: hotpink;
+  padding: 5px;
+  vertical-align: top;
+  //line-height: 50px;
+}
+
+.box7 {
+  display: inline-block;
+  width: 130px;
+  min-height: 100px;
+  border: 2px solid blue;
+  background-color: hotpink;
+  padding: 5px;
+  vertical-align: bottom;
+  //line-height: 50px;
+}
+
+.image2 {
+  width: 100%;  
+}
+
+
+.image3 {
+  max-width: 100%;  
+}
+
+.largebox {
+  display: inline-block;
+  width: 300px;
+  //height: 200px;
+  border: 2px solid blue;
+  background-color: hotpink;
+  vertical-align: top;
+  padding: 15px;
+  //line-height: 50px;
+}
+
+
+.midbox {
+  display: inline-block;
+  width: 200px;
+  //height: 200px;
+  border: 2px solid blue;
+  background-color: hotpink;
+  vertical-align: top;
+  //line-height: 50px;
+}
+
+
+.littlebox {
+  display: inline-block;
+  width: 90px;
+  //height: 200px;
+  border: 2px solid blue;
+  background-color: hotpink;
+  vertical-align: top;
+  //line-height: 50px;
+}
+
+.box8 {
+  border: 5px solid darkblue;
+  width: 20vw;
+  height: 20vh;
+  font-size: 10vh;
+}
+    

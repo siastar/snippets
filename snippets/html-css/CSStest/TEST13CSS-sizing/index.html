@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>testCSS</title>
+
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="index.scss">
+</head>
+
+<!-- ************************************************************** -->
+
+<body>
+
+    <div class="container">
+
+        <p>next is a box containing an image</p>
+        <p>the image has no declared dimension in CSS so its displayed in its true dimensions</p>
+        <p>plus there is a:</p>
+        <ul>
+            <li>padding 10px</li>
+            <li>margin 10px</li>
+            <li>border 5px</li>
+            <li></li>
+        </ul>
+        <div class="box1">
+            <img class="image1" alt="star" src="img/star.png" />
+        </div>
+        <hr />
+        <p>next is an empty box with declared dimensions (100x100px)</p>
+        <div class="box2">
+        </div>
+        <hr />
+        <div class="box2">
+            this text goes out of the box
+            test test test test test test
+            test test test test test test
+            test test test test test test
+        </div>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <div class="wrapper1">
+            <p>this is a "wrapper" container of 600x300px</p>
+            <div class="box3">
+                <p>this is a box whose dimension are</p>
+                <ul>
+                    <li>60% of its wrapper width</li>
+                    <li>40% of its wrapper height</li>
+                </ul>
+            </div>
+            <ul>
+            </ul>
+        </div>
+        <hr />
+
+        <div class="wrapper2">
+            <p>
+                next boxes are set to <code>display: inline-block</code> and
+                <code>min-height:100px</code> this causes that the box containing the longest
+                text will affect all the others in order to respect the inline requirements, unless
+                a <code>vertical-align</code> property is specified to <strong>top - middle- bottom</strong>
+                <br />
+                The first box is empty.
+            </p>
+
+            <div class="box4"></div>
+            <div class="box4">
+                <p>search for 'lorem ipsum' will uncover many web sites still in their</p>
+            </div>
+            <div class="box4">
+                <p>
+                    It is a long established fact that a reader will be distracted
+                    by the readable content of a page when looking at its layout.
+                    It is a long established fact that a reader will be distracted
+                    by the readable content of a page when looking at its layout.
+                </p>
+            </div>
+            <div class="box4">
+                <p>sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+            </div>
+        </div>
+        <div class="wrapper2">
+            <p>this can be controlled with <code>vertical-align</code> property</p>
+            <p>here is <code>vertical-align: middle;</code> set in the boxes properties</p>
+            <div class="box5"></div>
+            <div class="box5">
+                <p>search for 'lorem ipsum' will uncover many web sites still in their</p>
+            </div>
+            <div class="box5">
+                <p>
+                    It is a long established fact that a reader will be distracted
+                    by the readable content of a page when looking at its layout.
+                    It is a long established fact that a reader will be distracted
+                    by the readable content of a page when looking at its layout.
+                    earch for 'lorem ipsum' will uncover many web sites still in their
+                </p>
+            </div>
+            <div class="box5">
+                <p>sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+            </div>
+        </div>
+
+        <div class="wrapper2">
+            <p>here is <code>vertical-align: top;</code> set in the boxes properties</p>
+            <div class="box6"></div>
+            <div class="box6">
+                <p>search for 'lorem ipsum' will uncover many web sites still in their</p>
+            </div>
+            <div class="box6">
+                <p>
+                    It is a long established fact that a reader will be distracted
+                    by the readable content of a page when looking at its layout.
+                    It is a long established fact that a reader will be distracted
+                    by the readable content of a page when looking at its layout.
+                </p>
+            </div>
+            <div class="box6">
+                <p>sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+            </div>
+        </div>
+
+
+        <div class="wrapper2">
+            <p>here is <code>vertical-align: botton;</code> set in the boxes properties</p>
+            <div class="box7"></div>
+            <div class="box7">
+                <p>search for 'lorem ipsum' will uncover many web sites still in their</p>
+            </div>
+            <div class="box7">
+                <p>
+                    It is a long established fact that a reader will be distracted
+                    by the readable content of a page when looking at its layout.
+                    It is a long established fact that a reader will be distracted
+                </p>
+            </div>
+            <div class="box7">
+                <p>sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+            </div>
+        </div>
+
+        <div class="wrapper2">
+            <div class="largebox">
+                <img class="image2" alt="" src="img/star.png" />
+            </div>
+            <div class="midbox">
+                <img class="image3" alt="" src="img/star.png" />
+            </div>
+            <div class="littlebox">
+                <img class="image3" alt="" src="img/star.png" />
+            </div>
+
+            <p>the intrinsec dimension of the image are 132x126px</p>
+            <p><strong>first box:</strong> the image is set to <code>width:100%</code> and stretches to its container dimension (<code>width:300;</code>)</p>
+            <p><strong>second box:</strong> the image is set to <code>max-width: 100%</code> and it stretches to is intrinsec dimension regardless of the container dimension</p>
+            <p><strong>third box:</strong> the image is set to <code>max-width: 100%</code> and it shrinks to its container dimension</p>
+            <p><code>max-width</code> gives a variable width property which set a limit if the content size grows, but not if decreases </p>
+        </div>
+
+        <div class="wrapper2">
+            <p>viewport dimension (vw & vh)</p>
+            <div class="box8">test</div>
+	    <br/>
+	    <code>
+                .box8 { <br/>
+                border: 5px solid darkblue;<br/>
+                width: 20vw;<br/>
+                height: 20vh;<br/>
+                font-size: 10vh;<br/>
+                }
+            </code>
+        </div>
+
+
+
+
+    </div>
+</body>
+
+</html>

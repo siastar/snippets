@@ -14,21 +14,106 @@
 
 <body>
 
-  <div class="container"> this is the container
-    
-    <p class="par01"> this is first paragraph with class par01</p>
-    <p class="par01"> this is second paragraph with class par01</p>
+    <div class="container"> this is the container
 
-    <ul>
-      <p class="par01">this is an unordered list</p>
-      <li>item1</li>
-      <li>item2</li>
-      <li>item3</li>
-      <li>item4</li>
-    </ul>
-    
+        <p class="par01"> this is first paragraph with <code>class="par01"</code></p>
+        <p class="par01"> this is second paragraph with <code>class="par01"</code></p>
+        <br />
+        <p class="par01">next is an unordered list with <code>display: flex</code></p>
+        <ul>
+            <li>item1</li>
+            <li>item2</li>
+            <li>item3</li>
+            <li>item4</li>
+        </ul>
+
+        <p class="par01">
+            next is a 3rd paragraph with <code>class="par01"</code>
+            but in the middle there is a
+            <span class="singleblock">«span» element that
+                is displayed with <code>display: block</code>
+                that breaks in a new line and inserts the element
+            </span>
+            plus other text just to show what goes on.
+        </p>
+
+        <ul>
+            <li>item1</li>
+            <li>item2</li>
+            <p class="par02">inline paragraph</p>
+            <p class="par02">another inline paragraph</p>
+            <p class="par02">another inline paragraph</p>
+            <p class="par02">another inline paragraph</p>
+
+        </ul>
+
+
+        <div class="mybox">
+            this is a standard CSS box model
+            and its total dimension is
+            width/height + 2*padding + 2*border
+        </div>
+
+        <div class="myspecialbox">
+            this is a special CSS box model
+            and its total dimensions are
+            constrained in its weight and height values
+            because of CSS attribute
+            <code>box-sizing: border-box</code>
+        </div>
+
+        <p class="par01">boxes inside boxes</p>
+        <div class="box1"> box1 <code>div[class*='box'] {box-sizing: border-box }</code>
+            <div class="box2"> box2 <code>div[class*='box'] {box-sizing: border-box }</code>
+                <div class="box3"> box3 <code>div[class*='box'] {box-sizing: border-box }</code></div>
+            </div>
+        </div>
+
+        <hr />
+
+        <p class="par03">
+            Contrary to popular belief, Lorem Ipsum is not simply random text.
+            It has roots in a piece of classical Latin literature from 45 BC,
+            making it over 2000 years old. Richard McClintock, a Latin professor
+            at Hampden-Sydney College in Virginia,
+            <span class="testspan1">
+                <strong>
+                    this is a test box
+                    that appears inline
+                    but overlaps with other text
+                    messing things up.
+                </strong>
+            </span>
+            looked up one of the more obscure Latin words, consectetur, from
+            a Lorem Ipsum passage, and going through the cites of the word in
+            classical literature, discovered the undoubtable source.
+        </p>
+        <hr />
+        <p class="par03">
+            Contrary to popular belief, Lorem Ipsum is not simply random text.
+            It has roots in a piece of classical Latin literature from 45 BC,
+            making it over 2000 years old. Richard McClintock, a Latin professor
+            at Hampden-Sydney College in Virginia,
+            <span class="testspan2">
+              <strong>
+                this is a test box styled with
+                <code>display:inline-block</code>
+              </strong>
+            </span>
+            looked up one of the more obscure Latin words, consectetur, from
+            a Lorem Ipsum passage, and going through the cites of the word in
+            classical literature, discovered the undoubtable source.
+        </p>
+	<hr/>
+
+	  <ul class="linklist">
+	    <li class="speciallink"><a href="">first link</a></li>
+	    <li class="speciallink"><a href="">second link</a></li>
+	    <li class="speciallink"><a href="">third link</a></li>
+	    <li class="speciallink"><a href="">fourth link</a></li>
+	  </ul>
+
     </div>
-  
 </body>
 
 </html>
