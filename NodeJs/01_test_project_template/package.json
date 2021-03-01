@@ -12,6 +12,6 @@
     "dungeon-generator": "0.0.1",
     "events": "^3.0.0",
     "jsdom": "^15.1.1",
-    "three": "^0.105.2"
+    "three": "^0.125.0"
   }
 }
