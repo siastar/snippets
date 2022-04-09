@@ -21,7 +21,7 @@
     "express": "^4.14.0",
     "gmail-send": "^1.2.14",
     "googleapis": "^40.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mongodb": "^3.1.13",
     "mongoose": "^5.4.9",
     "mongoose-metadata": "^1.0.3",
